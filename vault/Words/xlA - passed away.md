@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xlw - empty]]
+- [[xlw - passed away]]
 
 ### Meaning
 **passed away** · Lemma **خَلا**

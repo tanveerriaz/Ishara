@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>sr - bind capture]]
+- [[>sr - as captives]]
 
 ### Meaning
 **as captives** · Lemma **أَسِير**

@@ -16,18 +16,18 @@ The Disbelievers · 6 ayahs
 
 - [[EAbd - worshippers]] — `عابِد` · worshippers
 - [[qAl - say]] — `قالَ` · say
-- [[>y - o you]] — `أَيّ` · o you
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
 - [[dyn - religion]] — `دِين` · religion
 - [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[>y - o you]] — `أَيّ` · o you
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
 
 ## Roots
 
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Ebd - worship]]
 - [[dyn - judgment]]
 - [[kfr - disbelieve]]
-- [[qwl - qawala]]
+- [[qwl - say]]
 
 ## Sample (ayah 1)
 

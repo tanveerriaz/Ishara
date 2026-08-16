@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jdd - cut make something]]
+- [[jdd - new]]
 
 ### Meaning
 **new** · Lemma **جَدِيد**

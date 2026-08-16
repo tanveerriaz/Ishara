@@ -17,81 +17,81 @@ The Night Journey · 111 ayahs
 - [[qr> - read]] — `قَرَأَ` · read
 - [[kfwr - ungrateful]] — `كَفُور` · ungrateful
 - [[kAd - almost]] — `كادَ` · almost
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[ms}wl - questioned]] — `مَسْئُول` · questioned
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[zEm - claim]] — `زَعَمَ` · claim
-- [[jAnb - side]] — `جانِب` · side
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[x$yp - fear]] — `خَشْيَة` · fear
-- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
-- [[nfwr - aversion]] — `نُفُور` · aversion
-- [[xlAl - midst]] — `خِلال` · midst
-- [[kbr - old age]] — `كَبِّرْ` · old age
-- [[jdyd - new]] — `جَدِيد` · new
-- [[m$ - walk]] — `مَشَ` · walk
-- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
-- [[Elw - haughtiness]] — `عُلُوّ` · haughtiness
-- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
-- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[mnE - prevented you]] — `مَنَعَ` · prevented you
 - [[$r - evil]] — `شَرّ` · evil
-- [[bsT - extends]] — `بَسَطَ` · extends
+- [[mE*b - will punished]] — `مُعَذِّب` · will punished
+- [[xlAl - midst]] — `خِلال` · midst
+- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
+- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[nfwr - aversion]] — `نُفُور` · aversion
+- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[EZAm - bones]] — `عِظام` · bones
+- [[ms}wl - questioned]] — `مَسْئُول` · questioned
+- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
+- [[>bY - he refused]] — `أَبَى` · he refused
+- [[Enq - necks]] — `عُنُق` · necks
+- [[mnE - prevented you]] — `مَنَعَ` · prevented you
+- [[jAnb - side]] — `جانِب` · side
+- [[x$yp - fear]] — `خَشْيَة` · fear
+- [[kbr - old age]] — `كَبِّرْ` · old age
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fy - heal recover illness]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$fy - healing]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
+- [[$ms - sun]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
 - [[*mm - disgraced]]
-- [[*nb - tail]]
-- [[*rr - scattering dispersing small]]
+- [[*nb - sin]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>by - refuse]]
-- [[>dm - seasoned food]]
-- [[>ff - sound expression disgust]]
+- [[>by - he refused]]
+- [[>dm - o adam]]
+- [[>ff - word disrespect]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wb - return]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>wb - place return]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
-- [[ETw - take handle something]]
+- [[E*b - punishment]]
+- [[ETw - gift]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Edw - turn]]
+- [[Edd - number]]
+- [[Edw - enemy]]
 
 ## Sample (ayah 1)
 

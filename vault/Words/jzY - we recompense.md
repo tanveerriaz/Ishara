@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jzy - recompense reward]]
+- [[jzy - recompense]]
 
 ### Meaning
 **we recompense** · Lemma **جَزَى**

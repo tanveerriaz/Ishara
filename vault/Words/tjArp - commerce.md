@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[tjr - merchant trader]]
+- [[tjr - commerce]]
 
 ### Meaning
 **commerce** · Lemma **تِجارَة**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nhr - dig river channel]]
+- [[nhr - day]]
 
 ### Meaning
 **day** · Lemma **نَهار**

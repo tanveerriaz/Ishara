@@ -14,84 +14,84 @@ Jonah · 109 ayahs
 
 ## Words in this surah (graph)
 
+- [[sAHr - magician]] — `ساحِر` · magician
+- [[lqA' - meeting]] — `لِقاء` · meeting
 - [[mrjE - return]] — `مَرْجِع` · return
 - [[njY - we saved]] — `نَجَّى` · we saved
-- [[lqA' - meeting]] — `لِقاء` · meeting
-- [[sAHr - magician]] — `ساحِر` · magician
-- [[sHr - magic]] — `سِحْر` · magic
-- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[Dr - adversity]] — `ضَرّ` · adversity
-- [[qr'An - quran]] — `قُرْءان` · quran
 - [[>njY - we saved]] — `أَنجَى` · we saved
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
-- [[$k - doubt]] — `شَكّ` · doubt
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[ydbr - disposing]] — `يُدَبِّرُ` · disposing
-- [[nhAr - day]] — `نَهار` · day
-- [[bHr - sea]] — `بَحْر` · sea
+- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[Dr - adversity]] — `ضَرّ` · adversity
+- [[sHr - magic]] — `سِحْر` · magic
 - [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[EAqbp - end]] — `عاقِبَة` · end
+- [[nhAr - day]] — `نَهار` · day
 - [[Sdq - truth]] — `صَدَقَ` · truth
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[yntZr - wait]] — `يَنتَظِرُ` · wait
+- [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[*lp - humiliation]] — `ذِلَّة` · humiliation
-- [[mkAn - place]] — `مَكان` · place
-- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
 - [[>*Aq - surely]] — `أَذاقَ` · surely
-- [[bgy - rebellion]] — `بَغْي` · rebellion
-- [[mntZr - ones wait]] — `مُنتَظِر` · ones wait
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
+- [[An - now]] — `آن` · now
+- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[bd> - originates]] — `بَدَأَ` · originates
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[mkAn - place]] — `مَكان` · place
+- [[bHr - sea]] — `بَحْر` · sea
 
 ## Roots
 
-- [[$>n - matter]]
+- [[$>n - any situation]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$fy - heal recover illness]]
-- [[$hd - witnessing]]
-- [[$kk - doubt uncertain about]]
+- [[$fE - intercession]]
+- [[$fy - healing]]
+- [[$hd - witness]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
+- [[$ms - sun]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[*rr - scattering dispersing small]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>wn - now]]
-- [[>wy - betake oneself place]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
 - [[Dw> - light]]
-- [[E*b - motes particles floating]]
-- [[ESf - stormy]]
-- [[ESm - tie cord]]
-- [[ESy - disobey]]
+- [[E*b - punishment]]
+- [[ESf - husk]]
+- [[ESm - hold fast]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Edw - turn]]
-- [[Ejb - amazing]]
+- [[Edd - number]]
+- [[Edw - enemy]]
+- [[Ejb - pleases you]]
 
 ## Sample (ayah 1)
 

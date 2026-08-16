@@ -14,84 +14,84 @@ The Ornaments of Gold · 89 ayahs
 
 ## Words in this surah (graph)
 
-- [[Antqm - so we took]] — `انتَقَمْ` · so we took
 - [[qryn - companion]] — `قَرِين` · companion
-- [[mSr - egypt]] — `مِصْر` · egypt
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[HyAp - life]] — `حَياة` · life
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[mqrn - bound together]] — `مُقَرَّن` · bound together
-- [[zxrf - decorative]] — `زُخْرُف` · decorative
-- [[nAdY - he called]] — `نادَى` · he called
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[kArh - averse]] — `كارِه` · averse
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[yxrS - guess]] — `يَخْرُصُ` · guess
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
+- [[Antqm - so we took]] — `انتَقَمْ` · so we took
+- [[dwn - besides]] — `دُون` · besides
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[Astxf - you find light]] — `اسْتَخَفَّ` · you find light
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[qDY - surely]] — `قَضَى` · surely
 - [[xwf - fear]] — `خَوْف` · fear
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[dnyA - world]] — `دُنْيا` · world
+- [[fTr - created me]] — `فَطَرَ` · created me
+- [[fDp - silver]] — `فِضَّة` · silver
+- [[flk - ships]] — `فُلْك` · ships
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[bT$ - you seize]] — `بَطَشْ` · you seize
+- [[<nsAn - man]] — `إِنسان` · man
+- [[kZym - suppressor]] — `كَظِيم` · suppressor
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[EZym - great]] — `عَظِيم` · great
+- [[dEA - call]] — `دَعا` · call
+- [[xSm - opponents]] — `خَصْم` · opponents
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[kyf - how]] — `كَيْف` · how
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[kArh - averse]] — `كارِه` · averse
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
 - [[$hw - they desire]]
-- [[$rk - sharing partnership]]
-- [[$rq - earth]]
+- [[$rk - polytheists]]
+- [[$rq - east]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
+- [[>fk - lie]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
-- [[>sf - alas]]
+- [[>sf - grieved]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DHk - laugh]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
+- [[Drb - strike]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
-- [[Ehd - protection safeguard]]
+- [[Edw - enemy]]
+- [[Ehd - covenant]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
+- [[Elw - high]]
+- [[Eml - do]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Eql - withhold restrain]]
-- [[Er$ - shaded structure]]
+- [[Eqb - end]]
+- [[Eql - use reason]]
+- [[Er$ - throne]]
 - [[Erb - bedouins]]
-- [[Erj - ascend mount]]
+- [[Erj - ascend]]
 
 ## Sample (ayah 1)
 

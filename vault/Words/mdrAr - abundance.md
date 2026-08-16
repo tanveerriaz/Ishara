@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[drr - darra]]
+- [[drr - abundance]]
 
 ### Meaning
 **abundance** · Lemma **مِدْرار**

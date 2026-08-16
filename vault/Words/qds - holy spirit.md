@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qds - paradise]]
+- [[qds - holy spirit]]
 
 ### Meaning
 **holy spirit** · Lemma **قُدُس**

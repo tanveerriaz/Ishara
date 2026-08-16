@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kfl - responsible]]
+- [[kfl - dhul-kifl]]
 
 ### Meaning
 **dhul-kifl** · Lemma **كَفَّلَ**

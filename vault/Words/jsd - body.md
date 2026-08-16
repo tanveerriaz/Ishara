@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jsd - body rational being]]
+- [[jsd - body]]
 
 ### Meaning
 **body** · Lemma **جَسَد**

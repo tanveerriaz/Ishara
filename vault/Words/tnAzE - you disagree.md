@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nzE - pull out]]
+- [[nzE - stripping]]
 
 ### Meaning
 **you disagree** · Lemma **تَنازَعُ**

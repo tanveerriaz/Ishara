@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fwq - above]]
+- [[fwq - above them]]
 
 ### Meaning
 **above them** · Lemma **فَوْق**

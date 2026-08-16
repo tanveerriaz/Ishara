@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mvl - mathal]]
+- [[mvl - example]]
 
 ### Meaning
 **example** · Lemma **مَثَل**

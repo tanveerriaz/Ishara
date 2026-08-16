@@ -14,83 +14,83 @@ The Iron · 29 ayahs
 
 ## Words in this surah (graph)
 
+- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
+- [[ZAhr - apparent]] — `ظاهِر` · apparent
 - [[qrD - loan]] — `قَرْض` · loan
 - [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[TAl - then]] — `طالَ` · then
+- [[mwt - death]] — `مَوْت` · death
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[kbyr - great]] — `كَبِير` · great
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[dnyA - world]] — `دُنْيا` · world
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[nAs - people]] — `ناس` · people
+- [[nwr - light]] — `نُور` · light
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[nbwp - prophethood]] — `نُبُوَّة` · prophethood
+- [[qAm - stand]] — `قامَ` · stand
+- [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[ysyr - easy]] — `يَسِير` · easy
-- [[byn - between them]] — `بَيْن` · between them
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[mnAfE - benefits]] — `مَنافِع` · benefits
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[m>wY - abode]] — `مَأْوَى` · abode
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[grwr - delusion]] — `غُرُور` · delusion
+- [[fAt - escaped you]] — `فاتَ` · escaped you
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - witnessing]]
+- [[$hd - witness]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[*rr - scattering dispersing small]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
-- [[>md - period time defined]]
+- [[*kr - remember]]
+- [[*rr - offspring]]
+- [[>hl - people]]
+- [[>jr - reward]]
+- [[>md - was distance]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>ny - hours]]
 - [[>rD - earth]]
 - [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DEf - weak]]
-- [[Drb - strike beat]]
-- [[E*b - motes particles floating]]
+- [[Drb - strike]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Ejb - amazing]]
+- [[Edd - number]]
+- [[Ejb - pleases you]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eql - withhold restrain]]
-- [[Er$ - shaded structure]]
+- [[Eql - use reason]]
+- [[Er$ - throne]]
 - [[ErD - turn away]]
-- [[Erj - ascend mount]]
+- [[Erj - ascend]]
 - [[Ezz - all-mighty]]
-- [[HTm - break]]
+- [[HTm - debris]]
 - [[Hbb - love]]
-- [[Hdd - define]]
-- [[Hkm - prevent restrain someone]]
+- [[Hdd - limits]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
 - [[Hyy - life]]
-- [[SHb - lord]]
-- [[Sdq - speak truth]]
-- [[Sdr - front part something]]
-- [[Sfr - emptiness]]
-- [[Swb - descend go down]]
+- [[SHb - companion]]
+- [[Sdq - truthful]]
+- [[Sdr - breasts]]
+- [[Sfr - turn yellow]]
+- [[Swb - befalls you]]
 - [[Syr - destination]]
 
 ## Sample (ayah 1)

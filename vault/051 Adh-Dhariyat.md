@@ -16,82 +16,82 @@ The Winnowing Winds · 60 ayahs
 
 - [[mjnwn - madman]] — `مَجْنُون` · madman
 - [[Eqym - barren]] — `عَقِيم` · barren
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[Dyf - guests]] — `ضَيْف` · guests
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[ryH - wind]] — `رِيح` · wind
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
+- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[Et - were insolent]] — `عَتَ` · were insolent
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[qrb - both offered]] — `قَرَّبَ` · both offered
 - [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[mntSr - he supported]] — `مُنتَصِر` · he supported
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[ysr - ease]] — `يُسْر` · ease
+- [[>wjs - felt apprehension]] — `أَوْجَسَ` · felt apprehension
 - [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[mwqn - certain]] — `مُوقِن` · certain
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[allah - God]] — `الله` · God
+- [[msrf - transgressors]] — `مُسْرِف` · transgressors
+- [[glAm - boy]] — `غُلام` · boy
+- [[kl - every]] — `كُلّ` · every
+- [[Ax* - take it]] — `آخِذ` · take it
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[EAd - aad]] — `عادَ` · aad
+- [[jnd - hosts]] — `جُند` · hosts
+- [[mslm - muslims]] — `مُسْلِم` · muslims
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
 
 ## Roots
 
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
+- [[*kr - remember]]
+- [[*nb - sin]]
 - [[*wq - taste]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yd - earth]]
-- [[>yy - ism]]
-- [[Dyf - inclining]]
-- [[E*b - motes particles floating]]
+- [[>xr - hereafter]]
+- [[>yd - supports]]
+- [[>yy - signs]]
+- [[Dyf - guests]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
-- [[Ejl - incite cause someone]]
-- [[Ejz - old age weakness]]
+- [[Ejl - calf]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[Eqm - barren]]
-- [[Etw - pride]]
+- [[Etw - were insolent]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]
-- [[Hdv - accidents]]
+- [[Hdv - statement]]
 - [[Hjr - stones]]
-- [[Hkm - prevent restrain someone]]
-- [[Hml - bear]]
-- [[Hqq - established as true]]
-- [[Hrm - reverence]]
+- [[Hkm - all-wise]]
+- [[Hml - will bear]]
+- [[Hqq - truth]]
+- [[Hrm - al-haraam]]
 - [[Hsn - good]]
-- [[Hyn - period time]]
-- [[SEq - loud]]
-- [[SHb - lord]]
-- [[Sdq - speak truth]]
-- [[Srr - tie bind tightly]]
+- [[Hyn - time]]
+- [[SEq - thunderbolt]]
+- [[SHb - companion]]
+- [[Sdq - truthful]]
+- [[Srr - they persist]]
 - [[TEm - food]]
 - [[Tgy - transgression]]
 - [[TwE - obey]]
-- [[Tyn - plaster seal clay]]
-- [[Zlm - put something wrong]]
+- [[Tyn - clay]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
-- [[b$r - strip pare something]]
-- [[bSr - mental perception]]
-- [[bny - sons]]
+- [[b$r - man]]
+- [[bSr - all-seer]]
+- [[bny - son]]
 
 ## Sample (ayah 1)
 

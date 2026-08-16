@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bEl - husband]]
+- [[bEl - husbands]]
 
 ### Meaning
 **husbands** · Lemma **بَعْل**

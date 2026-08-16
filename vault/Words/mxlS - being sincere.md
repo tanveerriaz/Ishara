@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xlS - something becoming clear]]
+- [[xlS - being sincere]]
 
 ### Meaning
 **being sincere** · Lemma **مُخْلِص**

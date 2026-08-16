@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tyb - something good]]
+- [[Tyb - good things]]
 
 ### Meaning
 **good** · Lemma **طَيِّب**

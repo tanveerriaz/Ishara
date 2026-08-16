@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qSr - become short]]
+- [[qSr - will companions modest]]
 
 ### Meaning
 **will companions modest** · Lemma **قاصِرَة**

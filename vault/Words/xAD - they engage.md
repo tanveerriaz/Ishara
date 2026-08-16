@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xwD - wade pass through]]
+- [[xwD - they engage]]
 
 ### Meaning
 **they engage** · Lemma **خاضُ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wbl - extremity scapula]]
+- [[wbl - bad consequence]]
 
 ### Meaning
 **bad consequence** · Lemma **وَبال**

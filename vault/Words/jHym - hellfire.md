@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jHm - intense heat burning]]
+- [[jHm - hellfire]]
 
 ### Meaning
 **hellfire** · Lemma **جَحِيم**

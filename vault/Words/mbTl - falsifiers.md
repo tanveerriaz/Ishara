@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bTl - something becoming false]]
+- [[bTl - falsehood]]
 
 ### Meaning
 **falsifiers** · Lemma **مُبْطِل**

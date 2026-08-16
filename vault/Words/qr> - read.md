@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qr> - someone teaches others]]
+- [[qr> - quran]]
 
 ### Meaning
 **read** · Lemma **قَرَأَ**

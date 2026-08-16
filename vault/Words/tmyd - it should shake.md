@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[myd - feeling giddiness nausea]]
+- [[myd - it should shake]]
 
 ### Meaning
 **it should shake** · Lemma **تَمِيدَ**

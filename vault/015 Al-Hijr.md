@@ -14,84 +14,84 @@ The Rocky Tract · 99 ayahs
 
 ## Words in this surah (graph)
 
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
 - [[mElwm - known]] — `مَعْلُوم` · known
-- [[Dyf - guests]] — `ضَيْف` · guests
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
 - [[rjym - accursed]] — `رَجِيم` · accursed
-- [[mSbH - morning]] — `مُصْبِح` · morning
-- [[mnZr - given respite]] — `مُنظَر` · given respite
 - [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[qdr - restricts]] — `قَدَر` · restricts
 - [[md - spread]] — `مَدَّ` · spread
-- [[sAjd - prostrating]] — `ساجِد` · prostrating
+- [[Dyf - guests]] — `ضَيْف` · guests
+- [[mSbH - morning]] — `مُصْبِح` · morning
 - [[SyHp - shout]] — `صَيْحَة` · shout
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[ryH - wind]] — `رِيح` · wind
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[jnAH - blame]] — `جُناح` · blame
-- [[xAlq - creator]] — `خالِق` · creator
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[mnZr - given respite]] — `مُنظَر` · given respite
+- [[sAjd - prostrating]] — `ساجِد` · prostrating
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[jAn - any jinn]] — `جانّ` · any jinn
+- [[gAwy - deviators]] — `غاوي` · deviators
+- [[wd - wished]] — `وَدَّ` · wished
+- [[qDY - surely]] — `قَضَى` · surely
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[>tY - comes them]] — `أَتَى` · comes them
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[sbEp - seven]] — `سَبْعَة` · seven
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[sAfl - its downside]] — `سافِل` · its downside
+- [[gAbr - remain behind]] — `غابِر` · remain behind
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[<nsAn - man]] — `إِنسان` · man
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$hb - burning flame]]
-- [[$rk - sharing partnership]]
-- [[$rq - earth]]
+- [[$rk - polytheists]]
+- [[$rq - east]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
-- [[*kr - remember recall something]]
+- [[$yE - sects]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
-- [[>by - refuse]]
-- [[>hl - people house]]
+- [[>by - he refused]]
+- [[>hl - people]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Dyf - inclining]]
-- [[Dyq - become narrow strait]]
-- [[E*b - motes particles floating]]
+- [[Dyf - guests]]
+- [[Dyq - was straitened]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Emh - mental confusion]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Emh - wandering blindly]]
+- [[Eml - do]]
 - [[Emr - life]]
 - [[End - near]]
 - [[ErD - turn away]]
-- [[Erj - ascend mount]]
-- [[Ey$ - life sustenance]]
+- [[Erj - ascend]]
+- [[Ey$ - life]]
 - [[Eyn - eyes]]
-- [[H$r - gather collect people]]
-- [[HfZ - keep]]
+- [[H$r - will gathered]]
+- [[HfZ - guardian]]
 - [[Hjr - stones]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
-- [[Hyv - haythu]]
+- [[Hqq - truth]]
+- [[Hyv - wherever]]
 - [[Hyy - life]]
-- [[Hzn - become sorrowful]]
+- [[Hzn - will grieve]]
 
 ## Sample (ayah 1)
 

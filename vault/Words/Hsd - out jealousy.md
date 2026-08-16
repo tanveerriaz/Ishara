@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hsd - envy someone blessing]]
+- [[Hsd - out jealousy]]
 
 ### Meaning
 **out jealousy** · Lemma **حَسَد**

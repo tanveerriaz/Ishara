@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[w*r - wadara]]
+- [[w*r - leave]]
 
 ### Meaning
 **leave** · Lemma **يَذَرَ**

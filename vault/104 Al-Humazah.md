@@ -14,40 +14,40 @@ The Traducer · 9 ayahs
 
 ## Words in this surah (graph)
 
-- [[Edd - number]] — `عَدَد` · number
 - [[Hsb - think]] — `حَسْب` · think
 - [[nb* - threw away]] — `نَبَذَ` · threw away
-- [[Emd - pillars]] — `عَمَد` · pillars
-- [[kl - every]] — `كُلّ` · every
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[nAr - fire]] — `نار` · fire
 - [[>drY - can make you]] — `أَدْرَى` · can make you
 - [[allah - God]] — `الله` · God
 - [[mAl - wealth]] — `مال` · wealth
-- [[nAr - fire]] — `نار` · fire
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[Emd - pillars]] — `عَمَد` · pillars
+- [[kl - every]] — `كُلّ` · every
 - [[TlE - discover]] — `طَلَعَ` · discover
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[Edd - number]] — `عَدَد` · number
 
 ## Roots
 
-- [[Edd - count]]
-- [[Emd - tent pole column]]
-- [[HTm - break]]
-- [[Hsb - number]]
-- [[TlE - rising]]
+- [[Edd - number]]
+- [[Emd - pillars]]
+- [[HTm - debris]]
+- [[Hsb - account]]
+- [[TlE - discover]]
 - [[allah - God]]
-- [[dry - know]]
-- [[f>d - heart]]
+- [[dry - can make you]]
+- [[f>d - hearts]]
 - [[hmz - press]]
-- [[jmE - collection]]
+- [[jmE - all]]
 - [[kll - every]]
 - [[lmz - someone habitually blames]]
 - [[mdd - spread]]
 - [[mwl - wealth]]
-- [[nb* - cast throw away]]
-- [[nwr - brand mark camels]]
+- [[nb* - threw away]]
+- [[nwr - fire]]
 - [[wSd - open space court]]
-- [[wqd - waqada]]
-- [[xld - type bracelet earring]]
+- [[wqd - fuel]]
+- [[xld - abiding forever]]
 
 ## Sample (ayah 1)
 

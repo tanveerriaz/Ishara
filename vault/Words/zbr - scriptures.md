@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zbr - case well stones]]
+- [[zbr - scriptures]]
 
 ### Meaning
 **scriptures** · Lemma **زُبُر**

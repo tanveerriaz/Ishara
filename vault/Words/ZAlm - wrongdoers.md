@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Zlm - put something wrong]]
+- [[Zlm - wrongdoers]]
 
 ### Meaning
 **wrongdoers** · Lemma **ظالِم**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bld - country]]
+- [[bld - city]]
 
 ### Meaning
 **city** · Lemma **بَلَد**

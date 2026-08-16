@@ -10,28 +10,26 @@ import {
   type PointerEvent as ReactPointerEvent,
 } from 'react'
 import MiniSearch from 'minisearch'
+import { displaySlug, trailLabel } from './display'
 import { GraphView } from './GraphView'
 import { NotePanel } from './NotePanel'
 import { ResizeHandle } from './ResizeHandle'
 import { TouchGuide } from './TouchGuide'
 import type { GraphData, GraphNode, NoteData, SearchDoc } from './types'
+import { useFocusHistory, type FocusSnap } from './useFocusHistory'
 
 const STACK_MQ = '(max-width: 860px)'
 const LS_NOTE_WIDTH = 'ishara-note-width'
 const LS_NOTE_HEIGHT = 'ishara-note-height-v8'
 const LS_TOUCH_GUIDE = 'ishara-touch-guide-v2'
+const LS_RECENT = 'ishara-recent-searches'
 const MIN_NOTE_PX = 160
 const MAX_NOTE_FRAC = 0.82
 const DEFAULT_NOTE_WIDTH = 380
 const DEFAULT_NOTE_HEIGHT_FRAC = 0.64
 const MOBILE_SHEET_PEEK_PX = 52
 const MOBILE_SHEET_TOP_GAP_PX = 104
-const MAX_HISTORY = 24
-
-type ViewSnap = {
-  focusId: string | null
-  mode: 'local' | 'global'
-}
+const MAX_RECENT = 8
 
 function isQuranNode(n: GraphNode): boolean {
   return n.type === 'word' || n.type === 'root' || n.type === 'surah'
@@ -44,7 +42,8 @@ function detectLowPower(): boolean {
   const saveData =
     'connection' in navigator &&
     Boolean((navigator as Navigator & { connection?: { saveData?: boolean } }).connection?.saveData)
-  return narrow || coarse || saveData
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+  return narrow || coarse || saveData || reduceMotion
 }
 
 function readStoredPx(key: string, fallback: number): number {
@@ -55,6 +54,18 @@ function readStoredPx(key: string, fallback: number): number {
     return Number.isFinite(n) && n > 0 ? n : fallback
   } catch {
     return fallback
+  }
+}
+
+function readRecent(): string[] {
+  try {
+    const raw = localStorage.getItem(LS_RECENT)
+    if (!raw) return []
+    const parsed = JSON.parse(raw) as unknown
+    if (!Array.isArray(parsed)) return []
+    return parsed.filter((x): x is string => typeof x === 'string').slice(0, MAX_RECENT)
+  } catch {
+    return []
   }
 }
 
@@ -127,10 +138,11 @@ export default function App() {
   const [loadError, setLoadError] = useState<string | null>(null)
   const [graphError, setGraphError] = useState<string | null>(null)
   const [graphLoading, setGraphLoading] = useState(false)
-  const [canGoBack, setCanGoBack] = useState(false)
   const [sheetOpen, setSheetOpen] = useState(false)
   const [sheetDragging, setSheetDragging] = useState(false)
   const [touchGuideVisible, setTouchGuideVisible] = useState(false)
+  const [graphMenuOpen, setGraphMenuOpen] = useState(false)
+  const [recentSearches, setRecentSearches] = useState<string[]>(readRecent)
   const [stacked, setStacked] = useState(() =>
     typeof window !== 'undefined' ? window.matchMedia(STACK_MQ).matches : false,
   )
@@ -144,6 +156,7 @@ export default function App() {
     typeof window === 'undefined' ? 640 : mobileSheetMax(window.innerHeight),
   )
   const mainRef = useRef<HTMLDivElement>(null)
+  const searchWrapRef = useRef<HTMLDivElement>(null)
   const noteWidthRef = useRef(noteWidth)
   const noteHeightRef = useRef(noteHeight)
   noteWidthRef.current = noteWidth
@@ -158,9 +171,12 @@ export default function App() {
   }, [])
   const focusIdRef = useRef(focusId)
   const modeRef = useRef(mode)
+  const queryRef = useRef(query)
+  const noteRef = useRef(note)
   focusIdRef.current = focusId
   modeRef.current = mode
-  const historyRef = useRef<ViewSnap[]>([])
+  queryRef.current = query
+  noteRef.current = note
   const localGraphCache = useRef(new Map<string, GraphData>())
   const localGraphRequest = useRef(0)
   const fullGraphRequest = useRef<Promise<GraphData | null> | null>(null)
@@ -168,6 +184,7 @@ export default function App() {
   const ignoreNextGraphClick = useRef(false)
   const graphTapRef = useRef<{ x: number; y: number; moved: boolean } | null>(null)
   const lastOpenHeightRef = useRef(noteHeight)
+  const byIdRef = useRef(new Map<string, SearchDoc | GraphNode>())
   const heightInitialized = useRef(
     (() => {
       try {
@@ -178,16 +195,22 @@ export default function App() {
     })(),
   )
 
-  const pushHistory = useCallback(() => {
-    const snap: ViewSnap = { focusId: focusIdRef.current, mode: modeRef.current }
-    const last = historyRef.current[historyRef.current.length - 1]
-    if (last && last.focusId === snap.focusId && last.mode === snap.mode) return
-    historyRef.current = [...historyRef.current.slice(-(MAX_HISTORY - 1)), snap]
-    setCanGoBack(historyRef.current.length > 0)
+  const rememberRecent = useCallback((q: string) => {
+    const trimmed = q.trim()
+    if (trimmed.length < 2) return
+    setRecentSearches((prev) => {
+      const next = [trimmed, ...prev.filter((x) => x.toLowerCase() !== trimmed.toLowerCase())].slice(0, MAX_RECENT)
+      try {
+        localStorage.setItem(LS_RECENT, JSON.stringify(next))
+      } catch {
+        /* ignore */
+      }
+      return next
+    })
   }, [])
 
   useEffect(() => {
-    const mq = window.matchMedia('(max-width: 900px), (pointer: coarse)')
+    const mq = window.matchMedia('(max-width: 900px), (pointer: coarse), (prefers-reduced-motion: reduce)')
     const sync = () => setLowPower(detectLowPower())
     sync()
     mq.addEventListener('change', sync)
@@ -386,6 +409,7 @@ export default function App() {
     if (fullGraph) {
       for (const n of fullGraph.nodes) m.set(n.id, n)
     }
+    byIdRef.current = m
     return m
   }, [fullGraph, searchDocs])
 
@@ -409,25 +433,6 @@ export default function App() {
     return !detectLowPower()
   })
   const [versesLoading, setVersesLoading] = useState(false)
-
-  const syncUrl = useCallback((id: string | null, slug?: string) => {
-    try {
-      const url = new URL(window.location.href)
-      if (id && slug) {
-        url.searchParams.set('focus', slug)
-        url.searchParams.delete('id')
-      } else if (id) {
-        url.searchParams.set('id', id)
-        url.searchParams.delete('focus')
-      } else {
-        url.searchParams.delete('focus')
-        url.searchParams.delete('id')
-      }
-      window.history.replaceState({}, '', url.toString())
-    } catch {
-      /* ignore */
-    }
-  }, [])
 
   const loadNote = useCallback(async (id: string | null) => {
     if (!id) {
@@ -529,23 +534,66 @@ export default function App() {
     void loadFullGraph()
   }, [loadFullGraph])
 
+  const applyFocus = useCallback(
+    async (snap: FocusSnap, opts?: { openSheet?: boolean }) => {
+      setFocusId(snap.focusId)
+      setMode(snap.mode)
+      if (snap.query != null) setQuery(snap.query)
+      setResultsOpen(false)
+      if (snap.focusId) {
+        if (stacked && (opts?.openSheet ?? true)) openSheet()
+        await Promise.all([
+          loadNote(snap.focusId),
+          snap.mode === 'local' ? loadLocalGraph(snap.focusId) : Promise.resolve(),
+        ])
+      } else {
+        setNote(null)
+        setNoteLoading(false)
+        if (stacked) collapseSheet()
+        if (snap.mode === 'global') void loadFullGraph()
+      }
+    },
+    [collapseSheet, loadFullGraph, loadLocalGraph, loadNote, openSheet, stacked],
+  )
+
+  const {
+    canGoBack,
+    prevTrail,
+    pushFocus,
+    replaceFocus,
+    seedInitial,
+    goBack: historyGoBack,
+  } = useFocusHistory({
+    onRestore: (snap) => {
+      void applyFocus(snap, { openSheet: Boolean(snap.focusId) })
+    },
+    getSlug: (id) => byIdRef.current.get(id)?.slug,
+  })
+
   const selectId = useCallback(
     async (id: string, opts?: { skipHistory?: boolean; mode?: 'local' | 'global'; openSheet?: boolean }) => {
       const nextMode = opts?.mode ?? 'local'
-      if (!opts?.skipHistory) {
-        const cur = focusIdRef.current
-        const curMode = modeRef.current
-        if (cur !== id || curMode !== nextMode) pushHistory()
+      const cur = focusIdRef.current
+      const curMode = modeRef.current
+      if (!opts?.skipHistory && (cur !== id || curMode !== nextMode)) {
+        const doc = cur ? byIdRef.current.get(cur) : null
+        const label = doc
+          ? trailLabel(doc.slug || doc.title, 'label' in doc ? doc.label : undefined)
+          : noteRef.current
+            ? trailLabel(noteRef.current.slug, noteRef.current.meaning)
+            : undefined
+        pushFocus(
+          { focusId: id, mode: nextMode, query: queryRef.current },
+          label || undefined,
+        )
+      } else if (opts?.skipHistory) {
+        replaceFocus({ focusId: id, mode: nextMode, query: queryRef.current })
       }
-      setFocusId(id)
-      setMode(nextMode)
-      setResultsOpen(false)
+      rememberRecent(queryRef.current)
       setQuery('')
-      if (stacked && (opts?.openSheet ?? !opts?.skipHistory)) openSheet()
-      syncUrl(id, byId.get(id)?.slug)
-      await Promise.all([loadNote(id), nextMode === 'local' ? loadLocalGraph(id) : Promise.resolve()])
+      await applyFocus({ focusId: id, mode: nextMode }, { openSheet: opts?.openSheet ?? !opts?.skipHistory })
     },
-    [byId, loadLocalGraph, loadNote, openSheet, pushHistory, stacked, syncUrl],
+    [applyFocus, pushFocus, rememberRecent, replaceFocus],
   )
 
   // Deep links work as soon as the compact search index is ready.
@@ -556,54 +604,62 @@ export default function App() {
     const focus = params.get('focus')
     const idParam = params.get('id')
     const id = (focus && bySlug.get(focus)) || idParam || null
+    initialUrlHandled.current = true
     if (id && byId.has(id)) {
-      initialUrlHandled.current = true
-      void selectId(id, { skipHistory: true })
+      seedInitial({ focusId: id, mode: 'local' })
+      void applyFocus({ focusId: id, mode: 'local' }, { openSheet: true })
+    } else {
+      seedInitial({ focusId: null, mode: 'global' })
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps -- only on first data ready
   }, [searchDocs.length, fullGraph])
 
-  const goBack = useCallback(async () => {
-    if (stacked && sheetOpen) {
-      collapseSheet()
-      return
-    }
-    const prev = historyRef.current.pop()
-    setCanGoBack(historyRef.current.length > 0)
-    if (!prev) return
-    if (prev.focusId) {
-      await selectId(prev.focusId, { skipHistory: true, mode: prev.mode })
-    } else {
-      setFocusId(null)
-      setMode(prev.mode)
-      setNote(null)
-      setNoteLoading(false)
-      syncUrl(null)
-    }
-  }, [collapseSheet, selectId, sheetOpen, stacked, syncUrl])
+  const goBack = useCallback(() => {
+    historyGoBack()
+  }, [historyGoBack])
 
   const setExploreAll = useCallback(() => {
-    if (modeRef.current !== 'global') pushHistory()
-    collapseSheet()
+    setGraphMenuOpen(false)
+    const leavingFocus = Boolean(focusIdRef.current) || modeRef.current !== 'global'
+    if (leavingFocus) {
+      const doc = focusIdRef.current ? byIdRef.current.get(focusIdRef.current) : null
+      pushFocus(
+        { focusId: null, mode: 'global' },
+        doc ? trailLabel(doc.slug || doc.title, doc.label) : undefined,
+      )
+    } else {
+      replaceFocus({ focusId: null, mode: 'global' })
+    }
+    setFocusId(null)
     setMode('global')
+    setNote(null)
+    collapseSheet()
     void loadFullGraph()
-  }, [collapseSheet, loadFullGraph, pushHistory])
+  }, [collapseSheet, loadFullGraph, pushFocus, replaceFocus])
 
   const setLocalMode = useCallback(() => {
-    if (modeRef.current !== 'local') pushHistory()
+    setGraphMenuOpen(false)
+    if (modeRef.current !== 'local') {
+      pushFocus({ focusId: focusIdRef.current, mode: 'local' })
+    } else {
+      replaceFocus({ focusId: focusIdRef.current, mode: 'local' })
+    }
     setMode('local')
     if (focusIdRef.current) void loadLocalGraph(focusIdRef.current)
-  }, [loadLocalGraph, pushHistory])
+  }, [loadLocalGraph, pushFocus, replaceFocus])
 
   const shouldIgnoreGraphTap = (target: EventTarget | null) => {
     const el = target as HTMLElement | null
-    return Boolean(el?.closest('.search-wrap'))
+    return Boolean(el?.closest('.search-wrap') || el?.closest('.sheet-dimmer') || el?.closest('.note-pane'))
   }
 
   const displayGraph = mode === 'global' ? fullGraph : localGraph
   const nodeCount = fullGraph?.meta.nodeCount ?? searchDocs.length
   const mobileSheetVisible = stacked && sheetOpen && (noteLoading || !!note)
   const mobileSheetReady = stacked && (noteLoading || !!note)
+  const trimmedQuery = deferredQuery.trim()
+  const showEmptySearch = resultsOpen && trimmedQuery.length >= 2 && results.length === 0
+  const showRecent = resultsOpen && !trimmedQuery && recentSearches.length > 0
 
   const onGraphPointerDownCapture = useCallback(
     (e: ReactPointerEvent<HTMLDivElement>) => {
@@ -664,6 +720,33 @@ export default function App() {
     }
   }, [displayGraph, mobileSheetVisible, stacked])
 
+  // Dismiss search on outside click / Escape
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setResultsOpen(false)
+        setGraphMenuOpen(false)
+      }
+    }
+    const onPointer = (e: PointerEvent) => {
+      const t = e.target as Node | null
+      if (searchWrapRef.current && t && !searchWrapRef.current.contains(t)) {
+        setResultsOpen(false)
+      }
+      const menu = document.querySelector('.graph-menu')
+      const toggle = document.querySelector('.graph-menu-toggle')
+      if (graphMenuOpen && menu && toggle && t && !menu.contains(t) && !toggle.contains(t)) {
+        setGraphMenuOpen(false)
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    window.addEventListener('pointerdown', onPointer)
+    return () => {
+      window.removeEventListener('keydown', onKey)
+      window.removeEventListener('pointerdown', onPointer)
+    }
+  }, [graphMenuOpen])
+
   const toggleAnimate = useCallback(() => {
     setAnimate((a) => {
       const next = !a
@@ -684,9 +767,41 @@ export default function App() {
     [bySlug, selectId],
   )
 
+  const resultLabel = (r: SearchDoc) => displaySlug(r.label || r.title || r.slug)
+
   if (loadError) {
     return <div className="loading">Could not load graph: {loadError}</div>
   }
+
+  const graphControls = (
+    <>
+      <button
+        type="button"
+        className={animate ? 'active' : ''}
+        onClick={toggleAnimate}
+        title="Obsidian-style Animate"
+        aria-pressed={animate}
+      >
+        Animate
+      </button>
+      <button
+        type="button"
+        className={mode === 'local' ? 'active' : ''}
+        onClick={setLocalMode}
+        aria-pressed={mode === 'local'}
+      >
+        Local graph
+      </button>
+      <button
+        type="button"
+        className={mode === 'global' ? 'active' : ''}
+        onClick={setExploreAll}
+        aria-pressed={mode === 'global'}
+      >
+        Explore all
+      </button>
+    </>
+  )
 
   return (
     <div className="app">
@@ -699,26 +814,31 @@ export default function App() {
           <button
             type="button"
             className="back-btn"
-            disabled={!canGoBack && !mobileSheetVisible}
-            onClick={() => void goBack()}
-            title={mobileSheetVisible ? 'Close details' : 'Go back'}
+            disabled={!canGoBack}
+            onClick={goBack}
+            title={prevTrail ? `Back to ${prevTrail}` : 'Go back'}
+            aria-label={prevTrail ? `Back to ${prevTrail}` : 'Go back'}
           >
             ← Back
+            {prevTrail ? <span className="back-trail">{prevTrail}</span> : null}
           </button>
-          <button
-            type="button"
-            className={animate ? 'active' : ''}
-            onClick={toggleAnimate}
-            title="Obsidian-style Animate"
-          >
-            Animate
-          </button>
-          <button type="button" className={mode === 'local' ? 'active' : ''} onClick={setLocalMode}>
-            Local graph
-          </button>
-          <button type="button" className={mode === 'global' ? 'active' : ''} onClick={setExploreAll}>
-            Explore all
-          </button>
+          <div className="header-actions-desktop">{graphControls}</div>
+          <div className="header-actions-mobile">
+            <button
+              type="button"
+              className={`graph-menu-toggle${graphMenuOpen ? ' active' : ''}`}
+              aria-expanded={graphMenuOpen}
+              aria-haspopup="menu"
+              onClick={() => setGraphMenuOpen((o) => !o)}
+            >
+              Graph
+            </button>
+            {graphMenuOpen && (
+              <div className="graph-menu" role="menu">
+                {graphControls}
+              </div>
+            )}
+          </div>
         </div>
       </header>
 
@@ -739,7 +859,7 @@ export default function App() {
           onPointerMoveCapture={onGraphPointerMoveCapture}
           onClickCapture={onGraphClickCapture}
         >
-          <div className="search-wrap">
+          <div className="search-wrap" ref={searchWrapRef}>
             <input
               value={query}
               onChange={(e) => {
@@ -749,14 +869,48 @@ export default function App() {
               onFocus={() => setResultsOpen(true)}
               placeholder="Search word, root, surah, meaning…"
               aria-label="Search Qur’anic meanings"
+              aria-autocomplete="list"
+              aria-expanded={resultsOpen}
+              autoComplete="off"
+              enterKeyHint="search"
             />
             {resultsOpen && results.length > 0 && (
-              <ul className="results">
+              <ul className="results" role="listbox">
                 {results.map((r) => (
                   <li key={r.id}>
                     <button type="button" onClick={() => void selectId(r.id)}>
                       <span className={`badge ${r.type}`}>{r.type}</span>
-                      <span>{r.label || r.title}</span>
+                      <span>{resultLabel(r)}</span>
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            )}
+            {showEmptySearch && (
+              <div className="results results-empty" role="status">
+                <p>
+                  No word, root, or surah matched <strong>{trimmedQuery}</strong>.
+                </p>
+                <p className="muted">
+                  Ishara links lemmas that appear in 3+ surahs. Particles and many proper names (e.g. Musa,
+                  Pharaoh) are not separate hubs — try a meaning like <em>mercy</em>, <em>believe</em>, or a
+                  surah name.
+                </p>
+              </div>
+            )}
+            {showRecent && (
+              <ul className="results results-recent" role="listbox" aria-label="Recent searches">
+                {recentSearches.map((q) => (
+                  <li key={q}>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setQuery(q)
+                        setResultsOpen(true)
+                      }}
+                    >
+                      <span className="badge">recent</span>
+                      <span>{q}</span>
                     </button>
                   </li>
                 ))}
@@ -792,6 +946,14 @@ export default function App() {
             </div>
           )}
           {touchGuideVisible && <TouchGuide />}
+          {mobileSheetVisible && (
+            <button
+              type="button"
+              className="sheet-dimmer"
+              aria-label="Close details"
+              onClick={collapseSheet}
+            />
+          )}
         </div>
         <ResizeHandle
           orientation={stacked ? 'horizontal' : 'vertical'}
@@ -807,6 +969,10 @@ export default function App() {
           versesLoading={versesLoading}
           onNavigate={navigateSlug}
           onNeedAllVerses={loadAllVersesNow}
+          onClose={stacked ? collapseSheet : undefined}
+          onBack={canGoBack ? goBack : undefined}
+          backTrail={prevTrail}
+          showSheetChrome={stacked}
         />
       </div>
 

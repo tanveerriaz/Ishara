@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[r>y - see eye perceive]]
+- [[r>y - you see]]
 
 ### Meaning
 **you see** · Lemma **رَأَى**

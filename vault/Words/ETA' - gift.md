@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ETw - take handle something]]
+- [[ETw - gift]]
 
 ### Meaning
 **gift** · Lemma **عَطاء**

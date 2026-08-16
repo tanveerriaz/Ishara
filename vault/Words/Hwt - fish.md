@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hwt - striving enticing someone]]
+- [[Hwt - fish]]
 
 ### Meaning
 **fish** · Lemma **حُوت**

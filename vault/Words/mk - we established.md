@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mkn - establish]]
+- [[mkn - we established]]
 
 ### Meaning
 **we established** · Lemma **مَكَّ**

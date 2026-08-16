@@ -15,83 +15,83 @@ The Wind-Curved Sandhills · 35 ayahs
 ## Words in this surah (graph)
 
 - [[wAldy - parents]] — `والِدَي` · parents
+- [[dAEy - caller]] — `داعِي` · caller
 - [[>jybt - respond]] — `أُجِيبَت` · respond
 - [[<fk - lie]] — `إِفْك` · lie
-- [[dAEy - caller]] — `داعِي` · caller
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[AstgAv - seek help]] — `اسْتَغاثَ` · seek help
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[tlY - recited]] — `تَلَى` · recited
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[qDY - surely]] — `قَضَى` · surely
 - [[xwf - fear]] — `خَوْف` · fear
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[dnyA - world]] — `دُنْيا` · world
-- [[nAs - people]] — `ناس` · people
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[byn - between them]] — `بَيْن` · between them
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[qrn - generations]] — `قَرْن` · generations
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[<nsAn - man]] — `إِنسان` · man
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
+- [[>ry - show me]] — `أَرَيْ` · show me
+- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[jzY - we recompense]] — `جَزَى` · we recompense
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
+- [[$hd - witness]]
+- [[$hr - months]]
 - [[$kr - gratitude]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[*rr - scattering dispersing small]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>ff - sound expression disgust]]
-- [[>fk - turn something away]]
+- [[>ff - word disrespect]]
+- [[>fk - lie]]
 - [[>jl - term]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
 - [[>x* - take]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
-- [[Ejl - incite cause someone]]
-- [[Ejz - old age weakness]]
+- [[Edw - enemy]]
+- [[Ejl - calf]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
 - [[ErD - turn away]]
 - [[Erb - bedouins]]
 - [[Ewd - aad]]
-- [[Ezm - determine]]
+- [[Ezm - determination]]
 - [[Ezz - all-mighty]]
-- [[H$r - gather collect people]]
-- [[HDr - present]]
-- [[Hkm - prevent restrain someone]]
-- [[Hml - bear]]
-- [[Hqq - established as true]]
+- [[H$r - will gathered]]
+- [[HDr - will brought]]
+- [[Hkm - all-wise]]
+- [[Hml - will bear]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
 - [[Hwl - around it]]
-- [[Hyq - surround encompass]]
+- [[Hyq - enveloped]]
 
 ## Sample (ayah 1)
 

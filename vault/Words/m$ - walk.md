@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[m$y - walk go foot]]
+- [[m$y - walk]]
 
 ### Meaning
 **walk** · Lemma **مَشَ**

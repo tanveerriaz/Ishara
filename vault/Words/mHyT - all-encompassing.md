@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HwT - guard]]
+- [[HwT - all-encompassing]]
 
 ### Meaning
 **all-encompassing** · Lemma **مُحِيط**

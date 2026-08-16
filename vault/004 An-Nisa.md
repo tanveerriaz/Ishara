@@ -18,80 +18,80 @@ The Women · 176 ayahs
 - [[nSyb - share]] — `نَصِيب` · share
 - [[mbyn - clear]] — `مُبِين` · clear
 - [[rjAl - men]] — `رِجال` · men
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
 - [[xAf - fear]] — `خافَ` · fear
 - [[trk - we left]] — `تَرَكَ` · we left
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[ytym - orphans]] — `يَتِيم` · orphans
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[sw' - evil]] — `سُوء` · evil
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
 - [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[ymyn - oaths]] — `يَمِين` · oaths
-- [[nSyr - any helper]] — `نَصِير` · any helper
 - [[Dl - lost]] — `ضَلَّ` · lost
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[sw' - evil]] — `سُوء` · evil
+- [[nSyr - any helper]] — `نَصِير` · any helper
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[ymyn - oaths]] — `يَمِين` · oaths
 - [[lEn - curse them]] — `لَعَنَ` · curse them
-- [[>qrb - nearer]] — `أَقْرَب` · nearer
-- [[nkH - marry]] — `نَكَحَ` · marry
 - [[Hsnp - good]] — `حَسَنَة` · good
+- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[nkH - marry]] — `نَكَحَ` · marry
+- [[fAH$p - immorality]] — `فاحِشَة` · immorality
 - [[wld - children]] — `وَلَد` · children
-- [[wAld - parents]] — `والِد` · parents
+- [[Hkm - judgment]] — `حَكَمَ` · judgment
 - [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[rd - returned]] — `رَدَّ` · returned
-- [[wrv - will inherit]] — `وَرِثَ` · will inherit
+- [[DlAl - error]] — `ضَلال` · error
 
 ## Roots
 
 - [[$HH - miserly]]
-- [[$Tn - anything excessively proud]]
-- [[$bh - likeness resemblance]]
+- [[$Tn - shaitaan]]
+- [[$bh - similar]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
+- [[$hr - months]]
 - [[$hw - they desire]]
-- [[$jr - trees]]
-- [[$kk - doubt uncertain about]]
+- [[$jr - tree]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
-- [[$qq - cleave]]
-- [[$rk - sharing partnership]]
-- [[$ry - buy sell]]
+- [[$qq - opposes]]
+- [[$rk - polytheists]]
+- [[$ry - exchange]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*rr - scattering dispersing small]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>bd - absolute long]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>dy - perform]]
-- [[>hl - people house]]
+- [[>dy - render]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
+- [[>vm - sin]]
+- [[>wl - first]]
 - [[>wn - now]]
-- [[>wy - betake oneself place]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
-- [[DjE - lie down one's]]
+- [[DjE - places death]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 
 ## Sample (ayah 1)
 

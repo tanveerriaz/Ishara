@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nfr - take fright flee]]
+- [[nfr - aversion]]
 
 ### Meaning
 **aversion** · Lemma **نُفُور**

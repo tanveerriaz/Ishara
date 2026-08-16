@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hdd - define]]
+- [[Hdd - limits]]
 
 ### Meaning
 **limits** · Lemma **حُدُود**

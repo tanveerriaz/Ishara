@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[n$r - spread open something]]
+- [[n$r - resurrection]]
 
 ### Meaning
 **resurrection** · Lemma **نُشُور**

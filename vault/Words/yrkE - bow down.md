@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rkE - bow bend]]
+- [[rkE - bow down]]
 
 ### Meaning
 **bow down** · Lemma **يَرْكَعُ**

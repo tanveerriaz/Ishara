@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nsb - mention trace one's]]
+- [[nsb - blood relationship]]
 
 ### Meaning
 **blood relationship** · Lemma **نَسَب**

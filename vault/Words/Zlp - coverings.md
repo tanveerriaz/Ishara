@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Zll - shade cover]]
+- [[Zll - shade]]
 
 ### Meaning
 **coverings** · Lemma **ظُلَّة**

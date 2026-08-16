@@ -15,37 +15,37 @@ The Calamity · 11 ayahs
 ## Words in this surah (graph)
 
 - [[qArEp - striking calamity]] — `قارِعَة` · striking calamity
+- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
+- [[>m - mother]] — `أُمّ` · mother
+- [[frA$ - couches]] — `فِراش` · couches
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[nAr - fire]] — `نار` · fire
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[ywm - day]] — `يَوْم` · day
+- [[kAn - is]] — `كانَ` · is
+- [[>drY - can make you]] — `أَدْرَى` · can make you
 - [[xft - light]] — `خَفَّتْ` · light
 - [[nAs - people]] — `ناس` · people
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
-- [[jbl - mountains]] — `جَبَل` · mountains
 - [[myzAn - scales]] — `مِيزان` · scales
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[kAn - is]] — `كانَ` · is
-- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
-- [[frA$ - couches]] — `فِراش` · couches
-- [[ywm - day]] — `يَوْم` · day
-- [[nAr - fire]] — `نار` · fire
-- [[>m - mother]] — `أُمّ` · mother
 
 ## Roots
 
-- [[>mm - leadership]]
-- [[>ns - mankind]]
-- [[Ey$ - life sustenance]]
+- [[>mm - nation]]
+- [[>ns - people]]
+- [[Ey$ - life]]
 - [[Hmy - protect]]
-- [[bvv - scatter]]
-- [[dry - know]]
-- [[fr$ - spread expand something]]
+- [[bvv - dispersing]]
+- [[dry - can make you]]
+- [[fr$ - couches]]
 - [[hwy - desires]]
-- [[jbl - large company multitude]]
+- [[jbl - mountains]]
 - [[kwn - is]]
-- [[nwr - brand mark camels]]
-- [[qrE - strike hit]]
-- [[rDw - pleased]]
+- [[nwr - fire]]
+- [[qrE - striking calamity]]
+- [[rDw - pleasure]]
 - [[vql - heavy]]
-- [[wzn - weight]]
-- [[xff - light make something]]
+- [[wzn - scales]]
+- [[xff - will lightened]]
 - [[ywm - day]]
 
 ## Sample (ayah 1)

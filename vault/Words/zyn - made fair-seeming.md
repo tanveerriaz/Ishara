@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zyn - adorn]]
+- [[zyn - adornment]]
 
 ### Meaning
 **made fair-seeming** · Lemma **زَيَّنَ**

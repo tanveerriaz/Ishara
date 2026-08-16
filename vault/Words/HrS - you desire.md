@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HrS - tear]]
+- [[HrS - you desire]]
 
 ### Meaning
 **you desire** · Lemma **حَرَصْ**

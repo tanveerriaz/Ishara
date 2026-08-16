@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bSr - mental perception]]
+- [[bSr - all-seer]]
 
 ### Meaning
 **vision** · Lemma **بَصَر**

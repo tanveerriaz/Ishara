@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[g$w - cover conceal]]
+- [[g$w - he covers]]
 
 ### Meaning
 **he covers** · Lemma **أُغْشِيَتْ**

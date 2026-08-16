@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lHq - reach]]
+- [[lHq - join me]]
 
 ### Meaning
 **join me** · Lemma **أَلْحَقْ**

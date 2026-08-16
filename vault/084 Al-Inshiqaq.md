@@ -14,61 +14,61 @@ The Sundering · 25 ayahs
 
 ## Words in this surah (graph)
 
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[AtY - give]] — `آتَى` · give
-- [[>rD - earth]] — `أَرْض` · earth
-- [[dEA - call]] — `دَعا` · call
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[qmr - moon]] — `قَمَر` · moon
-- [[rb - lord]] — `رَبّ` · lord
-- [[qr> - read]] — `قَرَأَ` · read
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[<nsAn - man]] — `إِنسان` · man
-- [[>y - o you]] — `أَيّ` · o you
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[md - spread]] — `مَدَّ` · spread
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[ymyn - oaths]] — `يَمِين` · oaths
-- [[HsAb - account]] — `حِساب` · account
-- [[Hq - truth]] — `حَقّ` · truth
+- [[An$q - splits asunder]] — `انشَقَّ` · splits asunder
+- [[>*n - ears]] — `أُذُن` · ears
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
+- [[>jr - reward]] — `أَجْر` · reward
 - [[rkb - embark]] — `رَكْب` · embark
-- [[mmnwn - ending]] — `مَمْنُون` · ending
-- [[lyl - night]] — `لَيْل` · night
-- [[>hl - people]] — `أَهْل` · people
+- [[Eml - do]] — `عَمِلَ` · do
 - [[Zn - assumption]] — `ظَنَّ` · assumption
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[AtY - give]] — `آتَى` · give
+- [[lyl - night]] — `لَيْل` · night
+- [[mmnwn - ending]] — `مَمْنُون` · ending
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[<nsAn - man]] — `إِنسان` · man
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[wrA' - behind]] — `وَراء` · behind
+- [[dEA - call]] — `دَعا` · call
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[qmr - moon]] — `قَمَر` · moon
+- [[HAsb - reckoners]] — `حاسَبْ` · reckoners
+- [[>lqY - throw]] — `أَلْقَى` · throw
+- [[sEyr - blaze]] — `سَعِير` · blaze
 
 ## Roots
 
-- [[$fq - fear]]
-- [[$qq - cleave]]
-- [[>*n - ear]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[$fq - fearful]]
+- [[$qq - opposes]]
+- [[>*n - by permission]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>yy - ism]]
-- [[E*b - motes particles floating]]
+- [[>yy - signs]]
+- [[E*b - punishment]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Hqq - established as true]]
-- [[Hsb - number]]
-- [[Hwr - returning circling]]
-- [[SlH - make something good]]
-- [[Sly - exposed fire heat]]
-- [[Tbq - thing equal another]]
-- [[Zhr - back]]
-- [[Znn - think]]
+- [[Eml - do]]
+- [[Hqq - truth]]
+- [[Hsb - account]]
+- [[Hwr - disciples]]
+- [[SlH - righteous deeds]]
+- [[Sly - burn therein]]
+- [[Tbq - stage]]
+- [[Zhr - backs]]
+- [[Znn - assumption]]
 - [[allah - God]]
-- [[b$r - strip pare something]]
-- [[bSr - mental perception]]
+- [[b$r - man]]
+- [[bSr - all-seer]]
 - [[dEw - call]]
-- [[gyr - ghayr]]
+- [[gyr - without]]
 - [[k*b - denied]]
 - [[kfr - disbelieve]]
 - [[ktb - book]]
@@ -76,22 +76,22 @@ The Sundering · 25 ayahs
 - [[lqy - meeting]]
 - [[lyl - night]]
 - [[mdd - spread]]
-- [[mnn - cut break something]]
-- [[qlb - alter]]
-- [[qmr - contend stakes wagers]]
-- [[qr> - someone teaches others]]
-- [[qsm - division apportionment things]]
+- [[mnn - ending]]
+- [[qlb - hearts]]
+- [[qmr - moon]]
+- [[qr> - quran]]
+- [[qsm - i swear]]
 - [[rbb - Lord]]
-- [[rkb - ride mount something]]
-- [[sEr - kindle stir fire]]
-- [[sjd - humble]]
+- [[rkb - embark]]
+- [[sEr - blaze]]
+- [[sjd - prostrate]]
 - [[smw - name]]
 - [[srr - secretly]]
 - [[vbr - confine]]
 - [[wEy - understand]]
-- [[wry - conceal hide something]]
-- [[xlw - empty]]
-- [[ymn - right side south]]
+- [[wry - behind]]
+- [[xlw - passed away]]
+- [[ymn - oaths]]
 
 ## Sample (ayah 1)
 

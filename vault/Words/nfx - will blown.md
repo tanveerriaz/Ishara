@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nfx - blow]]
+- [[nfx - will blown]]
 
 ### Meaning
 **will blown** · Lemma **نَفَخَ**

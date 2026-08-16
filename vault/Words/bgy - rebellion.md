@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bgy - seek desire something]]
+- [[bgy - seeking]]
 
 ### Meaning
 **rebellion** · Lemma **بَغْي**

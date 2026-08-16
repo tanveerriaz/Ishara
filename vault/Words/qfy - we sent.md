@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qfw - follow someone's tracks]]
+- [[qfw - we sent]]
 
 ### Meaning
 **we sent** · Lemma **قَفَّيْ**

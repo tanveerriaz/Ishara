@@ -14,29 +14,29 @@ The Palm Fiber · 5 ayahs
 
 ## Words in this surah (graph)
 
-- [[mAl - wealth]] — `مال` · wealth
-- [[Hbl - rope]] — `حَبْل` · rope
-- [[ksb - earn]] — `كَسَبَ` · earn
-- [[nAr - fire]] — `نار` · fire
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
 - [[>b - father]] — `أَب` · father
 - [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[ksb - earn]] — `كَسَبَ` · earn
 - [[yd - hands]] — `يَد` · hands
+- [[mAl - wealth]] — `مال` · wealth
+- [[nAr - fire]] — `نار` · fire
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[Hbl - rope]] — `حَبْل` · rope
+- [[>gnY - availed]] — `أَغْنَى` · availed
 
 ## Roots
 
 - [[>bw - forefathers]]
 - [[Hbl - rope]]
-- [[Hml - bear]]
-- [[Sly - exposed fire heat]]
-- [[gny - dwelling residing place]]
-- [[ksb - collect gain]]
+- [[Hml - will bear]]
+- [[Sly - burn therein]]
+- [[gny - will avail]]
+- [[ksb - earn]]
 - [[mr> - wife]]
 - [[mwl - wealth]]
-- [[nwr - brand mark camels]]
+- [[nwr - fire]]
 - [[tbb - ruin]]
-- [[ydy - hand]]
+- [[ydy - hands]]
 
 ## Sample (ayah 1)
 

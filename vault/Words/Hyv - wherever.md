@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hyv - haythu]]
+- [[Hyv - wherever]]
 
 ### Meaning
 **wherever** · Lemma **حَيْث**

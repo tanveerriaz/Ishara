@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[whb - give something as]]
+- [[whb - grant]]
 
 ### Meaning
 **grant** · Lemma **وَهَبَ**

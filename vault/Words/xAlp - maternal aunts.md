@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xwl - maternal uncle aunt]]
+- [[xwl - maternal aunts]]
 
 ### Meaning
 **maternal aunts** · Lemma **خالَة**

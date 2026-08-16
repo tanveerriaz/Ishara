@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>md - period time defined]]
+- [[>md - was distance]]
 
 ### Meaning
 **was distance** · Lemma **أَمَد**

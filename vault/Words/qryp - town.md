@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qry - collecting gathering water]]
+- [[qry - town]]
 
 ### Meaning
 **town** · Lemma **قَرْيَة**

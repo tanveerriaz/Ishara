@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$rr - sparks fire]]
+- [[$rr - evil]]
 
 ### Meaning
 **evil** · Lemma **شَرّ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Trq - strike beat]]
+- [[Trq - way]]
 
 ### Meaning
 **way** · Lemma **طَرِيقَة**

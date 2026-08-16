@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hyq - surround encompass]]
+- [[Hyq - enveloped]]
 
 ### Meaning
 **enveloped** · Lemma **حاقَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mrD - physical illness sickness]]
+- [[mrD - disease]]
 
 ### Meaning
 **disease** · Lemma **مَرَض**

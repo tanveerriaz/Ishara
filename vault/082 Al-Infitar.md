@@ -15,68 +15,68 @@ The Cleaving · 19 ayahs
 ## Words in this surah (graph)
 
 - [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[gA}b - absent]] — `غائِب` · absent
-- [[krym - noble]] — `كَرِيم` · noble
-- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[rb - lord]] — `رَبّ` · lord
-- [[>mr - command]] — `أَمَرَ` · command
-- [[<nsAn - man]] — `إِنسان` · man
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[>y - o you]] — `أَيّ` · o you
-- [[Elm - know]] — `عَلِمَ` · know
-- [[rkb - embark]] — `رَكْب` · embark
-- [[dyn - religion]] — `دِين` · religion
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[Swrp - forms]] — `صُورَة` · forms
-- [[k*b - denied]] — `كَذَبَ` · denied
+- [[bHr - sea]] — `بَحْر` · sea
 - [[Edl - justice]] — `عَدْل` · justice
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[allah - God]] — `الله` · God
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[dyn - religion]] — `دِين` · religion
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[rkb - embark]] — `رَكْب` · embark
+- [[kwkb - stars]] — `كَوْكَب` · stars
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[qbr - graves]] — `قَبْر` · graves
 - [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[<nsAn - man]] — `إِنسان` · man
+- [[Elm - know]] — `عَلِمَ` · know
+- [[krym - noble]] — `كَرِيم` · noble
+- [[swY - proportioned it]] — `سَوَّى` · proportioned it
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[ywm - day]] — `يَوْم` · day
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[kAtb - scribe]] — `كاتِب` · scribe
+- [[allah - God]] — `الله` · God
 
 ## Roots
 
 - [[$y> - thing]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
-- [[Edl - act justly equitably]]
+- [[>mr - command]]
+- [[>ns - people]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
+- [[Edl - justice]]
 - [[Elm - knowledge]]
-- [[HfZ - keep]]
-- [[Sly - exposed fire heat]]
-- [[Swr - incline]]
+- [[HfZ - guardian]]
+- [[Sly - burn therein]]
+- [[Swr - trumpet]]
 - [[allah - God]]
-- [[bHr - large body water]]
+- [[bHr - sea]]
 - [[brr - land]]
-- [[dry - know]]
+- [[dry - can make you]]
 - [[dyn - judgment]]
-- [[fEl - deed]]
-- [[fTr - cleave split]]
-- [[fjr - cleave cut open]]
+- [[fEl - you do]]
+- [[fTr - creator]]
+- [[fjr - dawn]]
 - [[grr - delusion]]
-- [[gyb - absent]]
-- [[jHm - intense heat burning]]
+- [[gyb - unseen]]
+- [[jHm - hellfire]]
 - [[k*b - denied]]
 - [[krm - noble]]
 - [[ktb - book]]
-- [[kwkb - star planet]]
+- [[kwkb - stars]]
 - [[mlk - sovereignty]]
 - [[nEm - favor]]
-- [[nfs - soul]]
+- [[nfs - themselves]]
 - [[nvr - scatter]]
-- [[qbr - type small bird]]
-- [[qdm - putting something forward]]
+- [[qbr - graves]]
+- [[qdm - feet]]
 - [[rbb - Lord]]
-- [[rkb - ride mount something]]
+- [[rkb - embark]]
 - [[smw - name]]
-- [[swy - make even]]
+- [[swy - equal]]
 - [[xlq - create]]
 - [[ywm - day]]
 

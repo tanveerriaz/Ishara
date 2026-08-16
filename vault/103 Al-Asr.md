@@ -14,26 +14,26 @@ The Declining Day · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Amn - believe]] — `آمَنَ` · believe
 - [[Hq - truth]] — `حَقّ` · truth
-- [[xsr - lost]] — `خَسِرَ` · lost
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[<nsAn - man]] — `إِنسان` · man
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[Sbr - patient]] — `صَبْر` · patient
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[Eml - do]] — `عَمِلَ` · do
 
 ## Roots
 
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[ESr - press squeeze something]]
-- [[Eml - intentional action deed]]
-- [[Hqq - established as true]]
-- [[Sbr - confine restrain]]
-- [[SlH - make something good]]
-- [[wSy - enjoin]]
-- [[xsr - lose]]
+- [[Eml - do]]
+- [[Hqq - truth]]
+- [[Sbr - patient]]
+- [[SlH - righteous deeds]]
+- [[wSy - any will]]
+- [[xsr - losers]]
 
 ## Sample (ayah 1)
 

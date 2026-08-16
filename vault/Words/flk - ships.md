@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[flk - celestial sphere orbit]]
+- [[flk - ships]]
 
 ### Meaning
 **ships** · Lemma **فُلْك**

@@ -14,83 +14,83 @@ The Romans · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[bd> - originates]] — `بَدَأَ` · originates
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[qym - right]] — `قِيَم` · right
+- [[>vAr - plough]] — `أَثارُ` · plough
 - [[mnyb - turning]] — `مُنِيب` · turning
 - [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
-- [[qym - right]] — `قِيَم` · right
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[>vAr - plough]] — `أَثارُ` · plough
+- [[bd> - originates]] — `بَدَأَ` · originates
 - [[sAr - travel]] — `سارَ` · travel
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[ryH - wind]] — `رِيح` · wind
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[DEf - double]] — `ضِعْف` · double
+- [[Astxf - you find light]] — `اسْتَخَفَّ` · you find light
+- [[bHr - sea]] — `بَحْر` · sea
+- [[mwt - death]] — `مَوْت` · death
+- [[skn - dwell]] — `سَكَنَ` · dwell
 - [[xwf - fear]] — `خَوْف` · fear
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[dnyA - world]] — `دُنْيا` · world
+- [[fTr - created me]] — `فَطَرَ` · created me
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[flk - ships]] — `فُلْك` · ships
+- [[qAm - stand]] — `قامَ` · stand
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[dEA - call]] — `دَعا` · call
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[kyf - how]] — `كَيْف` · how
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$fE - make something pair]]
+- [[$fE - intercession]]
 - [[$kr - gratitude]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
+- [[$yE - sects]]
 - [[$yb - white]]
 - [[*wq - taste]]
-- [[>fk - turn something away]]
+- [[>fk - lie]]
 - [[>jl - term]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>vr - footsteps]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
-- [[E*r - excuse free blame]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
+- [[E*r - make excuse]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[Emr - life]]
-- [[Emy - blindness]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Eql - withhold restrain]]
-- [[Etb - angry someone]]
+- [[Eqb - end]]
+- [[Eql - use reason]]
+- [[Etb - will asked make]]
 - [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[HDr - present]]
+- [[HDr - will brought]]
 - [[Hbb - love]]
 - [[Hbr - name]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
 - [[Hnf - upright]]
-- [[Hqq - established as true]]
-- [[Hyn - period time]]
+- [[Hqq - truth]]
+- [[Hyn - time]]
 - [[Hyy - life]]
-- [[Hzb - set portion quran]]
+- [[Hzb - party]]
 - [[SbH - morning]]
-- [[Sbr - confine restrain]]
+- [[Sbr - patient]]
 - [[SdE - cleave]]
 
 ## Sample (ayah 1)

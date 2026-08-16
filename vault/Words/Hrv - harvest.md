@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hrv - gain acquire wealth]]
+- [[Hrv - harvest]]
 
 ### Meaning
 **harvest** · Lemma **حَرْث**

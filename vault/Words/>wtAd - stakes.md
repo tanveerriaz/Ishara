@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wtd - pegs earth]]
+- [[wtd - stakes]]
 
 ### Meaning
 **stakes** · Lemma **أَوْتاد**

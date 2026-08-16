@@ -14,24 +14,24 @@ The Opener · 7 ayahs
 
 ## Words in this surah (graph)
 
-- [[allah - God]] — `الله` · God
-- [[SrAT - path]] — `صِراط` · path
 - [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[allah - God]] — `الله` · God
 - [[rHym - merciful]] — `رَحِيم` · merciful
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[rb - lord]] — `رَبّ` · lord
+- [[SrAT - path]] — `صِراط` · path
 - [[DAl - astray]] — `ضالّ` · astray
-- [[Asm - name]] — `اسْم` · name
 - [[dyn - religion]] — `دِين` · religion
+- [[Asm - name]] — `اسْم` · name
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
-- [[mAlk - master]] — `مالِك` · master
 - [[ywm - day]] — `يَوْم` · day
-- [[mstqym - straight]] — `مُسْتَقِيم` · straight
-- [[gyr - without]] — `غَيْر` · without
 - [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[mstqym - straight]] — `مُسْتَقِيم` · straight
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[mAlk - master]] — `مالِك` · master
+- [[gyr - without]] — `غَيْر` · without
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
@@ -44,7 +44,7 @@ The Opener · 7 ayahs
 - [[allah - God]]
 - [[dyn - judgment]]
 - [[gDb - wrath]]
-- [[gyr - ghayr]]
+- [[gyr - without]]
 - [[hdy - guide]]
 - [[mlk - sovereignty]]
 - [[nEm - favor]]

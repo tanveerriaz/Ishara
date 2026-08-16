@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fEl - deed]]
+- [[fEl - you do]]
 
 ### Meaning
 **doers** · Lemma **فاعِل**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 
 ### Meaning
 **reminder** · Lemma **ذِكْرَى**

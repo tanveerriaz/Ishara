@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xzy - become put shame]]
+- [[xzy - disgrace]]
 
 ### Meaning
 **disgrace me** · Lemma **أَخْزَيْ**

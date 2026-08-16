@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sfr - sweep clear away]]
+- [[sfr - journey]]
 
 ### Meaning
 **journey** · Lemma **سَفَر**

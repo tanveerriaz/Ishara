@@ -17,81 +17,81 @@ The Criterion · 77 ayahs
 - [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
 - [[n$wr - resurrection]] — `نُشُور` · resurrection
 - [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[Hjr - stone]] — `حَجَر` · stone
 - [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
-- [[m$ - walk]] — `مَشَ` · walk
-- [[zwr - lie]] — `زُور` · lie
-- [[mqAm - place]] — `مَقام` · place
 - [[swq - markets]] — `سُوق` · markets
-- [[mqrn - bound together]] — `مُقَرَّن` · bound together
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[qbl - before]] — `قَبْل` · before
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[ms}wl - questioned]] — `مَسْئُول` · questioned
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[mAt - died]] — `ماتَ` · died
+- [[mqAm - place]] — `مَقام` · place
+- [[zwr - lie]] — `زُور` · lie
+- [[m$ - walk]] — `مَشَ` · walk
+- [[Hjr - stone]] — `حَجَر` · stone
 - [[mwt - death]] — `مَوْت` · death
-- [[Ayp - signs]] — `آيَة` · signs
-- [[bldp - land]] — `بَلْدَة` · land
-- [[>sATyr - tales]] — `أَساطِير` · tales
+- [[Dyq - distress]] — `ضَيِّق` · distress
+- [[$r - evil]] — `شَرّ` · evil
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[mAt - died]] — `ماتَ` · died
+- [[mqrn - bound together]] — `مُقَرَّن` · bound together
+- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
 - [[Eql - use reason]] — `عَقَلُ` · use reason
-- [[mtqy - righteous]] — `مُتَّقي` · righteous
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[qmr - moon]] — `قَمَر` · moon
+- [[rHym - merciful]] — `رَحِيم` · merciful
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[myt - dead]] — `مَيِّت` · dead
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
-- [[$hd - witnessing]]
+- [[$Tn - shaitaan]]
+- [[$hd - witness]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$qq - cleave]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
+- [[$ms - sun]]
+- [[$qq - opposes]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[*rr - scattering dispersing small]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>Sl - foundational part something]]
+- [[>Sl - evening]]
 - [[>bw - forefathers]]
-- [[>by - refuse]]
-- [[>fk - turn something away]]
+- [[>by - he refused]]
+- [[>fk - lie]]
 - [[>jj - bitter]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
+- [[>vm - sin]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
-- [[Dyq - become narrow strait]]
-- [[E*b - motes particles floating]]
+- [[Dyq - was straitened]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
-- [[Eql - withhold restrain]]
-- [[Er$ - shaded structure]]
+- [[Eml - do]]
+- [[Emy - blind]]
+- [[Eql - use reason]]
+- [[Er$ - throne]]
 - [[Esr - hardship]]
-- [[Etd - preparation readiness]]
-- [[Etw - pride]]
+- [[Etd - she prepared]]
+- [[Etw - were insolent]]
 
 ## Sample (ayah 1)
 

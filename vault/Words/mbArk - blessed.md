@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[brk - camel's breast]]
+- [[brk - blessed]]
 
 ### Meaning
 **blessed** · Lemma **مُبارَك**

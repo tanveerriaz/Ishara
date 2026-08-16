@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xsf - ground sink swallow]]
+- [[xsf - becomes dark]]
 
 ### Meaning
 **becomes dark** · Lemma **خَسَفَ**

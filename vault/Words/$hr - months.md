@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$hr - new moon]]
+- [[$hr - months]]
 
 ### Meaning
 **months** · Lemma **شَهْر**

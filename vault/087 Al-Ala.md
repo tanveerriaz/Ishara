@@ -15,69 +15,69 @@ The Most High · 19 ayahs
 ## Words in this surah (graph)
 
 - [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[HY - we live]] — `حَىَّ` · we live
-- [[HyAp - life]] — `حَياة` · life
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[jhr - loud]] — `جَهْر` · loud
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[dnyA - world]] — `دُنْيا` · world
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[rb - lord]] — `رَبّ` · lord
-- [[*krY - reminder]] — `ذِكْرَى` · reminder
-- [[nsy - they forgot]] — `نَسِيَ` · they forgot
-- [[xlq - creation]] — `خَلَقَ` · creation
 - [[*kr - remember]] — `ذَكَرَ` · remember
 - [[>ElY - highest]] — `أَعْلَى` · highest
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
 - [[Asm - name]] — `اسْم` · name
-- [[Elm - know]] — `عَلِمَ` · know
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
 - [[>bqY - more lasting]] — `أَبْقَى` · more lasting
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[nfE - benefit]] — `نَفَعَ` · benefit
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[HY - we live]] — `حَىَّ` · we live
+- [[jhr - loud]] — `جَهْر` · loud
+- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
+- [[Elm - know]] — `عَلِمَ` · know
+- [[swY - proportioned it]] — `سَوَّى` · proportioned it
+- [[mAt - died]] — `ماتَ` · died
+- [[nAr - fire]] — `نار` · fire
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[yxfY - hidden]] — `يَخْفَى` · hidden
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[>wl - first]] — `أَوَّل` · first
 
 ## Roots
 
-- [[$qw - unblessed]]
+- [[$qw - wretched one]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
+- [[*kr - remember]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
+- [[Elw - high]]
 - [[Hyy - life]]
 - [[SHf - scriptures]]
 - [[Slw - prayer]]
-- [[Sly - exposed fire heat]]
+- [[Sly - burn therein]]
 - [[allah - God]]
-- [[bqy - remain]]
-- [[dnw - become near]]
-- [[flH - cleave split]]
+- [[bqy - more lasting]]
+- [[dnw - world]]
+- [[flH - successful ones]]
 - [[hdy - guide]]
 - [[jEl - we made]]
-- [[jhr - make something plain]]
-- [[jnb - side person object]]
-- [[kbr - greater]]
+- [[jhr - loud]]
+- [[jnb - side]]
+- [[kbr - great]]
 - [[mwt - death]]
-- [[nfE - profit]]
-- [[nsy - forget]]
-- [[nwr - brand mark camels]]
-- [[qdr - measuring]]
-- [[qr> - someone teaches others]]
+- [[nfE - benefits]]
+- [[nsy - they forgot]]
+- [[nwr - fire]]
+- [[qdr - all-powerful]]
+- [[qr> - quran]]
 - [[rEy - guard]]
 - [[rbb - Lord]]
 - [[sbH - glory]]
 - [[smw - name]]
-- [[swy - make even]]
+- [[swy - equal]]
 - [[x$y - fear]]
 - [[xfy - hidden]]
 - [[xlq - create]]
-- [[xrj - go come out]]
+- [[xrj - brings forth]]
 - [[xyr - better]]
 - [[ysr - easy]]
 - [[zkw - purify]]

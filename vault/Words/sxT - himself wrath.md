@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sxT - displeased]]
+- [[sxT - himself wrath]]
 
 ### Meaning
 **himself wrath** · Lemma **سَخَط**

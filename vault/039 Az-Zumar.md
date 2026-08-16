@@ -15,83 +15,83 @@ The Troops · 75 ayahs
 ## Words in this surah (graph)
 
 - [[mvwY - abode]] — `مَثْوًى` · abode
+- [[hAd - guide]] — `هاد` · guide
 - [[syq - will driven]] — `سِيقَ` · will driven
+- [[>nAb - turns]] — `أَنابَ` · turns
 - [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
 - [[bdA - will appear]] — `بَدا` · will appear
-- [[hAd - guide]] — `هاد` · guide
 - [[xznt - its keepers]] — `خَزَنَت` · its keepers
-- [[>nAb - turns]] — `أَنابَ` · turns
 - [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[lwn - colors]] — `لَوْن` · colors
-- [[kfAr - disbeliever]] — `كَفّار` · disbeliever
-- [[dyn - religion]] — `دِين` · religion
-- [[qbl - before]] — `قَبْل` · before
-- [[Zlp - coverings]] — `ظُلَّة` · coverings
-- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
-- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
 - [[mwt - death]] — `مَوْت` · death
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[xsr - lost]] — `خَسِرَ` · lost
+- [[EAml - working]] — `عامِل` · working
+- [[qDY - surely]] — `قَضَى` · surely
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[mAt - died]] — `ماتَ` · died
-- [[Ayp - signs]] — `آيَة` · signs
+- [[>nq* - would saved]] — `أَنقَذَ` · would saved
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
 - [[Eql - use reason]] — `عَقَلُ` · use reason
-- [[slk - follow]] — `سَلَكَ` · follow
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[>ndAd - rivals]] — `أَنداد` · rivals
+- [[qmr - moon]] — `قَمَر` · moon
+- [[rHym - merciful]] — `رَحِيم` · merciful
+- [[myt - dead]] — `مَيِّت` · dead
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
 
 ## Roots
 
-- [[$Er - name]]
-- [[$bh - likeness resemblance]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
+- [[$Er - perceive]]
+- [[$bh - similar]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rH - uncover]]
-- [[$rk - sharing partnership]]
-- [[$rq - earth]]
+- [[$ms - sun]]
+- [[$rH - he expands]]
+- [[$rk - polytheists]]
+- [[$rq - east]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
+- [[*kr - remember]]
+- [[*nb - sin]]
 - [[*wq - taste]]
-- [[>hl - people house]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>ny - hours]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
-- [[ESy - disobey]]
+- [[E*b - punishment]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ejz - old age weakness]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eql - withhold restrain]]
-- [[Er$ - shaded structure]]
+- [[Eql - use reason]]
+- [[Er$ - throne]]
 - [[Erb - bedouins]]
 - [[Ewj - crookedness]]
 - [[Ezz - all-mighty]]
-- [[H*r - fear]]
-- [[HTm - break]]
-- [[HbT - worthless]]
-- [[Hdv - accidents]]
-- [[Hkm - prevent restrain someone]]
+- [[H*r - warns you]]
+- [[HTm - debris]]
+- [[HbT - became worthless]]
+- [[Hdv - statement]]
+- [[Hkm - all-wise]]
 
 ## Sample (ayah 1)
 

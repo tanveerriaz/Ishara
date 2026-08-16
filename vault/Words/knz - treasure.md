@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[knz - bury hoard treasure]]
+- [[knz - treasure]]
 
 ### Meaning
 **treasure** · Lemma **كَنَزْ**

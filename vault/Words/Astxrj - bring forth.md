@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xrj - go come out]]
+- [[xrj - brings forth]]
 
 ### Meaning
 **bring forth** · Lemma **اسْتَخْرَجَ**

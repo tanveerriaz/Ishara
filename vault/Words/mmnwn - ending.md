@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mnn - cut break something]]
+- [[mnn - ending]]
 
 ### Meaning
 **ending** · Lemma **مَمْنُون**

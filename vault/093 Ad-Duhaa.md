@@ -14,46 +14,46 @@ The Morning Hours · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[nEmp - favor]] — `نِعْمَة` · favor
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[rb - lord]] — `رَبّ` · lord
 - [[DAl - astray]] — `ضالّ` · astray
-- [[>ETY - they given]] — `أَعْطَى` · they given
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[ytym - orphans]] — `يَتِيم` · orphans
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[lyl - night]] — `لَيْل` · night
+- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
 - [[Axr - hereafter]] — `آخِر` · hereafter
 - [[>wl - first]] — `أَوَّل` · first
-- [[lyl - night]] — `لَيْل` · night
 - [[sA}l - ask]] — `سائِل` · ask
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[>ETY - they given]] — `أَعْطَى` · they given
 - [[>gnY - availed]] — `أَغْنَى` · availed
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[wjd - we found]] — `وَجَدَ` · we found
 - [[xyr - better]] — `خَيْر` · better
+- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[rb - lord]] — `رَبّ` · lord
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
 
 ## Roots
 
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
-- [[>xr - final part something]]
-- [[DHw - actions performed during]]
+- [[>wl - first]]
+- [[>wy - abode]]
+- [[>xr - hereafter]]
+- [[DHw - its brightness]]
 - [[Dll - astray]]
-- [[ETw - take handle something]]
-- [[Hdv - accidents]]
-- [[gny - dwelling residing place]]
+- [[ETw - gift]]
+- [[Hdv - statement]]
+- [[gny - will avail]]
 - [[hdy - guide]]
 - [[lyl - night]]
 - [[nEm - favor]]
-- [[nhr - dig river channel]]
-- [[qhr - overcome]]
-- [[rDw - pleased]]
+- [[nhr - day]]
+- [[qhr - irresistible]]
+- [[rDw - pleasure]]
 - [[rbb - Lord]]
 - [[s>l - ask]]
 - [[wdE - still]]
-- [[wjd - you will find]]
+- [[wjd - we found]]
 - [[xyr - better]]
-- [[ytm - make someone orphan]]
+- [[ytm - orphans]]
 
 ## Sample (ayah 1)
 

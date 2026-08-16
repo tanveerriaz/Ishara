@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wSy - enjoin]]
+- [[wSy - any will]]
 
 ### Meaning
 **enjoin each other** · Lemma **تَواصَ**

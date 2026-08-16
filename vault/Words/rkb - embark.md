@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rkb - ride mount something]]
+- [[rkb - embark]]
 
 ### Meaning
 **embark** · Lemma **رَكْب**

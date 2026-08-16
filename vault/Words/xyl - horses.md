@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xyl - imaging fancying something]]
+- [[xyl - horses]]
 
 ### Meaning
 **horses** · Lemma **خَيْل**

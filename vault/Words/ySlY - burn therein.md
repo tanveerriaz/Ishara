@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sly - exposed fire heat]]
+- [[Sly - burn therein]]
 
 ### Meaning
 **burn therein** · Lemma **يَصْلَى**

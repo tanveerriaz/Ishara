@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*bH - cut split lengthwise]]
+- [[*bH - slaughtering]]
 
 ### Meaning
 **you slaughter** · Lemma **ذُبِحَ**

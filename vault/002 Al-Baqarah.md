@@ -14,84 +14,84 @@ The Cow · 286 ayahs
 
 ## Words in this surah (graph)
 
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[qbl - before]] — `قَبْل` · before
-- [[Ayp - signs]] — `آيَة` · signs
-- [[kl - every]] — `كُلّ` · every
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[ktAb - book]] — `كِتاب` · book
+- [[mErwf - fair manner]] — `مَعْرُوف` · fair manner
+- [[Hq - truth]] — `حَقّ` · truth
+- [[nAr - fire]] — `نار` · fire
 - [[qlb - hearts]] — `قَلْب` · hearts
 - [[mAl - wealth]] — `مال` · wealth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[kAn - is]] — `كانَ` · is
-- [[End - near]] — `عِند` · near
-- [[>x* - we took]] — `أَخَذَ` · we took
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[nAs - people]] — `ناس` · people
 - [[dnyA - world]] — `دُنْيا` · world
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[ksb - earn]] — `كَسَبَ` · earn
-- [[ktAb - book]] — `كِتاب` · book
-- [[SlAp - prayer]] — `صَلاة` · prayer
 - [[AtqY - fear]] — `اتَّقَى` · fear
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[qbl - before]] — `قَبْل` · before
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[xyr - better]] — `خَيْر` · better
+- [[Eml - do]] — `عَمِلَ` · do
+- [[kAn - is]] — `كانَ` · is
+- [[fDl - bounty]] — `فَضَّلَ` · bounty
+- [[sbyl - way]] — `سَبِيل` · way
+- [[mvl - example]] — `مَثَل` · example
+- [[byn - between them]] — `بَيْن` · between them
+- [[Amn - believe]] — `آمَنَ` · believe
 - [[>y - o you]] — `أَيّ` · o you
+- [[s>l - ask]] — `سَأَلَ` · ask
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
-- [[$bh - likeness resemblance]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
+- [[$bh - similar]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
-- [[$jr - trees]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
+- [[$hr - months]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$qq - cleave]]
+- [[$ms - sun]]
+- [[$qq - opposes]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
-- [[$rq - earth]]
-- [[$rr - sparks fire]]
-- [[$ry - buy sell]]
+- [[$rk - polytheists]]
+- [[$rq - east]]
+- [[$rr - evil]]
+- [[$ry - exchange]]
 - [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[*bH - cut split lengthwise]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*bH - slaughtering]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[*rr - scattering dispersing small]]
-- [[>*n - ear]]
+- [[*rr - offspring]]
+- [[>*n - by permission]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>Sr - things bind tie]]
-- [[>bd - absolute long]]
+- [[>Sr - burden]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>by - refuse]]
-- [[>dm - seasoned food]]
-- [[>dy - perform]]
-- [[>hl - people house]]
+- [[>by - he refused]]
+- [[>dm - o adam]]
+- [[>dy - render]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>lw - ila]]
-- [[>mm - leadership]]
+- [[>lw - favors]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
-- [[>sr - bind capture]]
+- [[>sr - as captives]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
+- [[>vm - sin]]
+- [[>wl - first]]
 
 ## Sample (ayah 1)
 

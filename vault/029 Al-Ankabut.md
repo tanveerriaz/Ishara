@@ -14,84 +14,84 @@ The Spider · 69 ayahs
 
 ## Words in this surah (graph)
 
-- [[jwAb - answer]] — `جَواب` · answer
-- [[jHd - they reject]] — `جَحَدُ` · they reject
 - [[gAbr - remain behind]] — `غابِر` · remain behind
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[jHd - they reject]] — `جَحَدُ` · they reject
+- [[jwAb - answer]] — `جَواب` · answer
+- [[bw> - post]] — `بَوَّأَ` · post
+- [[tlY - recited]] — `تَلَى` · recited
+- [[mwt - death]] — `مَوْت` · death
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[EAml - working]] — `عامِل` · working
+- [[>w*y - hurt]] — `أُوذِيَ` · hurt
+- [[>jr - reward]] — `أَجْر` · reward
+- [[EAm - years]] — `عام` · years
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[whb - grant]] — `وَهَبَ` · grant
 - [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
-- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[nAs - people]] — `ناس` · people
-- [[qmr - moon]] — `قَمَر` · moon
-- [[lqA' - meeting]] — `لِقاء` · meeting
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[flk - ships]] — `فُلْك` · ships
+- [[nbwp - prophethood]] — `نُبُوَّة` · prophethood
+- [[mhlk - destruction]] — `مُهْلِك` · destruction
+- [[<nsAn - man]] — `إِنسان` · man
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[ysyr - easy]] — `يَسِير` · easy
+- [[dEA - call]] — `دَعا` · call
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
-- [[$hd - witnessing]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
+- [[$hd - witness]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rk - sharing partnership]]
+- [[$ms - sun]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[*rE - forearm]]
-- [[*rr - scattering dispersing small]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[*rE - uneasy]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
-- [[>lf - become familiar]]
+- [[>jr - reward]]
+- [[>lf - thousand]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wy - betake oneself place]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
-- [[Drb - strike beat]]
-- [[Dyq - become narrow strait]]
-- [[E*b - motes particles floating]]
+- [[>yy - signs]]
+- [[Drb - strike]]
+- [[Dyq - was straitened]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
-- [[Ejl - incite cause someone]]
-- [[Ejz - old age weakness]]
+- [[Ejl - calf]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eql - withhold restrain]]
-- [[Evw - act corruptly make]]
+- [[Eql - use reason]]
+- [[Evw - act wickedly]]
 - [[Ewd - aad]]
 - [[Ewm - years]]
 - [[Ezz - all-mighty]]
-- [[HSb - pelt pebbles spread]]
-- [[Hkm - prevent restrain someone]]
+- [[HSb - storm stones]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hml - bear]]
-- [[Hqq - established as true]]
+- [[Hml - will bear]]
+- [[Hqq - truth]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ymm - go direct oneself]]
+- [[ymm - sea]]
 
 ### Meaning
 **aim at** · Lemma **تَيَمَّمُ**

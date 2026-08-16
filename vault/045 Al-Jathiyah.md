@@ -14,84 +14,84 @@ The Crouching · 37 ayahs
 
 ## Words in this surah (graph)
 
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[jmyE - all]] — `جَمِيع` · all
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[>rD - earth]] — `أَرْض` · earth
+- [[tlY - recited]] — `تَلَى` · recited
+- [[bHr - sea]] — `بَحْر` · sea
+- [[mwt - death]] — `مَوْت` · death
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[qDY - surely]] — `قَضَى` · surely
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
+- [[flk - ships]] — `فُلْك` · ships
+- [[nbwp - prophethood]] — `نُبُوَّة` · prophethood
+- [[qAm - stand]] — `قامَ` · stand
+- [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[mAt - died]] — `ماتَ` · died
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
 - [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[lqA' - meeting]] — `لِقاء` · meeting
-- [[byn - between them]] — `بَيْن` · between them
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[Hsb - think]] — `حَسْب` · think
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[m>wY - abode]] — `مَأْوَى` · abode
+- [[ryb - doubt]] — `رَيْب` · doubt
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[allah - God]] — `الله` · God
+- [[>Sr - they persist]] — `أَصَرُّ` · they persist
 
 ## Roots
 
 - [[$kr - gratitude]]
 - [[$rE - enter water drink]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
+- [[>fk - lie]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wy - betake oneself place]]
+- [[>vm - sin]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Eql - withhold restrain]]
-- [[Etb - angry someone]]
+- [[Eml - do]]
+- [[Eql - use reason]]
+- [[Etb - will asked make]]
 - [[Ezz - all-mighty]]
-- [[Hdv - accidents]]
-- [[Hjj - hajj]]
-- [[Hkm - prevent restrain someone]]
+- [[Hdv - statement]]
+- [[Hjj - argument]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
-- [[Hsb - number]]
-- [[Hyq - surround encompass]]
+- [[Hqq - truth]]
+- [[Hsb - account]]
+- [[Hyq - enveloped]]
 - [[Hyy - life]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
-- [[Srf - turn something away]]
-- [[Srr - tie bind tightly]]
-- [[Tyb - something good]]
-- [[Zlm - put something wrong]]
-- [[Znn - think]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
+- [[Srf - we explain]]
+- [[Srr - they persist]]
+- [[Tyb - good things]]
+- [[Zlm - wrongdoers]]
+- [[Znn - assumption]]
 - [[allah - God]]
-- [[b$r - strip pare something]]
+- [[b$r - man]]
 - [[bED - others]]
-- [[bEd - become distant]]
-- [[bHr - large body water]]
-- [[bSr - mental perception]]
-- [[bTl - something becoming false]]
+- [[bEd - after]]
+- [[bHr - sea]]
+- [[bSr - all-seer]]
+- [[bTl - falsehood]]
 - [[bdw - you reveal]]
-- [[bgy - seek desire something]]
+- [[bgy - seeking]]
 
 ## Sample (ayah 1)
 

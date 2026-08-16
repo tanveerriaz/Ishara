@@ -14,84 +14,84 @@ The Prohibition · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[xAn - betray]] — `خانُ` · betray
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[Tlq - you divorce]] — `طَلَّقَ` · you divorce
-- [[Amn - believe]] — `آمَنَ` · believe
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[bkr - virgins]] — `بِكْر` · virgins
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[nwr - light]] — `نُور` · light
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[twbp - repentance]] — `تَوْبَة` · repentance
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
 - [[mrDAt - pleasure]] — `مَرْضات` · pleasure
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[nAs - people]] — `ناس` · people
-- [[byn - between them]] — `بَيْن` · between them
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[glyZ - severe]] — `غَلِيظ` · severe
-- [[bEd - after]] — `بَعْد` · after
-- [[m>wY - abode]] — `مَأْوَى` · abode
-- [[>tm - complete]] — `أَتَمَّ` · complete
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[mvl - example]] — `مَثَل` · example
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[byt - houses]] — `بَيْت` · houses
-- [[bED - others]] — `بَعْض` · others
-- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
-- [[ktAb - book]] — `كِتاب` · book
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[allah - God]] — `الله` · God
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[kl - every]] — `كُلّ` · every
+- [[xyr - better]] — `خَيْر` · better
+- [[qAntp - obedient]] — `قانِتَة` · obedient
+- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
+- [[mslmp - submissive]] — `مُسَلَّمَة` · submissive
+- [[qwm - people]] — `قَوْم` · people
+- [[rb - lord]] — `رَبّ` · lord
+- [[rHym - merciful]] — `رَحِيم` · merciful
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[sEY - strive]] — `سَعَى` · strive
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$y> - thing]]
-- [[>hl - people house]]
+- [[>hl - people]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
-- [[>wy - betake oneself place]]
-- [[>yy - ism]]
-- [[Drb - strike beat]]
-- [[E*r - excuse free blame]]
-- [[ESy - disobey]]
+- [[>mr - command]]
+- [[>ns - people]]
+- [[>wy - abode]]
+- [[>yy - signs]]
+- [[Drb - strike]]
+- [[E*r - make excuse]]
+- [[ESy - they disobeyed]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
 - [[ErD - turn away]]
-- [[Erf - right]]
-- [[Esy - hope expectation]]
-- [[HSn - protection chastity]]
-- [[Hdv - accidents]]
+- [[Erf - fair manner]]
+- [[Esy - perhaps]]
+- [[HSn - chaste women]]
+- [[Hdv - statement]]
 - [[Hjr - stones]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hll - lawful]]
-- [[Hrm - reverence]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
+- [[Hrm - al-haraam]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
 - [[Syr - destination]]
-- [[Tlq - loose]]
-- [[Zhr - back]]
-- [[Zlm - put something wrong]]
+- [[Tlq - you divorce]]
+- [[Zhr - backs]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
 - [[b>s - wretched]]
 - [[bED - others]]
-- [[bEd - become distant]]
-- [[bdl - change alter]]
-- [[bgy - seek desire something]]
-- [[bkr - go forth come]]
-- [[bny - sons]]
+- [[bEd - after]]
+- [[bdl - change]]
+- [[bgy - seeking]]
+- [[bkr - morning]]
+- [[bny - son]]
 - [[byn - clear]]
-- [[byt - any house]]
+- [[byt - houses]]
 - [[dxl - enter]]
-- [[fEl - deed]]
-- [[frD - mark incision]]
-- [[frj - open make space]]
-- [[gfr - cover conceal]]
-- [[glZ - ghalaza]]
-- [[gny - dwelling residing place]]
+- [[fEl - you do]]
+- [[frD - obligation]]
+- [[frj - chastity]]
+- [[gfr - oft-forgiving]]
+- [[glZ - severe]]
+- [[gny - will avail]]
 - [[jhd - strive]]
-- [[jnn - cover]]
-- [[jry - passage time events]]
+- [[jnn - gardens]]
+- [[jry - flow]]
 
 ## Sample (ayah 1)
 

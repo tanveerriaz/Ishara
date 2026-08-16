@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lTf - treat someone gentleness]]
+- [[lTf - all-subtle]]
 
 ### Meaning
 **all-subtle** · Lemma **لَطِيف**

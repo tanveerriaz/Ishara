@@ -17,81 +17,81 @@ Joseph · 111 ayahs
 - [[>b - father]] — `أَب` · father
 - [[t>wyl - interpretation]] — `تَأْوِيل` · interpretation
 - [[kyl - measure]] — `كَيْل` · measure
-- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[<xwp - brothers]] — `إِخْوَة` · brothers
 - [[kyd - plot]] — `كَيْد` · plot
-- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[sbE - seven]] — `سَبْع` · seven
-- [[>bwAn - parents]] — `أَبَوان` · parents
+- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[bAb - gate]] — `باب` · gate
+- [[dbr - backs]] — `دُبُر` · backs
 - [[xAT} - sinners]] — `خاطِئ` · sinners
 - [[r'yA - vision]] — `رُءْيا` · vision
-- [[dbr - backs]] — `دُبُر` · backs
+- [[>bwAn - parents]] — `أَبَوان` · parents
 - [[>jmE - all]] — `أَجْمَع` · all
+- [[Amr>t - wife]] — `امْرَأَت` · wife
 - [[mSr - egypt]] — `مِصْر` · egypt
+- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
 - [[>DAE - allow lost]] — `أَضاعُ` · allow lost
 - [[Tyr - birds]] — `طَيْر` · birds
-- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[xmr - intoxicants]] — `خَمْر` · intoxicants
+- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
+- [[jAhl - ignorant]] — `جاهِل` · ignorant
 - [[>wfY - fulfil]] — `أَوْفَى` · fulfil
-- [[mkr - plot]] — `مَكَرَ` · plot
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[kA*b - liars]] — `كاذِب` · liars
-- [[qSS - story]] — `قَصَص` · story
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[swl - have enticed]] — `سَوَّلَ` · have enticed
+- [[mvwY - abode]] — `مَثْوًى` · abode
+- [[DlAl - error]] — `ضَلال` · error
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$hd - witnessing]]
+- [[$hd - witness]]
 - [[$kr - gratitude]]
 - [[$kw - complain show grief]]
-- [[$ms - horse refusing ridden]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
-- [[$ry - buy sell]]
+- [[$ms - sun]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
+- [[$ry - exchange]]
 - [[$y> - thing]]
 - [[$yx - old]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[>*n - ear]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[>sf - alas]]
+- [[>sf - grieved]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
 - [[>wn - now]]
-- [[>wy - betake oneself place]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
-- [[Dgv - dgith]]
+- [[>yy - signs]]
+- [[Dgv - confused]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[DyE - perishing]]
+- [[DyE - allow lost]]
 - [[E$r - ten]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
-- [[ESb - twist]]
-- [[ESm - tie cord]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
+- [[ESb - group]]
+- [[ESm - hold fast]]
 - [[ESr - press squeeze something]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - cross pass something]]
+- [[Ebr - surely lesson]]
 
 ## Sample (ayah 1)
 

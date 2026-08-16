@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qdm - putting something forward]]
+- [[qdm - feet]]
 
 ### Meaning
 **seek advance it** · Lemma **يَسْتَقْدِمُ**

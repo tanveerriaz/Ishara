@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qrn - things paired connected]]
+- [[qrn - generations]]
 
 ### Meaning
 **bound together** · Lemma **مُقَرَّن**

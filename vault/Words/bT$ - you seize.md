@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bT$ - seize assault violence]]
+- [[bT$ - you seize]]
 
 ### Meaning
 **you seize** · Lemma **بَطَشْ**

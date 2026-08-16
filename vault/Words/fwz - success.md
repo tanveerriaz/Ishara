@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fwz - attain good fortune]]
+- [[fwz - success]]
 
 ### Meaning
 **success** · Lemma **فَوْز**

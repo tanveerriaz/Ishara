@@ -14,84 +14,84 @@ The Prophets · 112 ayahs
 
 ## Words in this surah (graph)
 
-- [[fAEl - doers]] — `فاعِل` · doers
 - [[EAbd - worshippers]] — `عابِد` · worshippers
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[fAEl - doers]] — `فاعِل` · doers
 - [[mErD - turn away]] — `مُعْرِض` · turn away
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
-- [[tdry - i know]] — `تَدْرِي` · i know
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
 - [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
 - [[bArk - we blessed]] — `بارَكَ` · we blessed
 - [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
-- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
-- [[y$fE - intercedes]] — `يَشْفَعُ` · intercedes
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[hAt - bring]] — `هاتُ` · bring
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[ldn - yourself]] — `لَدُن` · yourself
-- [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[gAlb - victorious]] — `غالِب` · victorious
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[jbl - mountains]] — `جَبَل` · mountains
+- [[TAl - then]] — `طالَ` · then
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[mwt - death]] — `مَوْت` · death
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[kf - restrain]] — `كَفَّ` · restrain
+- [[fTr - created me]] — `فَطَرَ` · created me
+- [[krb - distress]] — `كَرْب` · distress
+- [[$r - evil]] — `شَرّ` · evil
+- [[tqTE - cut pieces]] — `تَقَطَّعَ` · cut pieces
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
-- [[$fE - make something pair]]
-- [[$fq - fear]]
-- [[$hd - witnessing]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
+- [[$fE - intercession]]
+- [[$fq - fearful]]
+- [[$hd - witness]]
 - [[$hw - they desire]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rr - sparks fire]]
+- [[$ms - sun]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
-- [[>ff - sound expression disgust]]
-- [[>hl - people house]]
+- [[>ff - word disrespect]]
+- [[>hl - people]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
-- [[Dgv - dgith]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
+- [[Dgv - confused]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
 - [[Dw> - light]]
-- [[E*b - motes particles floating]]
-- [[ESf - stormy]]
+- [[E*b - punishment]]
+- [[ESf - husk]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ejl - incite cause someone]]
-- [[Ekf - cleave something constantly]]
+- [[Ejl - calf]]
+- [[Ekf - devoted]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[Emr - life]]
 - [[End - near]]
-- [[Eql - withhold restrain]]
-- [[Er$ - shaded structure]]
+- [[Eql - use reason]]
+- [[Er$ - throne]]
 - [[ErD - turn away]]
 - [[Ewd - aad]]
 - [[Ewn - help]]
 - [[Eyn - eyes]]
-- [[HSb - pelt pebbles spread]]
+- [[HSb - storm stones]]
 
 ## Sample (ayah 1)
 

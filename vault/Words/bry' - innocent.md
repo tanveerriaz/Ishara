@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[br> - clear free something]]
+- [[br> - innocent]]
 
 ### Meaning
 **innocent** · Lemma **بَرِيء**

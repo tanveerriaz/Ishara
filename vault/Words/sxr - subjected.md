@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sxr - compel constrain someone]]
+- [[sxr - subjected]]
 
 ### Meaning
 **subjected** · Lemma **سَخِرَ**

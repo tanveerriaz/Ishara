@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[f>y - return turning back]]
+- [[f>y - group]]
 
 ### Meaning
 **group** · Lemma **فِئَة**

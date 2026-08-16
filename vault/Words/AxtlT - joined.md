@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xlT - mix mingle]]
+- [[xlT - joined]]
 
 ### Meaning
 **joined** · Lemma **اخْتَلَطَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[blw - test try]]
+- [[blw - was trial]]
 
 ### Meaning
 **test you** · Lemma **بَلَوْ**

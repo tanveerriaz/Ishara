@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[slw - forgetting finding contentment]]
+- [[slw - quails]]
 
 ### Meaning
 **quails** · Lemma **سَلْوَى**

@@ -15,69 +15,69 @@ The City · 20 ayahs
 ## Words in this surah (graph)
 
 - [[qAl - say]] — `قالَ` · say
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Amn - believe]] — `آمَنَ` · believe
+- [[bld - city]] — `بَلَد` · city
 - [[wld - children]] — `وَلَد` · children
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[Hsb - think]] — `حَسْب` · think
+- [[Ayp - signs]] — `آيَة` · signs
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[ytym - orphans]] — `يَتِيم` · orphans
 - [[qdr - restricts]] — `قَدَر` · restricts
 - [[<nsAn - man]] — `إِنسان` · man
-- [[Hsb - think]] — `حَسْب` · think
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[mskyn - needy]] — `مِسْكِين` · needy
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[lsAn - tongues]] — `لِسان` · tongues
-- [[<TEAm - feeding]] — `إِطْعام` · feeding
-- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
 - [[jEl - we made]] — `جَعَلَ` · we made
-- [[wAld - parents]] — `والِد` · parents
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[nAr - fire]] — `نار` · fire
+- [[Sbr - patient]] — `صَبْر` · patient
+- [[ywm - day]] — `يَوْم` · day
 - [[kAn - is]] — `كانَ` · is
-- [[Ayp - signs]] — `آيَة` · signs
+- [[<TEAm - feeding]] — `إِطْعام` · feeding
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[mskyn - needy]] — `مِسْكِين` · needy
+- [[mAl - wealth]] — `مال` · wealth
+- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[rqbp - slave]] — `رَقَبَة` · slave
 
 ## Roots
 
 - [[>Hd - anyone]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
-- [[>yy - ism]]
-- [[Eqb - heel human foot]]
+- [[>ns - people]]
+- [[>yy - signs]]
+- [[Eqb - end]]
 - [[Eyn - eyes]]
 - [[Hll - lawful]]
-- [[Hsb - number]]
-- [[SHb - lord]]
-- [[Sbr - confine restrain]]
+- [[Hsb - account]]
+- [[SHb - companion]]
+- [[Sbr - patient]]
 - [[TEm - food]]
-- [[bld - country]]
-- [[dry - know]]
+- [[bld - city]]
+- [[dry - can make you]]
 - [[hdy - guide]]
-- [[hlk - perish destroyed]]
+- [[hlk - we destroyed]]
 - [[jEl - we made]]
 - [[kfr - disbelieve]]
 - [[kwn - is]]
-- [[lsn - tongue]]
+- [[lsn - tongues]]
 - [[mwl - wealth]]
-- [[nwr - brand mark camels]]
-- [[qdr - measuring]]
-- [[qrb - become near]]
-- [[qsm - division apportionment things]]
-- [[qwl - qawala]]
-- [[r>y - see eye perceive]]
+- [[nwr - fire]]
+- [[qdr - all-powerful]]
+- [[qrb - near]]
+- [[qsm - i swear]]
+- [[qwl - say]]
+- [[r>y - you see]]
 - [[rHm - mercy]]
 - [[rqb - slave]]
-- [[skn - still]]
-- [[trb - earth]]
+- [[skn - needy]]
+- [[trb - dust]]
 - [[wSd - open space court]]
-- [[wSy - enjoin]]
-- [[wld - birth offspring]]
+- [[wSy - any will]]
+- [[wld - children]]
 - [[xlq - create]]
-- [[ymn - right side south]]
-- [[ytm - make someone orphan]]
+- [[ymn - oaths]]
+- [[ytm - orphans]]
 - [[ywm - day]]
 
 ## Sample (ayah 1)

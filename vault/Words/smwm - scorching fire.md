@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[smm - poison poisonous]]
+- [[smm - scorching fire]]
 
 ### Meaning
 **scorching fire** · Lemma **سَمُوم**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[H*r - fear]]
+- [[H*r - warns you]]
 
 ### Meaning
 **warns you** · Lemma **يَحْذَرُ**

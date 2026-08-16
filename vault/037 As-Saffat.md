@@ -17,79 +17,79 @@ Those who set the Ranks · 182 ayahs
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
 - [[>qbl - will approach]] — `أَقْبَلَ` · will approach
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
-- [[mElwm - known]] — `مَعْلُوم` · known
-- [[TlE - discover]] — `طَلَعَ` · discover
-- [[bnt - daughters]] — `بِنْت` · daughters
 - [[krb - distress]] — `كَرْب` · distress
-- [[<fk - lie]] — `إِفْك` · lie
-- [[EZAm - bones]] — `عِظام` · bones
-- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
 - [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
 - [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
 - [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[Hlym - forbearing]] — `حَلِيم` · forbearing
-- [[Sf - rows]] — `صَفّ` · rows
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[nAdY - he called]] — `نادَى` · he called
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xTf - snatches away]] — `خَطِفَ` · snatches away
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[<fk - lie]] — `إِفْك` · lie
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[EZAm - bones]] — `عِظام` · bones
+- [[TlE - discover]] — `طَلَعَ` · discover
+- [[ms}wl - questioned]] — `مَسْئُول` · questioned
+- [[gAwy - deviators]] — `غاوي` · deviators
+- [[njm - stars]] — `نَجْم` · stars
+- [[sEy - effort]] — `سَعْي` · effort
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[EAml - working]] — `عامِل` · working
+- [[kwkb - stars]] — `كَوْكَب` · stars
+- [[qASrp - will companions modest]] — `قاصِرَة` · will companions modest
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[whb - grant]] — `وَهَبَ` · grant
+- [[blA' - was trial]] — `بَلاء` · was trial
+- [[gAbr - remain behind]] — `غابِر` · remain behind
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Hn - fill]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Hn - laden]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
 - [[$hb - burning flame]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
-- [[$rq - earth]]
+- [[$rk - polytheists]]
+- [[$rq - east]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
-- [[*bH - cut split lengthwise]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*rr - scattering dispersing small]]
+- [[$yE - sects]]
+- [[*bH - slaughtering]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>Sl - foundational part something]]
+- [[>Sl - evening]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
+- [[>mr - command]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
-- [[E*b - motes particles floating]]
+- [[Drb - strike]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ejb - amazing]]
-- [[Ejl - incite cause someone]]
-- [[Ejz - old age weakness]]
+- [[Ejb - pleases you]]
+- [[Ejl - calf]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Eql - withhold restrain]]
+- [[Eqb - end]]
+- [[Eql - use reason]]
 - [[Ery - become naked]]
 - [[Eyn - eyes]]
 

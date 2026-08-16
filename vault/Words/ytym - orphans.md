@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ytm - make someone orphan]]
+- [[ytm - orphans]]
 
 ### Meaning
 **orphans** · Lemma **يَتِيم**

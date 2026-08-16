@@ -14,38 +14,38 @@ The Elephant · 5 ayahs
 
 ## Words in this surah (graph)
 
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[rb - lord]] — `رَبّ` · lord
-- [[sjyl - baked clay]] — `سِجِّيل` · baked clay
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[>SHAb - companions]] — `أَصْحاب` · companions
 - [[rmY - accuse]] — `رَمَى` · accuse
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[ESf - husk]] — `عَصْف` · husk
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[HjArp - stones]] — `حِجارَة` · stones
+- [[sjyl - baked clay]] — `سِجِّيل` · baked clay
+- [[Tyr - birds]] — `طَيْر` · birds
 - [[>rsl - we sent]] — `أَرْسَلَ` · we sent
 - [[kyf - how]] — `كَيْف` · how
+- [[r>Y - you see]] — `رَأَى` · you see
 - [[kyd - plot]] — `كَيْد` · plot
-- [[ESf - husk]] — `عَصْف` · husk
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[>bl - camels]]
+- [[>bl - say]]
 - [[>kl - eat]]
 - [[Dll - astray]]
-- [[ESf - stormy]]
+- [[ESf - husk]]
 - [[Hjr - stones]]
-- [[SHb - lord]]
-- [[Tyr - anything flies]]
-- [[fEl - deed]]
+- [[SHb - companion]]
+- [[Tyr - birds]]
+- [[fEl - you do]]
 - [[jEl - we made]]
-- [[kyd - deceive]]
-- [[kyf - kayyafa]]
-- [[r>y - see eye perceive]]
+- [[kyd - plot]]
+- [[kyf - how]]
+- [[r>y - you see]]
 - [[rbb - Lord]]
-- [[rmy - throw cast something]]
+- [[rmy - accuse]]
 - [[rsl - messenger]]
-- [[sjl - full bucket water]]
+- [[sjl - baked clay]]
 
 ## Sample (ayah 1)
 

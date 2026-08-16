@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[yqn - know something certainty]]
+- [[yqn - certain]]
 
 ### Meaning
 **certain** · Lemma **يُوقِنُ**

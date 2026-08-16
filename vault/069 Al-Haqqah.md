@@ -14,82 +14,82 @@ The Reality · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[vmAnyp - eight]] — `ثَمانِيَة` · eight
 - [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[ryH - wind]] — `رِيح` · wind
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[EAd - aad]] — `عادَ` · aad
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[qr> - read]] — `قَرَأَ` · read
-- [[slslp - chains]] — `سِلْسِلَة` · chains
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[Elm - know]] — `عَلِمَ` · know
-- [[xAwyp - had overturned]] — `خاوِيَة` · had overturned
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[fwq - above them]] — `فَوْق` · above them
-- [[qbl - before]] — `قَبْل` · before
+- [[vmAnyp - eight]] — `ثَمانِيَة` · eight
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[Hml - will bear]] — `حَمَلَ` · will bear
 - [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[bED - others]] — `بَعْض` · others
-- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
-- [[qlyl - little]] — `قَلِيل` · little
-- [[ktAb - book]] — `كِتاب` · book
-- [[nxl - date-palms]] — `نَخْل` · date-palms
-- [[slk - follow]] — `سَلَكَ` · follow
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[EZym - great]] — `عَظِيم` · great
+- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[qr> - read]] — `قَرَأَ` · read
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[allah - God]] — `الله` · God
+- [[mA' - water]] — `ماء` · water
+- [[lys - not]] — `لَيْسَ` · not
+- [[fwq - above them]] — `فَوْق` · above them
+- [[EAd - aad]] — `عادَ` · aad
+- [[hlk - died]] — `هَلَكَ` · died
+- [[qwm - people]] — `قَوْم` · people
+- [[rb - lord]] — `رَبّ` · lord
+- [[ryH - wind]] — `رِيح` · wind
+- [[xAwyp - had overturned]] — `خاوِيَة` · had overturned
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[Asm - name]] — `اسْم` · name
+- [[xAT} - sinners]] — `خاطِئ` · sinners
+- [[slTAn - authority]] — `سُلْطان` · authority
 
 ## Roots
 
-- [[$Er - name]]
-- [[$ml - include encompass something]]
-- [[$qq - cleave]]
+- [[$Er - perceive]]
+- [[$ml - left]]
+- [[$qq - opposes]]
 - [[$rb - drink]]
-- [[*kr - remember recall something]]
-- [[*rE - forearm]]
-- [[>*n - ear]]
+- [[*kr - remember]]
+- [[*rE - uneasy]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>fk - turn something away]]
+- [[>fk - lie]]
 - [[>kl - eat]]
 - [[>mn - believe]]
 - [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[ESy - disobey]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
-- [[Ejz - old age weakness]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Er$ - shaded structure]]
+- [[Elw - high]]
+- [[Er$ - throne]]
 - [[ErD - turn away]]
-- [[Etw - pride]]
+- [[Etw - were insolent]]
 - [[Ewd - aad]]
-- [[Ey$ - life sustenance]]
+- [[Ey$ - life]]
 - [[HDD - incite]]
-- [[Hml - bear]]
-- [[Hmm - blackness being intensely]]
-- [[Hqq - established as true]]
-- [[Hsb - number]]
-- [[Hsr - remove uncover something]]
-- [[Sly - exposed fire heat]]
+- [[Hml - will bear]]
+- [[Hmm - scalding water]]
+- [[Hqq - truth]]
+- [[Hsb - account]]
+- [[Hsr - regret]]
+- [[Sly - burn therein]]
 - [[SrSr - furious]]
-- [[Swr - incline]]
+- [[Swr - trumpet]]
 - [[TEm - food]]
 - [[Tgy - transgression]]
-- [[Znn - think]]
+- [[Znn - assumption]]
 - [[allah - God]]
 - [[bED - others]]
-- [[bSr - mental perception]]
-- [[bqy - remain]]
+- [[bSr - all-seer]]
+- [[bqy - more lasting]]
 - [[dkk - crushed]]
-- [[dnw - become near]]
-- [[dry - know]]
-- [[fwq - above]]
-- [[gll - enter penetrate]]
-- [[gny - dwelling residing place]]
+- [[dnw - world]]
+- [[dry - can make you]]
+- [[fwq - above them]]
+- [[gll - shackles]]
+- [[gny - will avail]]
 - [[gsl - wash water]]
-- [[hlk - perish destroyed]]
+- [[hlk - we destroyed]]
 - [[hn> - satisfaction]]
 - [[jEl - we made]]
 

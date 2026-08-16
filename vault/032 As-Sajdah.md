@@ -14,83 +14,83 @@ The Prostration · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[SAlH - righteous]] — `صالِح` · righteous
+- [[mwt - death]] — `مَوْت` · death
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
 - [[xwf - fear]] — `خَوْف` · fear
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[$A' - he wills]] — `شاءَ` · he wills
+- [[qrn - generations]] — `قَرْن` · generations
+- [[$Y' - thing]] — `شَىْء` · thing
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[nAs - people]] — `ناس` · people
-- [[lqA' - meeting]] — `لِقاء` · meeting
-- [[byn - between them]] — `بَيْن` · between them
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[xr - fell down]] — `خَرَّ` · fell down
-- [[mwqn - certain]] — `مُوقِن` · certain
-- [[bd> - originates]] — `بَدَأَ` · originates
-- [[Elm - know]] — `عَلِمَ` · know
-- [[m>wY - abode]] — `مَأْوَى` · abode
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[qbl - before]] — `قَبْل` · before
-- [[stp - six]] — `سِتَّة` · six
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[qrp - comfort]] — `قُرَّة` · comfort
+- [[<nsAn - man]] — `إِنسان` · man
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[dEA - call]] — `دَعا` · call
+- [[mryp - doubt]] — `مِرْيَة` · doubt
+- [[jnb - sides]] — `جَنب` · sides
+- [[ryb - doubt]] — `رَيْب` · doubt
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[allah - God]] — `الله` · God
+- [[mA' - water]] — `ماء` · water
+- [[kl - every]] — `كُلّ` · every
+- [[>*Aq - surely]] — `أَذاقَ` · surely
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[snp - years]] — `سَنَة` · years
+- [[ynZr - will reprieved]] — `يُنظَرُ` · will reprieved
 
 ## Roots
 
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
 - [[$kr - gratitude]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*wq - taste]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
-- [[>mm - leadership]]
+- [[>lf - thousand]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wy - betake oneself place]]
-- [[>yy - ism]]
-- [[DjE - lie down one's]]
+- [[>wy - abode]]
+- [[>yy - signs]]
+- [[DjE - places death]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
-- [[Edd - count]]
+- [[E*b - punishment]]
+- [[Edd - number]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Er$ - shaded structure]]
+- [[Er$ - throne]]
 - [[ErD - turn away]]
-- [[Erj - ascend mount]]
+- [[Erj - ascend]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
-- [[Sbr - confine restrain]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
-- [[TmE - covet desire something]]
-- [[Tyn - plaster seal clay]]
-- [[Zlm - put something wrong]]
+- [[Sbr - patient]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
+- [[TmE - hope]]
+- [[Tyn - clay]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
-- [[bSr - mental perception]]
+- [[bSr - all-seer]]
 - [[bd> - originates]]
-- [[bny - sons]]
+- [[bny - son]]
 - [[byn - clear]]
 - [[dEw - call]]
 - [[dbr - turn back]]
-- [[dnw - become near]]
+- [[dnw - world]]
 - [[dwn - besides]]
-- [[f>d - heart]]
-- [[fSl - separate]]
+- [[f>d - hearts]]
+- [[fSl - we explain]]
 - [[fry - invent]]
 
 ## Sample (ayah 1)

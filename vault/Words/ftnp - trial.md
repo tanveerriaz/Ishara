@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ftn - burn melt something]]
+- [[ftn - trial]]
 
 ### Meaning
 **trial** · Lemma **فِتْنَة**

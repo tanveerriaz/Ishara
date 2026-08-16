@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rbT - tie bind]]
+- [[rbT - strengthen]]
 
 ### Meaning
 **strengthen** · Lemma **رَبَطْ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fH$ - actions speech foul]]
+- [[fH$ - immorality]]
 
 ### Meaning
 **immorality** · Lemma **فاحِشَة**

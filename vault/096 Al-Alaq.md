@@ -14,45 +14,45 @@ The Clot · 19 ayahs
 
 ## Words in this surah (graph)
 
-- [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[dEA - call]] — `دَعا` · call
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[rb - lord]] — `رَبّ` · lord
-- [[>mr - command]] — `أَمَرَ` · command
-- [[qr> - read]] — `قَرَأَ` · read
-- [[<nsAn - man]] — `إِنسان` · man
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[Asm - name]] — `اسْم` · name
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[Elm - know]] — `عَلِمَ` · know
 - [[nhY - forbid]] — `نَهَى` · forbid
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[AnthY - you desist]] — `انتَهَى` · you desist
+- [[Asm - name]] — `اسْم` · name
 - [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[k*b - denied]] — `كَذَبَ` · denied
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[kA*b - liars]] — `كاذِب` · liars
+- [[<nsAn - man]] — `إِنسان` · man
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[dEA - call]] — `دَعا` · call
+- [[Elm - know]] — `عَلِمَ` · know
+- [[qlm - by pen]] — `قَلَم` · by pen
 - [[TgY - has transgressed]] — `طَغَى` · has transgressed
-- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
-- [[allah - God]] — `الله` · God
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
 - [[kAn - is]] — `كانَ` · is
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[qr> - read]] — `قَرَأَ` · read
+- [[allah - God]] — `الله` · God
+- [[>mr - command]] — `أَمَرَ` · command
+- [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
+- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[r>Y - you see]] — `رَأَى` · you see
 
 ## Roots
 
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Elq - hang]]
+- [[Elq - clinging substance]]
 - [[Slw - prayer]]
 - [[Tgy - transgression]]
 - [[TwE - obey]]
 - [[allah - God]]
 - [[dEw - call]]
-- [[gny - dwelling residing place]]
+- [[gny - will avail]]
 - [[hdy - guide]]
 - [[k*b - denied]]
 - [[krm - noble]]
@@ -60,16 +60,16 @@ The Clot · 19 ayahs
 - [[nSy - forelock front part]]
 - [[ndy - he called]]
 - [[nhy - forbid]]
-- [[qlm - writing reed pen]]
-- [[qr> - someone teaches others]]
-- [[qrb - become near]]
-- [[r>y - see eye perceive]]
+- [[qlm - by pen]]
+- [[qr> - quran]]
+- [[qrb - near]]
+- [[r>y - you see]]
 - [[rbb - Lord]]
 - [[rjE - return]]
-- [[sjd - humble]]
+- [[sjd - prostrate]]
 - [[smw - name]]
 - [[wly - protector]]
-- [[wqy - protect]]
+- [[wqy - fear]]
 - [[xT> - sins]]
 - [[xlq - create]]
 

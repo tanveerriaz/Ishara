@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[drs - something become effaced]]
+- [[drs - studying it]]
 
 ### Meaning
 **studying it** · Lemma **دَرَسُ**

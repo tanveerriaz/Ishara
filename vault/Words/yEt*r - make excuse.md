@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E*r - excuse free blame]]
+- [[E*r - make excuse]]
 
 ### Meaning
 **make excuse** · Lemma **يَعْتَذِرُ**

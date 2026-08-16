@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$ry - buy sell]]
+- [[$ry - exchange]]
 
 ### Meaning
 **exchange** · Lemma **اشْتَرَى**

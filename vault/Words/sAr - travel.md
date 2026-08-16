@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[syr - go]]
+- [[syr - travel]]
 
 ### Meaning
 **travel** · Lemma **سارَ**

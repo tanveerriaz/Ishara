@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nfE - profit]]
+- [[nfE - benefits]]
 
 ### Meaning
 **benefit** · Lemma **نَفَعَ**

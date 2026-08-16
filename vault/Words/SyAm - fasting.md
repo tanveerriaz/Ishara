@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Swm - abstain]]
+- [[Swm - fasting]]
 
 ### Meaning
 **fasting** · Lemma **صِيام**

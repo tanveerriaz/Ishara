@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tm>n - become quiet]]
+- [[Tm>n - satisfy]]
 
 ### Meaning
 **satisfy** · Lemma **اطْمَأَنَّ**

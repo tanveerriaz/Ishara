@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gmm - covering concealing something]]
+- [[gmm - distress]]
 
 ### Meaning
 **distress** · Lemma **غَمّ**

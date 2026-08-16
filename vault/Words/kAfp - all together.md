@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kff - restrain]]
+- [[kff - all together]]
 
 ### Meaning
 **all together** · Lemma **كافَّة**

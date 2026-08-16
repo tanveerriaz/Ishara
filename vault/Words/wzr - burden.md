@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wzr - bear heavy burden]]
+- [[wzr - burden]]
 
 ### Meaning
 **burden** · Lemma **وِزْر**

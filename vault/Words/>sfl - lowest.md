@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sfl - become low]]
+- [[sfl - lowest]]
 
 ### Meaning
 **lowest** · Lemma **أَسْفَل**

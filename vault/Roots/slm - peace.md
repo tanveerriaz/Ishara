@@ -12,7 +12,7 @@ tags: [root, meaning]
 **Sense:** peace · **Root:** سلم
 
 ### Words (wikilinks — these create the graph)
-- [[<slAm - islam]]
+- [[<slAm - pretense islam]]
 - [[>slm - submits]]
 - [[mslm - muslims]]
 - [[mslmp - submissive]]

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wSf - describing attributing qualities]]
+- [[wSf - they attribute]]
 
 ### Meaning
 **they attribute** · Lemma **يَصِفُ**

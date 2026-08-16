@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wqy - protect]]
+- [[wqy - fear]]
 
 ### Meaning
 **righteousness** · Lemma **تَقْوَى**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[n>y - they keep away]]
+- [[n>y - becomes remote]]
 
 ### Meaning
 **becomes remote** · Lemma **نَأَى**

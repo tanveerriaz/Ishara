@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tms - efface obliterate something]]
+- [[Tms - we efface]]
 
 ### Meaning
 **we efface** · Lemma **طُمِسَتْ**

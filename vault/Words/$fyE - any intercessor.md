@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$fE - make something pair]]
+- [[$fE - intercession]]
 
 ### Meaning
 **any intercessor** · Lemma **شَفِيع**

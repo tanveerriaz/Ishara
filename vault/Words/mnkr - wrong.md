@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nkr - ignore]]
+- [[nkr - wrong]]
 
 ### Meaning
 **wrong** · Lemma **مُنكَر**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qnt - obedient]]
+- [[qnt - devoutly obedient]]
 
 ### Meaning
 **devoutly obedient** · Lemma **قانِت**

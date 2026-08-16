@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bqy - remain]]
+- [[bqy - more lasting]]
 
 ### Meaning
 **but enduring** · Lemma **باقِيَة**

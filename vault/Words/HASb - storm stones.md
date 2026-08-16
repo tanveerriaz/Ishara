@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HSb - pelt pebbles spread]]
+- [[HSb - storm stones]]
 
 ### Meaning
 **storm stones** · Lemma **حاصِب**

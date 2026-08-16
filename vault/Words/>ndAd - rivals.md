@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ndd - flee run away]]
+- [[ndd - rivals]]
 
 ### Meaning
 **rivals** · Lemma **أَنداد**

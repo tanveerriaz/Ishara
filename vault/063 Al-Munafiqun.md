@@ -14,84 +14,84 @@ The Hypocrites · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[Hsb - think]] — `حَسْب` · think
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qbl - before]] — `قَبْل` · before
-- [[kA*b - liars]] — `كاذِب` · liars
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[xzA}n - treasures]] — `خَزائِن` · treasures
-- [[rjE - return]] — `رَجَعَ` · return
 - [[mwt - death]] — `مَوْت` · death
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[>fk - they deluded]] — `أُفِكَ` · they deluded
-- [[xAsr - losers]] — `خاسِر` · losers
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[m&mn - believers]] — `مُؤْمِن` · believers
+- [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[qryb - near]] — `قَرِيب` · near
+- [[allah - God]] — `الله` · God
+- [[kl - every]] — `كُلّ` · every
+- [[qwm - people]] — `قَوْم` · people
+- [[rb - lord]] — `رَبّ` · lord
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[r>s - heads]] — `رَأْس` · heads
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[qAtl - fight]] — `قاتَلَ` · fight
 - [[tEAl - come]] — `تَعالَ` · come
+- [[Eml - do]] — `عَمِلَ` · do
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[Sd - hinder]] — `صَدّ` · hinder
+- [[kAn - is]] — `كانَ` · is
+- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
+- [[smE - hearing]] — `سَمْع` · hearing
+- [[qwl - speech]] — `قَوْل` · speech
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[m&mn - believers]] — `مُؤْمِن` · believers
 
 ## Roots
 
-- [[$hd - witnessing]]
-- [[*kr - remember recall something]]
+- [[$hd - witness]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
 - [[>Hd - anyone]]
-- [[>fk - turn something away]]
+- [[>fk - lie]]
 - [[>jl - term]]
 - [[>mn - believe]]
 - [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
-- [[Edw - turn]]
-- [[Ejb - amazing]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
+- [[Edw - enemy]]
+- [[Ejb - pleases you]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[H*r - fear]]
-- [[Hsb - number]]
-- [[Sdd - turn away]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
-- [[SyH - raise one's voice]]
-- [[TbE - seal]]
+- [[H*r - warns you]]
+- [[Hsb - account]]
+- [[Sdd - hinder]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
+- [[SyH - shout]]
+- [[TbE - were sealed]]
 - [[allah - God]]
-- [[fDD - break]]
-- [[fEl - deed]]
+- [[fDD - silver]]
+- [[fEl - you do]]
 - [[fqh - understand]]
-- [[fsq - go forth something]]
-- [[gfr - cover conceal]]
+- [[fsq - defiantly disobedient]]
+- [[gfr - oft-forgiving]]
 - [[hdy - guide]]
-- [[jnn - cover]]
+- [[jnn - gardens]]
 - [[jy> - came them]]
 - [[k*b - denied]]
-- [[kbr - greater]]
+- [[kbr - great]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
 - [[kwn - is]]
-- [[lhw - uvula]]
+- [[lhw - diversion]]
 - [[lwy - twisting]]
-- [[mdn - dwelling city being]]
+- [[mdn - city]]
 - [[mwl - wealth]]
 - [[mwt - death]]
-- [[nfq - something being demand]]
-- [[nfs - soul]]
-- [[qbl - face come forward]]
-- [[qlb - alter]]
-- [[qrb - become near]]
+- [[nfq - hypocrites]]
+- [[nfs - themselves]]
+- [[qbl - before]]
+- [[qlb - hearts]]
+- [[qrb - near]]
 
 ## Sample (ayah 1)
 

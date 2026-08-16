@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 
 ### Meaning
 **reward** · Lemma **أَجْر**

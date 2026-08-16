@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nq* - something saved]]
+- [[nq* - would saved]]
 
 ### Meaning
 **would saved** · Lemma **أَنقَذَ**

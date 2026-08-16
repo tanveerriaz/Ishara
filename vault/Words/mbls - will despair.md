@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bls - balsam tree]]
+- [[bls - will despair]]
 
 ### Meaning
 **will despair** · Lemma **مُبْلِس**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fjj - fajj]]
+- [[fjj - broad passes]]
 
 ### Meaning
 **broad passes** · Lemma **فَجّ**

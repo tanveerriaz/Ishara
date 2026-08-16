@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rsw - establishing agreement between]]
+- [[rsw - firm mountains]]
 
 ### Meaning
 **its anchorage** · Lemma **مُرْسَى**

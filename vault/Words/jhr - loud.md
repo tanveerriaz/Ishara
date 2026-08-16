@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jhr - make something plain]]
+- [[jhr - loud]]
 
 ### Meaning
 **loud** · Lemma **جَهْر**

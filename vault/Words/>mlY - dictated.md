@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mlw - i will give]]
+- [[mlw - dictated]]
 
 ### Meaning
 **dictated** · Lemma **أَمْلَى**

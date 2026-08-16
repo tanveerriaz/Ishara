@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[vlv - number three]]
+- [[vlv - three]]
 
 ### Meaning
 **three** · Lemma **ثَلاثَة**

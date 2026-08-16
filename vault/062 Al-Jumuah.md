@@ -15,83 +15,83 @@ The Congregation, Friday · 11 ayahs
 ## Words in this surah (graph)
 
 - [[ytmn - then wish]] — `يَتَمَنَّ` · then wish
-- [[rd - returned]] — `رَدَّ` · returned
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qbl - before]] — `قَبْل` · before
-- [[mvl - example]] — `مَثَل` · example
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[nAdY - he called]] — `نادَى` · he called
+- [[tlY - recited]] — `تَلَى` · recited
 - [[mwt - death]] — `مَوْت` · death
-- [[Ayp - signs]] — `آيَة` · signs
-- [[ktAb - book]] — `كِتاب` · book
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[dwn - besides]] — `دُون` · besides
-- [[hAd - jews]] — `هادُ` · jews
-- [[y*r - leave]] — `يَذَرَ` · leave
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[>my - unlettered]] — `أُمِّيّ` · unlettered
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[qDY - surely]] — `قَضَى` · surely
+- [[EZym - great]] — `عَظِيم` · great
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
 - [[tjArp - commerce]] — `تِجارَة` · commerce
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[allah - God]] — `الله` · God
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[rAzq - providers]] — `رازِق` · providers
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[xyr - better]] — `خَيْر` · better
+- [[nAdY - he called]] — `نادَى` · he called
+- [[qwm - people]] — `قَوْم` · people
+- [[sEY - strive]] — `سَعَى` · strive
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[Ayp - signs]] — `آيَة` · signs
+- [[Eml - do]] — `عَمِلَ` · do
+- [[AtY - give]] — `آتَى` · give
 
 ## Roots
 
-- [[$hd - witnessing]]
+- [[$hd - witness]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[>bd - absolute long]]
-- [[>mm - leadership]]
+- [[*kr - remember]]
+- [[>bd - ever]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
 - [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[Hkm - prevent restrain someone]]
-- [[Hml - bear]]
-- [[Hmr - color red]]
-- [[Sdq - speak truth]]
+- [[Hkm - all-wise]]
+- [[Hml - will bear]]
+- [[Hmr - donkeys]]
+- [[Sdq - truthful]]
 - [[Slw - prayer]]
-- [[Zlm - put something wrong]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
 - [[b>s - wretched]]
-- [[bEv - remove restraint]]
-- [[bgy - seek desire something]]
-- [[byE - exchange property]]
+- [[bEv - we sent]]
+- [[bgy - seeking]]
+- [[byE - trade]]
 - [[byn - clear]]
 - [[dwn - besides]]
-- [[fDD - break]]
+- [[fDD - silver]]
 - [[fDl - bounty]]
-- [[flH - cleave split]]
+- [[flH - successful ones]]
 - [[frr - flight]]
-- [[gyb - absent]]
+- [[gyb - unseen]]
 - [[hdy - guide]]
-- [[hwd - becoming jewish teaching]]
-- [[jmE - collection]]
+- [[hwd - jews]]
+- [[jmE - all]]
 - [[k*b - denied]]
 - [[ktb - book]]
 - [[kvr - them]]
 - [[kwn - is]]
-- [[lHq - reach]]
-- [[lhw - uvula]]
+- [[lHq - join me]]
+- [[lhw - diversion]]
 - [[lqy - meeting]]
 - [[mlk - sovereignty]]
-- [[mny - decreeing]]
-- [[mvl - mathal]]
+- [[mny - wishful thinking]]
+- [[mvl - example]]
 - [[mwt - death]]
-- [[n$r - spread open something]]
+- [[n$r - resurrection]]
 
 ## Sample (ayah 1)
 

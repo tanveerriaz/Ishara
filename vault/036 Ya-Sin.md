@@ -14,80 +14,80 @@ Ya Sin · 83 ayahs
 
 ## Words in this surah (graph)
 
-- [[mHDr - will brought]] — `مُحْضَر` · will brought
 - [[SyHp - shout]] — `صَيْحَة` · shout
+- [[mHDr - will brought]] — `مُحْضَر` · will brought
 - [[>nq* - would saved]] — `أَنقَذَ` · would saved
 - [[ynbgy - appropriate]] — `يَنۢبَغِي` · appropriate
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[jmyE - all]] — `جَمِيع` · all
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Adm - adam]] — `آدَم` · adam
-- [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
-- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
-- [[m$Hwn - laden]] — `مَشْحُون` · laden
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[vmr - its fruit]] — `ثَمَر` · its fruit
-- [[qmr - moon]] — `قَمَر` · moon
+- [[AnthY - you desist]] — `انتَهَى` · you desist
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[>jr - reward]] — `أَجْر` · reward
+- [[qrn - generations]] — `قَرْن` · generations
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[fTr - created me]] — `فَطَرَ` · created me
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[ydE - they call]] — `يَدَّعُ` · they call
+- [[flk - ships]] — `فُلْك` · ships
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[<nsAn - man]] — `إِنسان` · man
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[AxtSm - dispute]] — `اخْتَصَمُ` · dispute
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[ATyr - they ascribe evil]] — `اطَّيَّرْ` · they ascribe evil
 - [[$A' - he wills]] — `شاءَ` · he wills
-- [[mrp - time]] — `مَرَّة` · time
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Hn - fill]]
-- [[$Tn - anything excessively proud]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$Er - perceive]]
+- [[$Hn - laden]]
+- [[$Tn - shaitaan]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
+- [[$ms - sun]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[*rr - scattering dispersing small]]
+- [[*rr - offspring]]
 - [[>bw - forefathers]]
-- [[>dm - seasoned food]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[>dm - o adam]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[>rk - person staying put]]
+- [[>rk - couches]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
-- [[Ehd - protection safeguard]]
+- [[Edw - enemy]]
+- [[Ehd - covenant]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Eml - intentional action deed]]
+- [[Eln - they declare]]
+- [[Eml - do]]
 - [[Emr - life]]
 - [[Enb - grapes]]
-- [[Enq - like summer age]]
-- [[Eql - withhold restrain]]
+- [[Enq - necks]]
+- [[Eql - use reason]]
 - [[ErD - turn away]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]

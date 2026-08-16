@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nxl - clear]]
+- [[nxl - date-palms]]
 
 ### Meaning
 **date-palms** · Lemma **نَخْل**

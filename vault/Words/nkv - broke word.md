@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nkv - undo untwist]]
+- [[nkv - broke word]]
 
 ### Meaning
 **broke word** · Lemma **نَكَثَ**

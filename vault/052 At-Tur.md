@@ -15,82 +15,82 @@ The Mount · 49 ayahs
 ## Words in this surah (graph)
 
 - [[wqY - save us]] — `وَقَى` · save us
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xAlq - creator]] — `خالِق` · creator
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[TAf - will circulated]] — `طافَ` · will circulated
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Twr - mount]] — `طُور` · mount
-- [[Elm - know]] — `عَلِمَ` · know
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[>lHq - join me]] — `أَلْحَقْ` · join me
+- [[mgrm - debt]] — `مَغْرَم` · debt
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[bHr - sea]] — `بَحْر` · sea
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[njm - stars]] — `نَجْم` · stars
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[qAm - stand]] — `قامَ` · stand
+- [[dEA - call]] — `دَعا` · call
+- [[smwm - scorching fire]] — `سَمُوم` · scorching fire
+- [[Hwr - fair ones]] — `حُور` · fair ones
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
 - [[jbl - mountains]] — `جَبَل` · mountains
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[qbl - before]] — `قَبْل` · before
-- [[mknwn - well-protected]] — `مَكْنُون` · well-protected
-- [[trbS - waiting]] — `تَرَبُّص` · waiting
-- [[ksb - earn]] — `كَسَبَ` · earn
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[mvl - example]] — `مَثَل` · example
-- [[xzA}n - treasures]] — `خَزائِن` · treasures
-- [[byt - houses]] — `بَيْت` · houses
+- [[ryb - doubt]] — `رَيْب` · doubt
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[msTwr - written]] — `مَسْطُور` · written
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[allah - God]] — `الله` · God
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[br - land]] — `بِرّ` · land
 
 ## Roots
 
-- [[$Er - name]]
-- [[$fq - fear]]
+- [[$Er - perceive]]
+- [[$fq - fearful]]
 - [[$hw - they desire]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[*rr - scattering dispersing small]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[*kr - remember]]
+- [[*rr - offspring]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mn - believe]]
-- [[>mr - amara]]
+- [[>mr - command]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[E*b - motes particles floating]]
+- [[>vm - sin]]
+- [[E*b - punishment]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[Emr - life]]
 - [[End - near]]
 - [[Eyn - eyes]]
-- [[Hdv - accidents]]
-- [[Hkm - prevent restrain someone]]
+- [[Hdv - statement]]
+- [[Hkm - all-wise]]
 - [[Hlm - forbearing]]
 - [[Hmd - praise]]
-- [[Hwr - returning circling]]
-- [[Hyn - period time]]
-- [[SEq - loud]]
-- [[Sbr - confine restrain]]
-- [[Sdq - speak truth]]
-- [[Sff - arrange things row]]
-- [[Sly - exposed fire heat]]
+- [[Hwr - disciples]]
+- [[Hyn - time]]
+- [[SEq - thunderbolt]]
+- [[Sbr - patient]]
+- [[Sdq - truthful]]
+- [[Sff - rows]]
+- [[Sly - burn therein]]
 - [[Tgy - transgression]]
-- [[Twf - go walk around]]
+- [[Twf - group]]
 - [[Twr - mount]]
-- [[Zlm - put something wrong]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
 - [[bED - others]]
-- [[bHr - large body water]]
-- [[bSr - mental perception]]
-- [[bny - sons]]
+- [[bHr - sea]]
+- [[bSr - all-seer]]
+- [[bny - son]]
 - [[brr - land]]
 - [[byn - clear]]
-- [[byt - any house]]
+- [[byt - houses]]
 - [[dEw - call]]
 - [[dbr - turn back]]
-- [[dfE - impel]]
+- [[dfE - repel]]
 - [[dwn - besides]]
 
 ## Sample (ayah 1)

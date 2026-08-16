@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
+import { displaySlug, formatSurahLabel, formatVerseRef } from './display'
 import type { NoteData, NoteVerse, TrMode } from './types'
 
 type Props = {
@@ -7,6 +8,10 @@ type Props = {
   versesLoading?: boolean
   onNavigate: (slug: string) => void
   onNeedAllVerses?: () => void
+  onClose?: () => void
+  onBack?: () => void
+  backTrail?: string | null
+  showSheetChrome?: boolean
 }
 
 const VERSE_PAGE = 12
@@ -22,14 +27,6 @@ function readTrMode(): TrMode {
     /* ignore */
   }
   return 'all'
-}
-
-/** Prefer English gloss from `bw - meaning` slugs for link buttons. */
-function displaySlug(slug: string): string {
-  const i = slug.indexOf(' - ')
-  if (i < 0) return slug
-  const meaning = slug.slice(i + 3).trim()
-  return meaning || slug
 }
 
 const EN_STOP = new Set([
@@ -106,6 +103,27 @@ function highlightEnglish(text: string, gloss: string): ReactNode[] {
   })
 }
 
+/** Space Arabic root letters for display: عذب → ع ذ ب */
+function spacedRoot(arabic: string): string {
+  const letters = [...arabic.replace(/\s+/g, '')].filter((ch) => /[\u0621-\u064A]/.test(ch))
+  return letters.join(' ')
+}
+
+function glossTokens(text: string): Set<string> {
+  return new Set(
+    (text.toLowerCase().match(/[a-z]{3,}/g) ?? []).map(stemEn).filter((w) => !EN_STOP.has(w)),
+  )
+}
+
+function sensesDiverge(a?: string, b?: string): boolean {
+  if (!a || !b) return false
+  const ta = glossTokens(a)
+  const tb = glossTokens(b)
+  if (!ta.size || !tb.size) return false
+  for (const t of ta) if (tb.has(t)) return false
+  return true
+}
+
 function VerseCard({
   v,
   trMode,
@@ -117,11 +135,13 @@ function VerseCard({
 }) {
   const showEn = trMode === 'all' || trMode === 'en'
   const showUr = trMode === 'all' || trMode === 'ur'
+  const ref = formatVerseRef(v.ref)
+  const surah = formatSurahLabel(v.surah)
   return (
     <article className="verse-card">
       <header className="verse-ref">
         <span>
-          {v.ref} · {displaySlug(v.surah)}
+          {ref} · {surah}
           {v.fromWord ? (
             <>
               {' · '}
@@ -138,12 +158,16 @@ function VerseCard({
       <dl className="verse-evidence">
         <div>
           <dt>Where is this ayah?</dt>
-          <dd>{v.ref} in {displaySlug(v.surah)}</dd>
+          <dd>
+            {ref} in {surah}
+          </dd>
         </div>
         <div>
           <dt>Word in this ayah</dt>
           <dd>
-            <code dir="rtl" lang="ar">{v.wordForm || '—'}</code>
+            <code dir="rtl" lang="ar">
+              {v.wordForm || '—'}
+            </code>
             {v.fromWord ? (
               <>
                 {' · '}
@@ -164,7 +188,10 @@ function VerseCard({
       </div>
       {(v.wordForm || v.gloss) && (
         <p className="verse-word">
-          <strong>Form and sense:</strong> <code dir="rtl" lang="ar">{v.wordForm}</code>
+          <strong>Form and sense:</strong>{' '}
+          <code dir="rtl" lang="ar">
+            {v.wordForm}
+          </code>
           {v.gloss ? ` — ${v.gloss}` : ''}
           {v.fromWord ? (
             <>
@@ -198,7 +225,17 @@ function VerseCard({
   )
 }
 
-export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllVerses }: Props) {
+export function NotePanel({
+  note,
+  loading,
+  versesLoading,
+  onNavigate,
+  onNeedAllVerses,
+  onClose,
+  onBack,
+  backTrail,
+  showSheetChrome,
+}: Props) {
   const paneRef = useRef<HTMLElement>(null)
   const loadMoreRef = useRef<HTMLDivElement>(null)
   const [verseLimit, setVerseLimit] = useState(VERSE_PAGE)
@@ -219,6 +256,12 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
     if (!note?.id || loading) return
     paneRef.current?.scrollTo({ top: 0, behavior: 'smooth' })
     setVerseLimit(VERSE_PAGE)
+    // Move focus into the note for screen readers / keyboard after navigation
+    const heading = paneRef.current?.querySelector('h1, h2')
+    if (heading instanceof HTMLElement) {
+      heading.setAttribute('tabindex', '-1')
+      heading.focus({ preventScroll: true })
+    }
   }, [note?.id, loading])
 
   useEffect(() => {
@@ -250,9 +293,28 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
     }
   }
 
+  const sheetBar =
+    showSheetChrome && (onBack || onClose) ? (
+      <div className="sheet-chrome">
+        {onBack ? (
+          <button type="button" className="sheet-chrome-btn" onClick={onBack} aria-label="Go back">
+            ← {backTrail ? backTrail : 'Back'}
+          </button>
+        ) : (
+          <span className="sheet-chrome-spacer" />
+        )}
+        {onClose ? (
+          <button type="button" className="sheet-chrome-btn sheet-chrome-close" onClick={onClose} aria-label="Close">
+            Close
+          </button>
+        ) : null}
+      </div>
+    ) : null
+
   if (loading) {
     return (
       <aside className="note-pane" ref={paneRef}>
+        {sheetBar}
         Loading note…
       </aside>
     )
@@ -261,6 +323,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
   if (!note) {
     return (
       <aside className="note-pane empty" ref={paneRef}>
+        {sheetBar}
         <div>
           <h2>Ishara</h2>
           <p>
@@ -287,6 +350,16 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
   const heading =
     note.meaning && note.meaning !== note.title ? note.meaning : displaySlug(note.title || note.slug)
 
+  const rootSense = note.type === 'word' && note.root ? displaySlug(note.root) : null
+  const wordSense = note.type === 'word' ? note.meaning || heading : null
+  const showSenseSplit = Boolean(wordSense && rootSense && sensesDiverge(wordSense, rootSense))
+  const arabicRootDisplay =
+    note.type === 'root' && note.lemma
+      ? spacedRoot(note.lemma)
+      : note.type === 'word' && note.lemma && note.root
+        ? null
+        : null
+
   const askMore = () => {
     if (!note.versesLoaded && note.versesFile) onNeedAllVerses?.()
     setVerseLimit((n) => n + VERSE_PAGE)
@@ -294,6 +367,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
 
   return (
     <aside className="note-pane" ref={paneRef}>
+      {sheetBar}
       <div className="note-sticky">
         <div className="note-meta">
           <span className={`badge ${note.type}`}>{note.type}</span>
@@ -319,9 +393,20 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
         <h1>{heading}</h1>
         {note.lemma && (
           <p className="note-lemma" dir="rtl" lang="ar">
-            {note.lemma}
+            {note.type === 'root' ? spacedRoot(note.lemma) || note.lemma : note.lemma}
+            {note.type === 'root' && note.meaning ? (
+              <span className="note-root-sense"> · {note.meaning}</span>
+            ) : null}
           </p>
         )}
+        {arabicRootDisplay && note.meaning ? (
+          <p className="note-root-line">
+            <span dir="rtl" lang="ar">
+              {arabicRootDisplay}
+            </span>
+            <span> · {note.meaning}</span>
+          </p>
+        ) : null}
       </div>
 
       {hasStructured ? (
@@ -329,8 +414,15 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
           <section className="note-summary">
             <p>
               <strong>About:</strong> {note.meaning || heading}
-              {note.lemma ? ` (${note.lemma})` : ''}
+              {note.lemma && note.type !== 'root' ? ` (${note.lemma})` : ''}
             </p>
+            {showSenseSplit && (
+              <p className="sense-split" role="note">
+                This form: <strong>{wordSense}</strong>
+                {' · '}
+                root sense: <strong>{rootSense}</strong>
+              </p>
+            )}
             {note.type === 'word' && (
               <p className="evidence-lede">
                 This word is connected across <strong>{note.surahCount ?? 0}</strong> surahs and{' '}
@@ -401,7 +493,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
                   {visibleSurahs?.map((s) => (
                     <li key={s}>
                       <button type="button" className="linkish" onClick={() => onNavigate(s)}>
-                        {s}
+                        {formatSurahLabel(s)}
                       </button>
                     </li>
                   ))}

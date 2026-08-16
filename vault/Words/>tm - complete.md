@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[tmm - complete perfect something]]
+- [[tmm - complete]]
 
 ### Meaning
 **complete** · Lemma **أَتَمَّ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[msk - hold]]
+- [[msk - he withholds]]
 
 ### Meaning
 **he withholds** · Lemma **أَمْسَكَ**

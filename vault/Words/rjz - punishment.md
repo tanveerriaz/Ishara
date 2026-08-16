@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rjz - reciting specific poetic]]
+- [[rjz - punishment]]
 
 ### Meaning
 **punishment** · Lemma **رِجْز**

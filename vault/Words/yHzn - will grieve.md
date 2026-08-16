@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hzn - become sorrowful]]
+- [[Hzn - will grieve]]
 
 ### Meaning
 **will grieve** · Lemma **يَحْزُن**

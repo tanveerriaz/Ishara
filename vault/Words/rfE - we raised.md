@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rfE - raise]]
+- [[rfE - we raised]]
 
 ### Meaning
 **we raised** · Lemma **رَفَعَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hrq - burn]]
+- [[Hrq - burning fire]]
 
 ### Meaning
 **burn him** · Lemma **حَرِّقُ**

@@ -14,39 +14,39 @@ The Divine Support · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[fwj - troop]] — `فَوْج` · troop
-- [[allah - God]] — `الله` · God
-- [[jA' - came them]] — `جاءَ` · came them
-- [[dxl - enter]] — `دَخَلَ` · enter
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[kAn - is]] — `كانَ` · is
-- [[dyn - religion]] — `دِين` · religion
 - [[Astgfr - ask forgiveness]] — `اسْتَغْفَرَ` · ask forgiveness
+- [[kAn - is]] — `كانَ` · is
+- [[dxl - enter]] — `دَخَلَ` · enter
+- [[jA' - came them]] — `جاءَ` · came them
+- [[allah - God]] — `الله` · God
+- [[nAs - people]] — `ناس` · people
+- [[dyn - religion]] — `دِين` · religion
+- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[nSr - help]] — `نَصَرَ` · help
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[r>Y - you see]] — `رَأَى` · you see
 - [[ftH - victory]] — `فَتَحَ` · victory
 - [[rb - lord]] — `رَبّ` · lord
-- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
-- [[nSr - help]] — `نَصَرَ` · help
-- [[nAs - people]] — `ناس` · people
+- [[fwj - troop]] — `فَوْج` · troop
 
 ## Roots
 
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[Hmd - praise]]
 - [[allah - God]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
 - [[ftH - victory]]
-- [[fwj - company]]
-- [[gfr - cover conceal]]
+- [[fwj - troop]]
+- [[gfr - oft-forgiving]]
 - [[jy> - came them]]
 - [[kwn - is]]
-- [[nSr - aid]]
-- [[r>y - see eye perceive]]
+- [[nSr - christians]]
+- [[r>y - you see]]
 - [[rbb - Lord]]
 - [[sbH - glory]]
-- [[twb - return]]
+- [[twb - repent]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[TlE - rising]]
+- [[TlE - discover]]
 
 ### Meaning
 **rising place** · Lemma **مَطْلِع**

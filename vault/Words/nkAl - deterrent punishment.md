@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nkl - punishment serves as]]
+- [[nkl - deterrent punishment]]
 
 ### Meaning
 **deterrent punishment** · Lemma **نَكال**

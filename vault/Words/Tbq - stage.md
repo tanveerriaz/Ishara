@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tbq - thing equal another]]
+- [[Tbq - stage]]
 
 ### Meaning
 **stage** · Lemma **طَبَق**

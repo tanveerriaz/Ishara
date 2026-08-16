@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qsm - division apportionment things]]
+- [[qsm - i swear]]
 
 ### Meaning
 **i swear** · Lemma **أَقْسَمُ**

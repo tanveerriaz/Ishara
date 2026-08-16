@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bEd - become distant]]
+- [[bEd - after]]
 
 ### Meaning
 **far** · Lemma **بَعِيد**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jyb - opening garment at]]
+- [[jyb - bosom]]
 
 ### Meaning
 **bosom** · Lemma **جَيْب**

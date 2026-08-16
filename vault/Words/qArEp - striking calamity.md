@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qrE - strike hit]]
+- [[qrE - striking calamity]]
 
 ### Meaning
 **striking calamity** · Lemma **قارِعَة**

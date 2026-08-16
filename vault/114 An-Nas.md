@@ -15,28 +15,28 @@ Mankind · 6 ayahs
 ## Words in this surah (graph)
 
 - [[qAl - say]] — `قالَ` · say
-- [[mlk - angels]] — `مَلَك` · angels
 - [[$r - evil]] — `شَرّ` · evil
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[mlk - angels]] — `مَلَك` · angels
 - [[Sdr - breasts]] — `صَدْر` · breasts
-- [[E* - seek refuge]] — `عُذْ` · seek refuge
-- [[<lh - god]] — `إِلٰه` · god
-- [[wsws - then whispered]] — `وَسْوَسَ` · then whispered
-- [[rb - lord]] — `رَبّ` · lord
 - [[nAs - people]] — `ناس` · people
+- [[wsws - then whispered]] — `وَسْوَسَ` · then whispered
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[<lh - god]] — `إِلٰه` · god
+- [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[$rr - sparks fire]]
+- [[$rr - evil]]
 - [[>lh - god]]
-- [[>ns - mankind]]
-- [[Ew* - seek protection]]
-- [[Sdr - front part something]]
-- [[jnn - cover]]
+- [[>ns - people]]
+- [[Ew* - seek refuge]]
+- [[Sdr - breasts]]
+- [[jnn - gardens]]
 - [[mlk - sovereignty]]
-- [[qwl - qawala]]
+- [[qwl - say]]
 - [[rbb - Lord]]
-- [[wsws - whisper]]
+- [[wsws - then whispered]]
 
 ## Sample (ayah 1)
 

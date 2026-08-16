@@ -17,20 +17,20 @@ The Daybreak · 5 ayahs
 - [[qAl - say]] — `قالَ` · say
 - [[$r - evil]] — `شَرّ` · evil
 - [[xlq - creation]] — `خَلَقَ` · creation
+- [[Eqdp - knot]] — `عُقْدَة` · knot
 - [[E* - seek refuge]] — `عُذْ` · seek refuge
 - [[Hsd - out jealousy]] — `حَسَد` · out jealousy
-- [[Eqdp - knot]] — `عُقْدَة` · knot
 - [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[$rr - sparks fire]]
-- [[Eqd - tie knot something]]
-- [[Ew* - seek protection]]
-- [[Hsd - envy someone blessing]]
+- [[$rr - evil]]
+- [[Eqd - knot]]
+- [[Ew* - seek refuge]]
+- [[Hsd - out jealousy]]
 - [[flq - breaking forth light]]
 - [[gsq - eyes shedding tears]]
-- [[qwl - qawala]]
+- [[qwl - say]]
 - [[rbb - Lord]]
 - [[xlq - create]]
 

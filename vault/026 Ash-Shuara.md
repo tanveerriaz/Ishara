@@ -16,82 +16,82 @@ The Poets · 227 ayahs
 
 - [[>myn - trustworthy]] — `أَمِين` · trustworthy
 - [[gAlb - victorious]] — `غالِب` · victorious
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
-- [[mn*r - warners]] — `مُنذِر` · warners
 - [[ESA - staff]] — `عَصا` · staff
 - [[gAwy - deviators]] — `غاوي` · deviators
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
+- [[mn*r - warners]] — `مُنذِر` · warners
 - [[mE*b - will punished]] — `مُعَذِّب` · will punished
 - [[mnqlb - will return]] — `مُنقَلِب` · will return
-- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
-- [[xTy}p - sins]] — `خَطِيئَة` · sins
-- [[DAl - astray]] — `ضالّ` · astray
 - [[mElwm - known]] — `مَعْلُوم` · known
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[xTy}p - sins]] — `خَطِيئَة` · sins
 - [[m$rq - east]] — `مَشْرِق` · east
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
 - [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
 - [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[dyn - religion]] — `دِين` · religion
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[qbl - before]] — `قَبْل` · before
-- [[Zlp - coverings]] — `ظُلَّة` · coverings
+- [[DAl - astray]] — `ضالّ` · astray
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[>njY - we saved]] — `أَنجَى` · we saved
+- [[tqlb - movement]] — `تَقَلُّب` · movement
+- [[wArv - inheritors]] — `وارِث` · inheritors
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[Eql - use reason]] — `عَقَلُ` · use reason
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Hn - fill]]
-- [[$Tn - anything excessively proud]]
-- [[$fE - make something pair]]
-- [[$fy - heal recover illness]]
+- [[$Er - perceive]]
+- [[$Hn - laden]]
+- [[$Tn - shaitaan]]
+- [[$fE - intercession]]
+- [[$fy - healing]]
 - [[$rb - drink]]
-- [[$rq - earth]]
+- [[$rq - east]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[>*n - ear]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[>fk - lie]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
+- [[>vm - sin]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
-- [[Dyq - become narrow strait]]
+- [[Dyq - was straitened]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
-- [[ESw - staff stick]]
-- [[ESy - disobey]]
+- [[E*b - punishment]]
+- [[ESw - staff]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
-- [[Ejl - incite cause someone]]
+- [[Edw - enemy]]
+- [[Ejl - calf]]
 - [[Ejm - bite chew]]
-- [[Ejz - old age weakness]]
-- [[Ekf - cleave something constantly]]
+- [[Ejz - old woman]]
+- [[Ekf - devoted]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[Emr - life]]
-- [[Enq - like summer age]]
-- [[Eql - withhold restrain]]
-- [[Eqr - wound hamstring]]
+- [[Enq - necks]]
+- [[Eql - use reason]]
+- [[Eqr - hamstrung]]
 
 ## Sample (ayah 1)
 

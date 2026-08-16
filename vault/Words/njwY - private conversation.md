@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[njw - escape safe]]
+- [[njw - we saved]]
 
 ### Meaning
 **private conversation** · Lemma **نَجْوَى**

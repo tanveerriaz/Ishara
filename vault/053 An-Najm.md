@@ -17,81 +17,81 @@ The Star · 62 ayahs
 - [[hwY - desire]] — `هَوَى` · desire
 - [[smY - name them]] — `سَمَّى` · name them
 - [[tmAr - argue]] — `تُمارِ` · argue
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[HyAp - life]] — `حَياة` · life
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[njm - stars]] — `نَجْم` · stars
+- [[sEy - effort]] — `سَعْي` · effort
+- [[gwY - erred]] — `غَوَى` · erred
+- [[$Y' - thing]] — `شَىْء` · thing
 - [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[<nsAn - man]] — `إِنسان` · man
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
 - [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[dnyA - world]] — `دُنْيا` · world
-- [[mrp - time]] — `مَرَّة` · time
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[m>wY - abode]] — `مَأْوَى` · abode
-- [[Ajtnb - avoid]] — `اجْتَنَبُ` · avoid
-- [[qbl - before]] — `قَبْل` · before
-- [[zAg - deviated]] — `زاغَ` · deviated
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
 - [[tmnY - he recited]] — `تَمَنَّى` · he recited
-- [[k*b - denied]] — `كَذَبَ` · denied
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[allah - God]] — `الله` · God
+- [[lys - not]] — `لَيْسَ` · not
+- [[kbyrp - great]] — `كَبِيرَة` · great
+- [[EAd - aad]] — `عادَ` · aad
+- [[AhtdY - guided]] — `اهْتَدَى` · guided
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[qwm - people]] — `قَوْم` · people
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[$Er - name]]
+- [[$Er - perceive]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
+- [[$fE - intercession]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[>*n - ear]]
+- [[*kr - remember]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
-- [[>fq - go one's own]]
-- [[>lw - ila]]
-- [[>mm - leadership]]
+- [[>fk - lie]]
+- [[>fq - horizons]]
+- [[>lw - favors]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>vm - sin]]
+- [[>wl - first]]
+- [[>wy - abode]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DHk - laugh]]
 - [[Dll - astray]]
-- [[ETw - take handle something]]
+- [[ETw - gift]]
 - [[Ebd - worship]]
-- [[Ejb - amazing]]
+- [[Ejb - pleases you]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
 - [[ErD - turn away]]
 - [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[Hdv - accidents]]
-- [[Hqq - established as true]]
+- [[Hdv - statement]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
 - [[Hyy - life]]
-- [[SHb - lord]]
+- [[SHb - companion]]
 - [[SHf - scriptures]]
 - [[Tgy - transgression]]
-- [[Zlm - put something wrong]]
-- [[Znn - think]]
+- [[Zlm - wrongdoers]]
+- [[Znn - assumption]]
 - [[allah - God]]
-- [[bEd - become distant]]
-- [[bSr - mental perception]]
-- [[bTn - belly abdomen]]
-- [[bky - weep cry]]
-- [[blg - reach]]
-- [[bqy - remain]]
+- [[bEd - after]]
+- [[bSr - all-seer]]
+- [[bTn - bellies]]
+- [[bky - weeping]]
+- [[blg - conveyance]]
+- [[bqy - more lasting]]
 - [[dlw - let down bucket]]
-- [[dnw - become near]]
+- [[dnw - world]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hlk - perish destroyed]]
+- [[hlk - we destroyed]]
 
 ### Meaning
 **destruction** · Lemma **مُهْلِك**

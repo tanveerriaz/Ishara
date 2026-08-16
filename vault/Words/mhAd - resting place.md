@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mhd - make something plain]]
+- [[mhd - resting place]]
 
 ### Meaning
 **resting place** · Lemma **مِهاد**

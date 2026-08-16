@@ -14,84 +14,84 @@ The Sovereignty · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[HyAp - life]] — `حَياة` · life
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[mEyn - water springs]] — `مَعِين` · water springs
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[Elm - know]] — `عَلِمَ` · know
-- [[HASb - storm stones]] — `حاصِب` · storm stones
-- [[fwq - above them]] — `فَوْق` · above them
-- [[qbl - before]] — `قَبْل` · before
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[rjE - return]] — `رَجَعَ` · return
+- [[krp - return]] — `كَرَّة` · return
 - [[mwt - death]] — `مَوْت` · death
-- [[SrAT - path]] — `صِراط` · path
-- [[qlyl - little]] — `قَلِيل` · little
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[kbyr - great]] — `كَبِير` · great
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[>jr - reward]] — `أَجْر` · reward
+- [[fAr - overflowed]] — `فارَ` · overflowed
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[ydE - they call]] — `يَدَّعُ` · they call
+- [[SAfp - wings outspread]] — `صافَّة` · wings outspread
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[grwr - delusion]] — `غُرُور` · delusion
+- [[mSbAH - lamp]] — `مِصْباح` · lamp
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[kyf - how]] — `كَيْف` · how
+- [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[allah - God]] — `الله` · God
+- [[mA' - water]] — `ماء` · water
+- [[mEyn - water springs]] — `مَعِين` · water springs
+- [[Tbq - stage]] — `طَبَق` · stage
 - [[nSr - help]] — `نَصَرَ` · help
+- [[kl - every]] — `كُلّ` · every
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[*r> - multiplied you]] — `ذَرَأَ` · multiplied you
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$kr - gratitude]]
 - [[$y> - thing]]
 - [[*ll - humiliation]]
-- [[*nb - tail]]
-- [[*r> - create]]
-- [[>jr - recompensing rewarding someone]]
+- [[*nb - sin]]
+- [[*r> - multiplied you]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lm - painful]]
 - [[>mn - believe]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eql - withhold restrain]]
-- [[Erf - right]]
-- [[Etd - preparation readiness]]
-- [[Etw - pride]]
+- [[Eql - use reason]]
+- [[Erf - fair manner]]
+- [[Etd - she prepared]]
+- [[Etw - were insolent]]
 - [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
-- [[H$r - gather collect people]]
-- [[HSb - pelt pebbles spread]]
+- [[H$r - will gathered]]
+- [[HSb - storm stones]]
 - [[Hsn - good]]
-- [[Hsr - remove uncover something]]
+- [[Hsr - regret]]
 - [[Hyy - life]]
-- [[SHb - lord]]
+- [[SHb - companion]]
 - [[SbH - morning]]
-- [[Sdq - speak truth]]
-- [[Sdr - front part something]]
-- [[Sff - arrange things row]]
+- [[Sdq - truthful]]
+- [[Sdr - breasts]]
+- [[Sff - rows]]
 - [[SrT - path]]
 - [[Syr - destination]]
-- [[Tbq - thing equal another]]
-- [[Tyr - anything flies]]
+- [[Tbq - stage]]
+- [[Tyr - birds]]
 - [[allah - God]]
 - [[b>s - wretched]]
-- [[bSr - mental perception]]
-- [[blw - test try]]
-- [[brk - camel's breast]]
+- [[bSr - all-seer]]
+- [[blw - was trial]]
+- [[brk - blessed]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[dnw - become near]]
+- [[dnw - world]]
 - [[dwn - besides]]
-- [[f>d - heart]]
-- [[fTr - cleave split]]
-- [[fwj - company]]
+- [[f>d - hearts]]
+- [[fTr - creator]]
+- [[fwj - troop]]
 
 ## Sample (ayah 1)
 

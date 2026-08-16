@@ -14,84 +14,84 @@ The Resurrection · 40 ayahs
 
 ## Words in this surah (graph)
 
-- [[>wlY - woe]] — `أَوْلَى` · woe
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[Elqp - clinging substance]] — `عَلَقَة` · clinging substance
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[byAn - declaration]] — `بَيان` · declaration
-- [[wjh - faces]] — `وَجْه` · faces
-- [[qmr - moon]] — `قَمَر` · moon
-- [[qr> - read]] — `قَرَأَ` · read
-- [[Hsb - think]] — `حَسْب` · think
-- [[brq - lightning]] — `بَرْق` · lightning
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[qAdr - able]] — `قادِر` · able
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[EAjlp - immediate]] — `عاجِلَة` · immediate
+- [[>wlY - woe]] — `أَوْلَى` · woe
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[bSyrp - enlightenment]] — `بَصِيرَة` · enlightenment
-- [[>lqY - throw]] — `أَلْقَى` · throw
-- [[y*r - leave]] — `يَذَرَ` · leave
-- [[>HyA - gives life]] — `أَحْيا` · gives life
-- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
+- [[EAjlp - immediate]] — `عاجِلَة` · immediate
 - [[qr'An - quran]] — `قُرْءان` · quran
+- [[<nsAn - man]] — `إِنسان` · man
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[qr> - read]] — `قَرَأَ` · read
+- [[lys - not]] — `لَيْسَ` · not
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[rb - lord]] — `رَبّ` · lord
+- [[qmr - moon]] — `قَمَر` · moon
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[bSyrp - enlightenment]] — `بَصِيرَة` · enlightenment
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[myt - dead]] — `مَيِّت` · dead
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
+- [[Ejl - calf]] — `عِجْل` · calf
+- [[wjh - faces]] — `وَجْه` · faces
+- [[ywm - day]] — `يَوْم` · day
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[kAn - is]] — `كانَ` · is
 
 ## Roots
 
-- [[$ms - horse refusing ridden]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[>hl - people house]]
-- [[>mm - leadership]]
-- [[>ns - mankind]]
+- [[$ms - sun]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[>hl - people]]
+- [[>mm - nation]]
+- [[>ns - people]]
 - [[>nv - female]]
-- [[>xr - final part something]]
-- [[E*r - excuse free blame]]
+- [[>xr - hereafter]]
+- [[E*r - make excuse]]
 - [[EZm - great]]
-- [[Ejl - incite cause someone]]
-- [[Elq - hang]]
+- [[Ejl - calf]]
+- [[Elq - clinging substance]]
 - [[Hbb - love]]
-- [[Hsb - number]]
+- [[Hsb - account]]
 - [[Hyy - life]]
-- [[Sdq - speak truth]]
+- [[Sdq - truthful]]
 - [[Slw - prayer]]
-- [[Znn - think]]
-- [[bSr - mental perception]]
-- [[blg - reach]]
-- [[brq - shine gleam]]
+- [[Znn - assumption]]
+- [[bSr - all-seer]]
+- [[blg - conveyance]]
+- [[brq - lightning]]
 - [[byn - clear]]
-- [[fEl - deed]]
-- [[fjr - cleave cut open]]
-- [[fqr - hollow well]]
-- [[frq - separate]]
+- [[fEl - you do]]
+- [[fjr - dawn]]
+- [[fqr - poor]]
+- [[frq - party]]
 - [[frr - flight]]
 - [[jEl - we made]]
-- [[jmE - collection]]
+- [[jmE - all]]
 - [[k*b - denied]]
 - [[kwn - is]]
 - [[lff - wrap]]
 - [[lqy - meeting]]
-- [[lsn - tongue]]
-- [[lwm - blame]]
+- [[lsn - tongues]]
+- [[lwm - blameworthy]]
 - [[lys - not]]
-- [[mny - decreeing]]
+- [[mny - wishful thinking]]
 - [[mwt - death]]
 - [[nDr - radiance]]
-- [[nTf - type sweetmeat]]
-- [[nZr - look at towards]]
-- [[nb> - utter low sound]]
-- [[nfs - soul]]
-- [[qdm - putting something forward]]
-- [[qdr - measuring]]
-- [[qmr - contend stakes wagers]]
-- [[qr> - someone teaches others]]
-- [[qrr - abode]]
-- [[qsm - division apportionment things]]
-- [[qwl - qawala]]
+- [[nTf - semen-drop]]
+- [[nZr - see]]
+- [[nb> - prophet]]
+- [[nfs - themselves]]
+- [[qdm - feet]]
+- [[qdr - all-powerful]]
+- [[qmr - moon]]
+- [[qr> - quran]]
+- [[qrr - comfort]]
+- [[qsm - i swear]]
+- [[qwl - say]]
 
 ## Sample (ayah 1)
 

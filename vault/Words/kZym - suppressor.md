@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kZm - repress restrain]]
+- [[kZm - suppressor]]
 
 ### Meaning
 **suppressor** · Lemma **كَظِيم**

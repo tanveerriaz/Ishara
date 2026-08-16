@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gyZ - ghayz]]
+- [[gyZ - rage]]
 
 ### Meaning
 **angers** · Lemma **يَغِيظُ**

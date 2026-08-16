@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ksb - collect gain]]
+- [[ksb - earn]]
 
 ### Meaning
 **they earned** · Lemma **اكْتَسَبَ**

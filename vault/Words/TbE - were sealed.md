@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[TbE - seal]]
+- [[TbE - were sealed]]
 
 ### Meaning
 **were sealed** · Lemma **طَبَعَ**

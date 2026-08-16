@@ -14,84 +14,84 @@ The Consultation · 53 ayahs
 
 ## Words in this surah (graph)
 
-- [[>nAb - turns]] — `أَنابَ` · turns
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[$kwr - grateful]] — `شَكُور` · grateful
 - [[HfyZ - guardian]] — `حَفِيظ` · guardian
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
 - [[mrd - return]] — `مَرَدّ` · return
-- [[tfrq - divided]] — `تَفَرَّقَ` · divided
-- [[Hjp - argument]] — `حُجَّة` · argument
 - [[Ely - high]] — `عَلِيّ` · high
+- [[>nAb - turns]] — `أَنابَ` · turns
+- [[Hjp - argument]] — `حُجَّة` · argument
+- [[tfrq - divided]] — `تَفَرَّقَ` · divided
 - [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[nAs - people]] — `ناس` · people
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[$kwr - grateful]] — `شَكُور` · grateful
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
+- [[bHr - sea]] — `بَحْر` · sea
+- [[qDY - surely]] — `قَضَى` · surely
+- [[kbyr - great]] — `كَبِير` · great
+- [[>jr - reward]] — `أَجْر` · reward
+- [[fTr - created me]] — `فَطَرَ` · created me
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[whb - grant]] — `وَهَبَ` · grant
+- [[nwr - light]] — `نُور` · light
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[twbp - repentance]] — `تَوْبَة` · repentance
+- [[dEA - call]] — `دَعا` · call
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$fq - fear]]
-- [[$kk - doubt uncertain about]]
+- [[$fq - fearful]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
 - [[$rE - enter water drink]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[*r> - create]]
+- [[*r> - multiplied you]]
 - [[*wq - taste]]
-- [[>*n - ear]]
-- [[>hl - people house]]
+- [[>*n - by permission]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
+- [[>vm - sin]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edl - act justly equitably]]
-- [[Efw - efface obliterate]]
-- [[Ejl - incite cause someone]]
-- [[Ejz - old age weakness]]
+- [[Edl - justice]]
+- [[Efw - pardon]]
+- [[Ejl - calf]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
 - [[Eqm - barren]]
 - [[ErD - turn away]]
 - [[Erb - bedouins]]
-- [[Ezm - determine]]
+- [[Ezm - determination]]
 - [[Ezz - all-mighty]]
 - [[Hbb - love]]
-- [[HfZ - keep]]
-- [[Hjb - prevent]]
-- [[Hjj - hajj]]
-- [[Hkm - prevent restrain someone]]
+- [[HfZ - guardian]]
+- [[Hjb - screen]]
+- [[Hjj - argument]]
+- [[Hkm - all-wise]]
 
 ## Sample (ayah 1)
 

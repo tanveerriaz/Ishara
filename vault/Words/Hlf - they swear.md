@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hlf - type tall]]
+- [[Hlf - they swear]]
 
 ### Meaning
 **they swear** · Lemma **حَلَفْ**

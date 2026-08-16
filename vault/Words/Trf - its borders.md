@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Trf - side]]
+- [[Trf - its borders]]
 
 ### Meaning
 **its borders** · Lemma **طَرَف**

@@ -14,82 +14,82 @@ The Combined Forces · 73 ayahs
 
 ## Words in this surah (graph)
 
-- [[mrD - disease]] — `مَرَض` · disease
-- [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[ysyr - easy]] — `يَسِير` · easy
 - [[Hrj - any blame]] — `حَرَج` · any blame
-- [[snp - way]] — `سُنَّة` · way
+- [[mrD - disease]] — `مَرَض` · disease
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[>w*y - hurt]] — `أُوذِيَ` · hurt
 - [[nkH - marry]] — `نَكَحَ` · marry
+- [[bnt - daughters]] — `بِنْت` · daughters
 - [[frAr - flight]] — `فِرار` · flight
 - [[EAhd - they took]] — `عاهَدَ` · they took
-- [[tbdyl - change]] — `تَبْدِيل` · change
-- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[Hzb - party]] — `حِزْب` · party
 - [[frD - undertakes]] — `فَرَضَ` · undertakes
 - [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[bnt - daughters]] — `بِنْت` · daughters
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[tbdyl - change]] — `تَبْدِيل` · change
+- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
 - [[jmyl - good]] — `جَمِيل` · good
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[Hlym - forbearing]] — `حَلِيم` · forbearing
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[Hzb - party]] — `حِزْب` · party
+- [[snp - way]] — `سُنَّة` · way
+- [[DEf - double]] — `ضِعْف` · double
+- [[mwt - death]] — `مَوْت` · death
+- [[wd - wished]] — `وَدَّ` · wished
+- [[Aktsb - they earned]] — `اكْتَسَبَ` · they earned
+- [[qDY - surely]] — `قَضَى` · surely
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[rsAlp - messages]] — `رِسالَة` · messages
 
 ## Roots
 
 - [[$HH - miserly]]
 - [[$dd - severe]]
-- [[$fq - fear]]
-- [[$hd - witnessing]]
-- [[$rk - sharing partnership]]
+- [[$fq - fearful]]
+- [[$hd - witness]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[>*n - ear]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[>*n - by permission]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>Sl - foundational part something]]
-- [[>bd - absolute long]]
+- [[>Sl - evening]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>by - refuse]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[>by - he refused]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>ny - hours]]
 - [[>rD - earth]]
-- [[>sr - bind capture]]
+- [[>sr - as captives]]
 - [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>vm - sin]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
-- [[ESm - tie cord]]
-- [[ESy - disobey]]
+- [[E*b - punishment]]
+- [[ESm - hold fast]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
-- [[Edd - count]]
-- [[Ehd - protection safeguard]]
-- [[Ejb - amazing]]
+- [[Edd - number]]
+- [[Ehd - covenant]]
+- [[Ejb - pleases you]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Emd - tent pole column]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Emd - pillars]]
+- [[Eml - do]]
 - [[Emm - paternal aunts]]
 - [[End - near]]
 

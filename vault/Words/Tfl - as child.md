@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tfl - young one]]
+- [[Tfl - as child]]
 
 ### Meaning
 **as child** · Lemma **طِفْل**

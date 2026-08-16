@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xms - practice watering camels]]
+- [[xms - five]]
 
 ### Meaning
 **five** · Lemma **خَمْسَة**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hsr - remove uncover something]]
+- [[Hsr - regret]]
 
 ### Meaning
 **regret** · Lemma **حَسْرَة**

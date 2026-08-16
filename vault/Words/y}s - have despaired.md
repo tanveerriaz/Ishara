@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[y>s - despair lose hope]]
+- [[y>s - have despaired]]
 
 ### Meaning
 **have despaired** · Lemma **يَئِسَ**

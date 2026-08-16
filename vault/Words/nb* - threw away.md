@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nb* - cast throw away]]
+- [[nb* - threw away]]
 
 ### Meaning
 **threw away** · Lemma **نَبَذَ**

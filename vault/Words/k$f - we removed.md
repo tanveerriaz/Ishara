@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[k$f - reveal]]
+- [[k$f - we removed]]
 
 ### Meaning
 **we removed** · Lemma **كَشَفَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dry - know]]
+- [[dry - can make you]]
 
 ### Meaning
 **i know** · Lemma **تَدْرِي**

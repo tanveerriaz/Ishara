@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sfh - unwise]]
+- [[sfh - fools]]
 
 ### Meaning
 **fools** · Lemma **سَفِيه**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[b$r - strip pare something]]
+- [[b$r - man]]
 
 ### Meaning
 **as bearer glad** · Lemma **مُبَشِّر**

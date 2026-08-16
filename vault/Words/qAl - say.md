@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qwl - qawala]]
+- [[qwl - say]]
 
 ### Meaning
 **say** · Lemma **قالَ**

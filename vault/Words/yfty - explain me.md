@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fty - youthfulness]]
+- [[fty - boy]]
 
 ### Meaning
 **explain me** · Lemma **يُفْتِي**

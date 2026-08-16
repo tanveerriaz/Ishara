@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sw> - become evil]]
+- [[sw> - evil]]
 
 ### Meaning
 **evil** · Lemma **سَيِّئ**

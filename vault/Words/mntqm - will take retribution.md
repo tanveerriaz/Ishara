@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nqm - take vengeance inflict]]
+- [[nqm - so we took]]
 
 ### Meaning
 **will take retribution** · Lemma **مُنتَقِم**

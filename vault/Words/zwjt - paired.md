@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zwj - one pair couple]]
+- [[zwj - wives]]
 
 ### Meaning
 **paired** · Lemma **زُوِّجَتْ**

@@ -15,62 +15,62 @@ The Sun · 15 ayahs
 ## Words in this surah (graph)
 
 - [[qAl - say]] — `قالَ` · say
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[>rD - earth]] — `أَرْض` · earth
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[xAf - fear]] — `خافَ` · fear
-- [[qmr - moon]] — `قَمَر` · moon
-- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
-- [[rb - lord]] — `رَبّ` · lord
-- [[$ms - sun]] — `شَمْس` · sun
-- [[lyl - night]] — `لَيْل` · night
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[nAqp - she-camel]] — `ناقَة` · she-camel
-- [[allah - God]] — `الله` · God
 - [[rswl - messenger]] — `رَسُول` · messenger
-- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[tlY - recited]] — `تَلَى` · recited
+- [[nfs - themselves]] — `نَفْس` · themselves
 - [[smA' - heavens]] — `سَماء` · heavens
+- [[bnY - children]] — `بُنَىّ` · children
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[lyl - night]] — `لَيْل` · night
+- [[rb - lord]] — `رَبّ` · lord
 - [[>$qY - wretched one]] — `أَشْقَى` · wretched one
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[*nb - sins]] — `ذَنب` · sins
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
 - [[nhAr - day]] — `نَهار` · day
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[tlY - recited]] — `تَلَى` · recited
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
+- [[$ms - sun]] — `شَمْس` · sun
+- [[allah - God]] — `الله` · God
+- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[xAf - fear]] — `خافَ` · fear
+- [[>rD - earth]] — `أَرْض` · earth
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[*nb - sins]] — `ذَنب` · sins
 
 ## Roots
 
-- [[$ms - horse refusing ridden]]
-- [[$qw - unblessed]]
-- [[*nb - tail]]
+- [[$ms - sun]]
+- [[$qw - wretched one]]
+- [[*nb - sin]]
 - [[>rD - earth]]
-- [[DHw - actions performed during]]
-- [[Eqb - heel human foot]]
-- [[Eqr - wound hamstring]]
+- [[DHw - its brightness]]
+- [[Eqb - end]]
+- [[Eqr - hamstrung]]
 - [[Tgy - transgression]]
 - [[allah - God]]
-- [[bEv - remove restraint]]
-- [[bny - sons]]
-- [[fjr - cleave cut open]]
-- [[flH - cleave split]]
-- [[g$w - cover conceal]]
+- [[bEv - we sent]]
+- [[bny - son]]
+- [[fjr - dawn]]
+- [[flH - successful ones]]
+- [[g$w - he covers]]
 - [[jlw - clear]]
 - [[k*b - denied]]
 - [[lyl - night]]
-- [[nfs - soul]]
-- [[nhr - dig river channel]]
-- [[nwq - daintiness]]
-- [[qmr - contend stakes wagers]]
-- [[qwl - qawala]]
+- [[nfs - themselves]]
+- [[nhr - day]]
+- [[nwq - she-camel]]
+- [[qmr - moon]]
+- [[qwl - say]]
 - [[rbb - Lord]]
 - [[rsl - messenger]]
 - [[smw - name]]
-- [[sqy - give get water]]
-- [[swy - make even]]
-- [[tlw - follow]]
-- [[wqy - protect]]
+- [[sqy - we give you]]
+- [[swy - equal]]
+- [[tlw - recited]]
+- [[wqy - fear]]
 - [[xwf - fear]]
 - [[xyb - disappointed]]
 - [[zkw - purify]]

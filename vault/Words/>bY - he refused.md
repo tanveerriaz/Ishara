@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>by - refuse]]
+- [[>by - he refused]]
 
 ### Meaning
 **he refused** · Lemma **أَبَى**

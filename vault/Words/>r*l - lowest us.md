@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[r*l - worst]]
+- [[r*l - lowest us]]
 
 ### Meaning
 **lowest us** · Lemma **أَرْذَل**

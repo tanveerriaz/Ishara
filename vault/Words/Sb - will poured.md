@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sbb - pour out shed]]
+- [[Sbb - will poured]]
 
 ### Meaning
 **will poured** · Lemma **صَبَّ**

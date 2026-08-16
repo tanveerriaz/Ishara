@@ -18,80 +18,80 @@ The Jinn · 28 ayahs
 - [[rsAlp - messages]] — `رِسالَة` · messages
 - [[Edd - number]] — `عَدَد` · number
 - [[Tryqp - way]] — `طَرِيقَة` · way
-- [[ArtDY - he approves]] — `ارْتَضَى` · he approves
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[sfyh - fools]] — `سَفِيه` · fools
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[mqEd - take positions]] — `مَقْعَد` · take positions
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[byn - between them]] — `بَيْن` · between them
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[An - now]] — `آن` · now
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Elm - know]] — `عَلِمَ` · know
-- [[Dr - adversity]] — `ضَرّ` · adversity
-- [[nfr - go forth]] — `نَفَرَ` · go forth
-- [[qEd - sit]] — `قَعَدَ` · sit
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[lms - sought touch]] — `لَمَسُ` · sought touch
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[$r - evil]] — `شَرّ` · evil
+- [[qAm - stand]] — `قامَ` · stand
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[SAHbp - wife]] — `صاحِبَة` · wife
+- [[dEA - call]] — `دَعا` · call
+- [[qryb - near]] — `قَرِيب` · near
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[$hAb - burning flame]] — `شِهاب` · burning flame
+- [[allah - God]] — `الله` · God
+- [[mA' - water]] — `ماء` · water
+- [[yEjz - escape]] — `يُعْجِزَ` · escape
+- [[kl - every]] — `كُلّ` · every
+- [[nASr - helpers]] — `ناصِر` · helpers
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[blAg - conveyance]] — `بَلاغ` · conveyance
 
 ## Roots
 
 - [[$TT - exceed just limit]]
 - [[$dd - severe]]
 - [[$hb - burning flame]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
-- [[>bd - absolute long]]
-- [[>md - period time defined]]
+- [[>bd - ever]]
+- [[>md - was distance]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>wn - now]]
 - [[>x* - take]]
 - [[DEf - weak]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
-- [[ESy - disobey]]
+- [[E*b - punishment]]
+- [[ESy - they disobeyed]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Ejb - amazing]]
-- [[Ejz - old age weakness]]
+- [[Edd - number]]
+- [[Ejb - pleases you]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
+- [[Elw - high]]
 - [[ErD - turn away]]
-- [[Ew* - seek protection]]
-- [[HSy - count reckon]]
-- [[HwT - guard]]
-- [[SEd - ascend go upwards]]
-- [[SHb - lord]]
-- [[SlH - make something good]]
-- [[Trq - strike beat]]
-- [[Zhr - back]]
-- [[Znn - think]]
+- [[Ew* - seek refuge]]
+- [[HSy - best calculated]]
+- [[HwT - all-encompassing]]
+- [[SEd - earth]]
+- [[SHb - companion]]
+- [[SlH - righteous deeds]]
+- [[Trq - way]]
+- [[Zhr - backs]]
+- [[Znn - assumption]]
 - [[allah - God]]
-- [[bEv - remove restraint]]
-- [[blg - reach]]
-- [[bxs - diminish]]
+- [[bEv - we sent]]
+- [[blg - conveyance]]
+- [[bxs - deprive]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[dry - know]]
+- [[dry - can make you]]
 - [[dwn - besides]]
-- [[ftn - burn melt something]]
-- [[gyb - absent]]
+- [[ftn - trial]]
+- [[gyb - unseen]]
 - [[hdy - guide]]
 - [[jEl - we made]]
-- [[jdd - cut make something]]
-- [[jnn - cover]]
-- [[jwr - neighbor]]
+- [[jdd - new]]
+- [[jnn - gardens]]
+- [[jwr - protects]]
 
 ## Sample (ayah 1)
 

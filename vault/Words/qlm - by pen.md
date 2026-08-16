@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qlm - writing reed pen]]
+- [[qlm - by pen]]
 
 ### Meaning
 **by pen** · Lemma **قَلَم**

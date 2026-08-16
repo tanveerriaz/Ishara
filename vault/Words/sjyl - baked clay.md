@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sjl - full bucket water]]
+- [[sjl - baked clay]]
 
 ### Meaning
 **baked clay** · Lemma **سِجِّيل**

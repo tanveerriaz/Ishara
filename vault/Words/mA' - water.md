@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mwh - coat something]]
+- [[mwh - water]]
 
 ### Meaning
 **water** · Lemma **ماء**

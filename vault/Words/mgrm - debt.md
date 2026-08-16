@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[grm - pay discharge obligation]]
+- [[grm - debt]]
 
 ### Meaning
 **debt** · Lemma **مَغْرَم**

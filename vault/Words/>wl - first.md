@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>wl - return revert original]]
+- [[>wl - first]]
 
 ### Meaning
 **first** · Lemma **أَوَّل**

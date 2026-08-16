@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fkr - deep thought]]
+- [[fkr - reflect]]
 
 ### Meaning
 **reflect** · Lemma **يَتَفَكَّرُ**

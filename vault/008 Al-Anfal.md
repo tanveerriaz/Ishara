@@ -15,83 +15,83 @@ The Spoils of War · 75 ayahs
 ## Words in this surah (graph)
 
 - [[>lf - thousand]] — `أَلْف` · thousand
-- [[jAhd - strive]] — `جاهَدَ` · strive
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[AnthY - you desist]] — `انتَهَى` · you desist
 - [[glb - overcame]] — `غَلَبُ` · overcame
-- [[twkl - put trust]] — `تَوَكَّلْ` · put trust
-- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
-- [[EqAb - penalty]] — `عِقاب` · penalty
-- [[f}p - group]] — `فِئَة` · group
 - [[dbr - backs]] — `دُبُر` · backs
+- [[twkl - put trust]] — `تَوَكَّلْ` · put trust
+- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[AnthY - you desist]] — `انتَهَى` · you desist
+- [[f}p - group]] — `فِئَة` · group
+- [[EqAb - penalty]] — `عِقاب` · penalty
+- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[$r - evil]] — `شَرّ` · evil
+- [[AltqY - met]] — `الْتَقَى` · met
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
 - [[Al - people]] — `آل` · people
-- [[frqAn - criterion]] — `فُرْقان` · criterion
-- [[vbt - make firm]] — `ثَبَّتْ` · make firm
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[tnAzE - you disagree]] — `تَنازَعُ` · you disagree
 - [[>syr - as captives]] — `أَسِير` · as captives
-- [[*Aq - taste]] — `ذاقُ` · taste
-- [[gnm - sheep]] — `غَنَم` · sheep
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[AstjAb - respond]] — `اسْتَجابَ` · respond
+- [[vbt - make firm]] — `ثَبَّتْ` · make firm
 - [[mA}p - hundred]] — `مِائَة` · hundred
+- [[EAd - aad]] — `عادَ` · aad
+- [[lq - you meet]] — `لَقُ` · you meet
 - [[d>b - like way]] — `دَأْب` · like way
 - [[xAn - betray]] — `خانُ` · betray
+- [[>yd - supports]] — `أَيَّدَ` · supports
+- [[sbq - preceded]] — `سَبَقَ` · preceded
 - [[SAbr - patient ones]] — `صابِر` · patient ones
-- [[qtAl - fighting]] — `قِتال` · fighting
-- [[$r - evil]] — `شَرّ` · evil
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
 - [[$kr - gratitude]]
-- [[$qq - cleave]]
-- [[$rr - sparks fire]]
+- [[$qq - opposes]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[>sr - bind capture]]
+- [[>sr - as captives]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>wn - now]]
-- [[>wy - betake oneself place]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yd - earth]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yd - supports]]
+- [[>yy - signs]]
 - [[DEf - weak]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Edw - turn]]
-- [[Ehd - protection safeguard]]
-- [[Ejz - old age weakness]]
+- [[Edd - number]]
+- [[Edw - enemy]]
+- [[Ehd - covenant]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Enq - like summer age]]
-- [[Eqb - heel human foot]]
-- [[Eql - withhold restrain]]
+- [[Enq - necks]]
+- [[Eqb - end]]
+- [[Eql - use reason]]
 - [[ErD - turn away]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
-- [[H$r - gather collect people]]
+- [[H$r - will gathered]]
 
 ## Sample (ayah 1)
 

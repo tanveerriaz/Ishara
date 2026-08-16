@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Edl - act justly equitably]]
+- [[Edl - justice]]
 
 ### Meaning
 **justice** · Lemma **عَدْل**
