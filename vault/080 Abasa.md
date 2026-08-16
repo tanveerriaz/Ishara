@@ -15,30 +15,30 @@ He Frowned · 42 ayahs
 ## Words in this surah (graph)
 
 - [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[qDY - surely]] — `قَضَى` · surely
-- [[$Y' - thing]] — `شَىْء` · thing
 - [[<nsAn - man]] — `إِنسان` · man
-- [[SAHbp - wife]] — `صاحِبَة` · wife
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[$A' - he wills]] — `شاءَ` · he wills
 - [[ysr - ease]] — `يُسْر` · ease
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mA' - water]] — `ماء` · water
 - [[$>n - any situation]] — `شَأْن` · any situation
-- [[br - land]] — `بِرّ` · land
-- [[kl - every]] — `كُلّ` · every
-- [[>n$r - raise dead]] — `أَنشَرَ` · raise dead
-- [[>b - father]] — `أَب` · father
-- [[sEY - strive]] — `سَعَى` · strive
-- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[bnY - children]] — `بُنَىّ` · children
-- [[>m - mother]] — `أُمّ` · mother
-- [[nfE - benefit]] — `نَفَعَ` · benefit
 - [[nZr - see]] — `نَظَرَ` · see
+- [[sEY - strive]] — `سَعَى` · strive
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[sbyl - way]] — `سَبِيل` · way
+- [[>nbt - grows]] — `أَنۢبَتَ` · grows
+- [[SHf - scriptures]] — `صُحُف` · scriptures
 - [[wjh - faces]] — `وَجْه` · faces
-- [[ywm - day]] — `يَوْم` · day
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[>rD - earth]] — `أَرْض` · earth
+- [[mThrp - purified]] — `مُطَهَّرَة` · purified
+- [[qDY - surely]] — `قَضَى` · surely
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[krym - noble]] — `كَرِيم` · noble
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[TEAm - food]] — `طَعام` · food
+- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
+- [[Hb - grain]] — `حُبّ` · grain
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[>x - brother]] — `أَخ` · brother
+- [[>m - mother]] — `أُمّ` · mother
 
 ## Roots
 

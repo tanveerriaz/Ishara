@@ -14,31 +14,31 @@ The Reality · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[vmAnyp - eight]] — `ثَمانِيَة` · eight
-- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[EZym - great]] — `عَظِيم` · great
-- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[qr> - read]] — `قَرَأَ` · read
-- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
+- [[$mAl - left]] — `شِمال` · left
+- [[AtY - give]] — `آتَى` · give
+- [[$AEr - poet]] — `شاعِر` · poet
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[ErD - its width]] — `عَرَضَ` · its width
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[qTE - cut off]] — `قُطِعَ` · cut off
 - [[allah - God]] — `الله` · God
-- [[mA' - water]] — `ماء` · water
-- [[lys - not]] — `لَيْسَ` · not
-- [[fwq - above them]] — `فَوْق` · above them
-- [[EAd - aad]] — `عادَ` · aad
-- [[hlk - died]] — `هَلَكَ` · died
-- [[qwm - people]] — `قَوْم` · people
-- [[rb - lord]] — `رَبّ` · lord
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[gl - shackles]] — `غَلَّ` · shackles
+- [[qbl - before]] — `قَبْل` · before
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[krym - noble]] — `كَرِيم` · noble
+- [[dAnyp - hanging low]] — `دانِيَة` · hanging low
 - [[ryH - wind]] — `رِيح` · wind
-- [[xAwyp - had overturned]] — `خاوِيَة` · had overturned
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[Asm - name]] — `اسْم` · name
-- [[xAT} - sinners]] — `خاطِئ` · sinners
-- [[slTAn - authority]] — `سُلْطان` · authority
+- [[TEAm - food]] — `طَعام` · food
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
 
 ## Roots
 

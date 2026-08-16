@@ -14,31 +14,31 @@ The Victory · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[skynp - tranquility]] — `سَكِينَة` · tranquility
 - [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
-- [[kf - restrain]] — `كَفَّ` · restrain
+- [[skynp - tranquility]] — `سَكِينَة` · tranquility
 - [[kvyrp - many]] — `كَثِيرَة` · many
-- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[kf - restrain]] — `كَفَّ` · restrain
 - [[bAyE - pledging you]] — `بايَعْ` · pledging you
-- [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[>jr - reward]] — `أَجْر` · reward
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[yfqh - understand]] — `يَفْقَهُ` · understand
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[rAkE - bow down]] — `راكِع` · bow down
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[qryb - near]] — `قَرِيب` · near
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[r'yA - vision]] — `رُءْيا` · vision
-- [[Ezr - honor him]] — `عَزَّرُ` · honor him
-- [[$A' - he wills]] — `شاءَ` · he wills
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[Hsd - out jealousy]] — `حَسَد` · out jealousy
+- [[AtY - give]] — `آتَى` · give
+- [[qlyl - little]] — `قَلِيل` · little
+- [[yT> - they step]] — `يَطَأُ` · they step
+- [[*nb - sins]] — `ذَنب` · sins
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[AzdAd - they increased]] — `ازْدادُ` · they increased
+- [[mnAfqp - hypocrite women]] — `مُنافِقَة` · hypocrite women
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
 - [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
 
 ## Roots
 

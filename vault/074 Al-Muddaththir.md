@@ -14,31 +14,31 @@ The Cloaked One · 56 ayahs
 
 ## Words in this surah (graph)
 
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[>dbr - turned back]] — `أَدْبَرَ` · turned back
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[Edp - number]] — `عِدَّة` · number
-- [[qAm - stand]] — `قامَ` · stand
-- [[<HdY - one them]] — `إِحْدَى` · one them
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[kyf - how]] — `كَيْف` · how
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[allah - God]] — `الله` · God
-- [[kl - every]] — `كُلّ` · every
-- [[jnd - hosts]] — `جُند` · hosts
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
-- [[rb - lord]] — `رَبّ` · lord
-- [[qmr - moon]] — `قَمَر` · moon
-- [[vyAb - garments]] — `ثِياب` · garments
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[bnY - children]] — `بُنَىّ` · children
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[AtY - give]] — `آتَى` · give
+- [[Edp - number]] — `عِدَّة` · number
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[>SHAb - companions]] — `أَصْحاب` · companions
 - [[AzdAd - they increased]] — `ازْدادُ` · they increased
+- [[zAd - increase]] — `زادَ` · increase
+- [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Elm - know]] — `عَلِمَ` · know
+- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[mhd - cradle]] — `مَهْد` · cradle
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[$fAEp - intercession]] — `شَفاعَة` · intercession
 
 ## Roots
 

@@ -16,29 +16,29 @@ The Repentance · 129 ayahs
 
 - [[Hlf - they swear]] — `حَلَفْ` · they swear
 - [[>ErAb - bedouins]] — `أَعْراب` · bedouins
-- [[mrp - time]] — `مَرَّة` · time
 - [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
 - [[nfr - go forth]] — `نَفَرَ` · go forth
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[mrp - time]] — `مَرَّة` · time
 - [[EAhd - they took]] — `عاهَدَ` · they took
 - [[swrp - surah]] — `سُورَة` · surah
+- [[>bdA - ever]] — `أَبَدًا` · ever
 - [[qEd - sit]] — `قَعَدَ` · sit
 - [[fwz - success]] — `فَوْز` · success
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[mnkr - wrong]] — `مُنكَر` · wrong
-- [[>Ed - prepared]] — `أَعَدَّ` · prepared
-- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
-- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[jAhd - strive]] — `جاهَدَ` · strive
-- [[kA*b - liars]] — `كاذِب` · liars
-- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
-- [[EAm - years]] — `عام` · years
 - [[trbS - waiting]] — `تَرَبُّص` · waiting
-- [[Sdqp - charities]] — `صَدَقَة` · charities
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[mnkr - wrong]] — `مُنكَر` · wrong
 - [[Edp - number]] — `عِدَّة` · number
+- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
+- [[Sdqp - charities]] — `صَدَقَة` · charities
+- [[>fwAh - mouths]] — `أَفْواه` · mouths
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
 - [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
+- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
 
 ## Roots
 

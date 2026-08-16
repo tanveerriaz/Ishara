@@ -14,31 +14,31 @@ The Clear Proof · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[rswl - messenger]] — `رَسُول` · messenger
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[tlY - recited]] — `تَلَى` · recited
-- [[dyn - religion]] — `دِين` · religion
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[bEd - after]] — `بَعْد` · after
-- [[End - near]] — `عِند` · near
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[Eml - do]] — `عَمِلَ` · do
-- [[AtY - give]] — `آتَى` · give
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[$r - evil]] — `شَرّ` · evil
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[nAr - fire]] — `نار` · fire
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
-- [[tHt - underneath it]] — `تَحْت` · underneath it
-- [[kAn - is]] — `كانَ` · is
-- [[jry - flow]] — `جَرَيْ` · flow
+- [[>bdA - ever]] — `أَبَدًا` · ever
 - [[ktAb - book]] — `كِتاب` · book
-- [[jA' - came them]] — `جاءَ` · came them
+- [[tlY - recited]] — `تَلَى` · recited
+- [[nAr - fire]] — `نار` · fire
+- [[jzA' - recompense]] — `جَزاء` · recompense
+- [[AtY - give]] — `آتَى` · give
+- [[rb - lord]] — `رَبّ` · lord
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>hl - people]] — `أَهْل` · people
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Eml - do]] — `عَمِلَ` · do
+- [[xyr - better]] — `خَيْر` · better
+- [[bEd - after]] — `بَعْد` · after
+- [[allah - God]] — `الله` · God
+- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
+- [[End - near]] — `عِند` · near
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[nhr - rivers]] — `نَهَر` · rivers
+- [[tHt - underneath it]] — `تَحْت` · underneath it
+- [[>mr - command]] — `أَمَرَ` · command
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[Hnyf - upright]] — `حَنِيف` · upright
 
 ## Roots
 

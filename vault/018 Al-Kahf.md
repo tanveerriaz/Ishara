@@ -14,31 +14,31 @@ The Cave · 110 ayahs
 
 ## Words in this surah (graph)
 
-- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
 - [[sbb - course]] — `سَبَب` · course
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
 - [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[>tbE - he followed]] — `أَتْبَعَ` · he followed
+- [[vwAb - reward]] — `ثَواب` · reward
+- [[zynp - adornment]] — `زِينَة` · adornment
+- [[r$d - right path]] — `رُشْد` · right path
+- [[qrn - generations]] — `قَرْن` · generations
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
 - [[ldn - yourself]] — `لَدُن` · yourself
-- [[r$d - right path]] — `رُشْد` · right path
-- [[vwAb - reward]] — `ثَواب` · reward
 - [[glAm - boy]] — `غُلام` · boy
-- [[qrn - generations]] — `قَرْن` · generations
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[zynp - adornment]] — `زِينَة` · adornment
 - [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
-- [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
-- [[lq - you meet]] — `لَقُ` · you meet
-- [[Hwt - fish]] — `حُوت` · fish
-- [[SEyd - earth]] — `صَعِيد` · earth
-- [[nfx - will blown]] — `نَفَخَ` · will blown
-- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
 - [[SAHb - companion]] — `صاحِب` · companion
-- [[snyn - years]] — `سِنِين` · years
-- [[mk - we established]] — `مَكَّ` · we established
-- [[vmr - its fruit]] — `ثَمَر` · its fruit
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[SEyd - earth]] — `صَعِيد` · earth
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[xbr - some information]] — `خُبْر` · some information
+- [[mdynp - city]] — `مَدِينَة` · city
+- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
+- [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
+- [[ErD - its width]] — `عَرَضَ` · its width
+- [[nkr - terrible]] — `نَكِرَ` · terrible
 
 ## Roots
 

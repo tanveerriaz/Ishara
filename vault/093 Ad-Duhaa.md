@@ -15,22 +15,22 @@ The Morning Hours · 11 ayahs
 ## Words in this surah (graph)
 
 - [[DAl - astray]] — `ضالّ` · astray
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
 - [[lyl - night]] — `لَيْل` · night
-- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>wl - first]] — `أَوَّل` · first
-- [[sA}l - ask]] — `سائِل` · ask
-- [[>ETY - they given]] — `أَعْطَى` · they given
-- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[ytym - orphans]] — `يَتِيم` · orphans
 - [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[xyr - better]] — `خَيْر` · better
-- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[>wl - first]] — `أَوَّل` · first
 - [[rb - lord]] — `رَبّ` · lord
+- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[sA}l - ask]] — `سائِل` · ask
+- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[xyr - better]] — `خَيْر` · better
 - [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[>ETY - they given]] — `أَعْطَى` · they given
+- [[wjd - we found]] — `وَجَدَ` · we found
 
 ## Roots
 

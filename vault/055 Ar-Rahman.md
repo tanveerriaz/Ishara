@@ -19,26 +19,26 @@ The Beneficent · 78 ayahs
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
 - [[nxl - date-palms]] — `نَخْل` · date-palms
 - [[mtk} - reclining]] — `مُتَّكِئ` · reclining
-- [[Erf - they recognize]] — `عَرَفَ` · they recognize
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[bHr - sea]] — `بَحْر` · sea
-- [[njm - stars]] — `نَجْم` · stars
-- [[qASrp - will companions modest]] — `قاصِرَة` · will companions modest
-- [[qr'An - quran]] — `قُرْءان` · quran
 - [[<nsAn - man]] — `إِنسان` · man
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[Hwr - fair ones]] — `حُور` · fair ones
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[HsbAn - reckoning]] — `حُسْبان` · reckoning
 - [[$>n - any situation]] — `شَأْن` · any situation
-- [[kl - every]] — `كُلّ` · every
-- [[ESf - husk]] — `عَصْف` · husk
-- [[mqAm - place]] — `مَقام` · place
-- [[<HsAn - good]] — `إِحْسان` · good
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
-- [[AltqY - met]] — `الْتَقَى` · met
-- [[rb - lord]] — `رَبّ` · lord
+- [[$ms - sun]] — `شَمْس` · sun
+- [[jn - covered]] — `جَنَّ` · covered
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[frA$ - couches]] — `فِراش` · couches
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[jwAr - ships]] — `جَوار` · ships
+- [[*nb - sins]] — `ذَنب` · sins
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[wjh - faces]] — `وَجْه` · faces
+- [[Trf - its borders]] — `طَرَف` · its borders
+- [[qbl - before]] — `قَبْل` · before
+- [[bqy - remained]] — `بَقِيَ` · remained
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
+- [[qsT - justice]] — `قِسْط` · justice
 
 ## Roots
 

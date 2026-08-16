@@ -16,29 +16,29 @@ The Prophets · 112 ayahs
 
 - [[EAbd - worshippers]] — `عابِد` · worshippers
 - [[fAEl - doers]] — `فاعِل` · doers
-- [[mErD - turn away]] — `مُعْرِض` · turn away
 - [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
-- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
+- [[mErD - turn away]] — `مُعْرِض` · turn away
 - [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[tdry - i know]] — `تَدْرِي` · i know
-- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
-- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
 - [[bArk - we blessed]] — `بارَكَ` · we blessed
+- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
+- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
 - [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[TAl - then]] — `طالَ` · then
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[sbyl - way]] — `سَبِيل` · way
+- [[Tyr - birds]] — `طَيْر` · birds
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[mwt - death]] — `مَوْت` · death
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[kf - restrain]] — `كَفَّ` · restrain
-- [[fTr - created me]] — `فَطَرَ` · created me
-- [[krb - distress]] — `كَرْب` · distress
-- [[$r - evil]] — `شَرّ` · evil
-- [[tqTE - cut pieces]] — `تَقَطَّعَ` · cut pieces
-- [[jEl - we made]] — `جَعَلَ` · we made
 - [[Hlm - dreams]] — `حُلُم` · dreams
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[b>s - punishment]] — `بَأْس` · punishment
+- [[Elm - know]] — `عَلِمَ` · know
+- [[bd> - originates]] — `بَدَأَ` · originates
+- [[mnE - prevented you]] — `مَنَعَ` · prevented you
+- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[nfx - will blown]] — `نَفَخَ` · will blown
 
 ## Roots
 

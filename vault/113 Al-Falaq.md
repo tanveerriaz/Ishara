@@ -14,13 +14,13 @@ The Daybreak · 5 ayahs
 
 ## Words in this surah (graph)
 
-- [[qAl - say]] — `قالَ` · say
-- [[$r - evil]] — `شَرّ` · evil
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[Eqdp - knot]] — `عُقْدَة` · knot
 - [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[qAl - say]] — `قالَ` · say
 - [[Hsd - out jealousy]] — `حَسَد` · out jealousy
 - [[rb - lord]] — `رَبّ` · lord
+- [[$r - evil]] — `شَرّ` · evil
+- [[Eqdp - knot]] — `عُقْدَة` · knot
+- [[xlq - creation]] — `خَلَقَ` · creation
 
 ## Roots
 

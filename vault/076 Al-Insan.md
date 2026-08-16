@@ -18,27 +18,27 @@ The Man · 31 ayahs
 - [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[TAf - will circulated]] — `طافَ` · will circulated
 - [[k>s - cup]] — `كَأْس` · cup
-- [[Hryr - will silk]] — `حَرِير` · will silk
-- [[sEy - effort]] — `سَعْي` · effort
-- [[kbyr - great]] — `كَبِير` · great
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[$r - evil]] — `شَرّ` · evil
-- [[EAjlp - immediate]] — `عاجِلَة` · immediate
-- [[qr'An - quran]] — `قُرْءان` · quran
 - [[<nsAn - man]] — `إِنسان` · man
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[n*r - vows]] — `نَذَرْ` · vows
+- [[$ms - sun]] — `شَمْس` · sun
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[>sAwr - bracelets]] — `أَساوِر` · bracelets
+- [[smY - name them]] — `سَمَّى` · name them
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[sbyl - way]] — `سَبِيل` · way
 - [[allah - God]] — `الله` · God
-- [[bkrp - morning]] — `بُكْرَة` · morning
-- [[br - land]] — `بِرّ` · land
-- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[wjh - faces]] — `وَجْه` · faces
+- [[gl - shackles]] — `غَلَّ` · shackles
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[sEyr - blaze]] — `سَعِير` · blaze
+- [[$r - evil]] — `شَرّ` · evil
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
 - [[Avm - sinful]] — `آثِم` · sinful
-- [[rb - lord]] — `رَبّ` · lord
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[nEym - delight]] — `نَعِيم` · delight
+- [[wlyd - children]] — `وَلِيد` · children
 
 ## Roots
 

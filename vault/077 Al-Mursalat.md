@@ -15,30 +15,30 @@ The Emissaries · 50 ayahs
 ## Words in this surah (graph)
 
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
-- [[Erf - they recognize]] — `عَرَفَ` · they recognize
-- [[njm - stars]] — `نَجْم` · stars
-- [[frAt - sweet]] — `فُرات` · sweet
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
-- [[mA' - water]] — `ماء` · water
-- [[fwAkh - fruits]] — `فَواكِه` · fruits
-- [[ESf - husk]] — `عَصْف` · husk
+- [[n*r - vows]] — `نَذَرْ` · vows
+- [[fEl - you do]] — `فَعَلَ` · you do
 - [[wAqE - would fall]] — `واقِع` · would fall
-- [[myt - dead]] — `مَيِّت` · dead
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[Eml - do]] — `عَمِلَ` · do
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[ywm - day]] — `يَوْم` · day
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[kyd - plot]] — `كَيْد` · plot
+- [[fwAkh - fruits]] — `فَواكِه` · fruits
+- [[vlAv - three]] — `ثُلاث` · three
 - [[Axr - hereafter]] — `آخِر` · hereafter
-- [[kAn - is]] — `كانَ` · is
-- [[qSr - palaces]] — `قَصْر` · palaces
+- [[>rD - earth]] — `أَرْض` · earth
+- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
+- [[>jl - term]] — `أَجَل` · term
 - [[xlq - creation]] — `خَلَقَ` · creation
-- [[qAdr - able]] — `قادِر` · able
+- [[frq - they differentiate]] — `فَرَقْ` · they differentiate
+- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[frAt - sweet]] — `فُرات` · sweet
+- [[mk*b - deniers]] — `مُكَذِّب` · deniers
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
 
 ## Roots
 

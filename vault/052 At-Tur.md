@@ -15,30 +15,30 @@ The Mount · 49 ayahs
 ## Words in this surah (graph)
 
 - [[wqY - save us]] — `وَقَى` · save us
-- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
-- [[>lHq - join me]] — `أَلْحَقْ` · join me
-- [[mgrm - debt]] — `مَغْرَم` · debt
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[bHr - sea]] — `بَحْر` · sea
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[njm - stars]] — `نَجْم` · stars
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[qAm - stand]] — `قامَ` · stand
-- [[dEA - call]] — `دَعا` · call
-- [[smwm - scorching fire]] — `سَمُوم` · scorching fire
-- [[Hwr - fair ones]] — `حُور` · fair ones
-- [[Hlm - dreams]] — `حُلُم` · dreams
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[jbl - mountains]] — `جَبَل` · mountains
 - [[ryb - doubt]] — `رَيْب` · doubt
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[msTwr - written]] — `مَسْطُور` · written
-- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[ylAq - they meet]] — `يُلاقُ` · they meet
+- [[swA' - it same]] — `سَواء` · it same
+- [[SEq - unconscious]] — `صَعِق` · unconscious
+- [[AtY - give]] — `آتَى` · give
+- [[wAqE - would fall]] — `واقِع` · would fall
+- [[glAm - boy]] — `غُلام` · boy
+- [[$AEr - poet]] — `شاعِر` · poet
+- [[ksf - fragments]] — `كِسَف` · fragments
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[kyd - plot]] — `كَيْد` · plot
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[lHm - flesh]] — `لَحْم` · flesh
 - [[allah - God]] — `الله` · God
-- [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[br - land]] — `بِرّ` · land
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[slm - peace]] — `سِلْم` · peace
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
+- [[fAkh - amusement]] — `فاكِه` · amusement
+- [[qbl - before]] — `قَبْل` · before
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[>tY - comes them]] — `أَتَى` · comes them
 
 ## Roots
 

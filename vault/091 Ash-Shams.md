@@ -14,31 +14,31 @@ The Sun · 15 ayahs
 
 ## Words in this surah (graph)
 
-- [[qAl - say]] — `قالَ` · say
-- [[rswl - messenger]] — `رَسُول` · messenger
 - [[tlY - recited]] — `تَلَى` · recited
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[bnY - children]] — `بُنَىّ` · children
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
 - [[lyl - night]] — `لَيْل` · night
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[$ms - sun]] — `شَمْس` · sun
+- [[xAf - fear]] — `خافَ` · fear
 - [[rb - lord]] — `رَبّ` · lord
+- [[*nb - sins]] — `ذَنب` · sins
+- [[qmr - moon]] — `قَمَر` · moon
+- [[allah - God]] — `الله` · God
+- [[bnY - children]] — `بُنَىّ` · children
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[nhAr - day]] — `نَهار` · day
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[>rD - earth]] — `أَرْض` · earth
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[qAl - say]] — `قالَ` · say
 - [[>$qY - wretched one]] — `أَشْقَى` · wretched one
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[nhAr - day]] — `نَهار` · day
-- [[nAqp - she-camel]] — `ناقَة` · she-camel
-- [[$ms - sun]] — `شَمْس` · sun
-- [[allah - God]] — `الله` · God
-- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
 - [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[xAf - fear]] — `خافَ` · fear
-- [[>rD - earth]] — `أَرْض` · earth
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[*nb - sins]] — `ذَنب` · sins
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
 
 ## Roots
 

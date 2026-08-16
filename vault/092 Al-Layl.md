@@ -14,31 +14,31 @@ The Night · 21 ayahs
 
 ## Words in this surah (graph)
 
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[sEy - effort]] — `سَعْي` · effort
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[HsnY - best]] — `حُسْنَى` · best
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[End - near]] — `عِند` · near
-- [[$tY - diverse]] — `شَتَّى` · diverse
 - [[lyl - night]] — `لَيْل` · night
-- [[AtY - give]] — `آتَى` · give
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
 - [[nAr - fire]] — `نار` · fire
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[wjh - faces]] — `وَجْه` · faces
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[ysr - ease]] — `يُسْر` · ease
+- [[AtY - give]] — `آتَى` · give
+- [[>wl - first]] — `أَوَّل` · first
+- [[sEy - effort]] — `سَعْي` · effort
+- [[rb - lord]] — `رَبّ` · lord
+- [[>nvY - female]] — `أُنثَى` · female
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[mAl - wealth]] — `مال` · wealth
+- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[>n*r - warn]] — `أَنذَرَ` · warn
 - [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
+- [[AtqY - fear]] — `اتَّقَى` · fear
+- [[End - near]] — `عِند` · near
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[wjh - faces]] — `وَجْه` · faces
 - [[nhAr - day]] — `نَهار` · day
 - [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>nvY - female]] — `أُنثَى` · female
-- [[>wl - first]] — `أَوَّل` · first
-- [[xlq - creation]] — `خَلَقَ` · creation
 
 ## Roots
 

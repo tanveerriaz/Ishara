@@ -15,30 +15,30 @@ The Iron · 29 ayahs
 ## Words in this surah (graph)
 
 - [[>qrD - you loan]] — `أَقْرَضُ` · you loan
+- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
 - [[ZAhr - apparent]] — `ظاهِر` · apparent
 - [[qrD - loan]] — `قَرْض` · loan
-- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
-- [[TAl - then]] — `طالَ` · then
-- [[mwt - death]] — `مَوْت` · death
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[AtY - give]] — `آتَى` · give
+- [[t>s - grieve]] — `تَأْسَ` · grieve
+- [[nZr - see]] — `نَظَرَ` · see
+- [[sEY - strive]] — `سَعَى` · strive
+- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
+- [[ErD - its width]] — `عَرَضَ` · its width
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[kbyr - great]] — `كَبِير` · great
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[nwr - light]] — `نُور` · light
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[nbwp - prophethood]] — `نُبُوَّة` · prophethood
-- [[qAm - stand]] — `قامَ` · stand
-- [[gr - deceive you]] — `غَرَّ` · deceive you
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[fAt - escaped you]] — `فاتَ` · escaped you
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[sbyl - way]] — `سَبِيل` · way
+- [[mnAfqp - hypocrite women]] — `مُنافِقَة` · hypocrite women
+- [[zynp - adornment]] — `زِينَة` · adornment
+- [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
+- [[mxtAl - proud]] — `مُخْتال` · proud
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qbl - before]] — `قَبْل` · before
+- [[$hyd - witness]] — `شَهِيد` · witness
 
 ## Roots
 

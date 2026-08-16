@@ -14,31 +14,31 @@ The Thunder · 43 ayahs
 
 ## Words in this surah (graph)
 
-- [[ySl - joined]] — `يَصِلُ` · joined
 - [[hAd - guide]] — `هاد` · guide
-- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
+- [[nqDt - break]] — `نَقَضَتْ` · break
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[ySl - joined]] — `يَصِلُ` · joined
 - [[mAb - place return]] — `مَآب` · place return
 - [[>EmY - blind]] — `أَعْمَى` · blind
-- [[nqDt - break]] — `نَقَضَتْ` · break
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Zl - shade]] — `ظِلّ` · shade
-- [[bAsT - stretch]] — `باسِط` · stretch
-- [[TwE - willingly]] — `طَوْع` · willingly
-- [[tlY - recited]] — `تَلَى` · recited
-- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
+- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[swA' - it same]] — `سَواء` · it same
+- [[mhAd - resting place]] — `مِهاد` · resting place
+- [[slAm - peace]] — `سَلام` · peace
+- [[$ms - sun]] — `شَمْس` · sun
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[AtY - give]] — `آتَى` · give
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[>nvY - female]] — `أُنثَى` · female
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[kbyr - great]] — `كَبِير` · great
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[xwf - fear]] — `خَوْف` · fear
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[nwr - light]] — `نُور` · light
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[mkv - stay here]] — `مَكَثَ` · stay here
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[dEA - call]] — `دَعا` · call
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[smY - name them]] — `سَمَّى` · name them
 
 ## Roots
 

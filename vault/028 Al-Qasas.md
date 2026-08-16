@@ -14,31 +14,31 @@ The Stories · 88 ayahs
 
 ## Words in this surah (graph)
 
-- [[<HdY - one them]] — `إِحْدَى` · one them
-- [[sqY - water]] — `سَقَى` · water
-- [[jAnb - side]] — `جانِب` · side
 - [[mdyn - madyan]] — `مَدْيَن` · madyan
-- [[wArv - inheritors]] — `وارِث` · inheritors
-- [[brhAn - proof]] — `بُرْهان` · proof
-- [[$yEp - sects]] — `شِيعَة` · sects
-- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[Twr - mount]] — `طُور` · mount
-- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
-- [[<mAm - leaders]] — `إِمام` · leaders
-- [[fsAd - corruption]] — `فَساد` · corruption
-- [[mk - we established]] — `مَكَّ` · we established
+- [[sqY - water]] — `سَقَى` · water
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[jAnb - side]] — `جانِب` · side
 - [[ym - sea]] — `يَمّ` · sea
+- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
 - [[mdynp - city]] — `مَدِينَة` · city
-- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[brhAn - proof]] — `بُرْهان` · proof
 - [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[qDY - surely]] — `قَضَى` · surely
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Emy - blind]] — `عَمِيَ` · blind
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[$yEp - sects]] — `شِيعَة` · sects
+- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
+- [[fsAd - corruption]] — `فَساد` · corruption
+- [[wArv - inheritors]] — `وارِث` · inheritors
+- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[<mAm - leaders]] — `إِمام` · leaders
+- [[mk - we established]] — `مَكَّ` · we established
+- [[Twr - mount]] — `طُور` · mount
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[tnkH - marry]] — `تُنكِحُ` · marry
+- [[*nb - sins]] — `ذَنب` · sins
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[sbyl - way]] — `سَبِيل` · way
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

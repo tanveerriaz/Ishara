@@ -15,30 +15,30 @@ Ta-Ha · 135 ayahs
 ## Words in this surah (graph)
 
 - [[TgY - has transgressed]] — `طَغَى` · has transgressed
-- [[>xlf - break]] — `أَخْلَفُ` · break
 - [[>bqY - more lasting]] — `أَبْقَى` · more lasting
+- [[>xlf - break]] — `أَخْلَفُ` · break
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[sEY - strive]] — `سَعَى` · strive
 - [[ym - sea]] — `يَمّ` · sea
 - [[Hll - lawful]] — `حَلَلْ` · lawful
-- [[sAHr - magician]] — `ساحِر` · magician
-- [[Ewj - crookedness]] — `عِوَج` · crookedness
-- [[Tryqp - way]] — `طَرِيقَة` · way
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[sbq - preceded]] — `سَبَقَ` · preceded
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[dl - direct you]] — `دَلَّ` · direct you
+- [[sEY - strive]] — `سَعَى` · strive
 - [[m$ - walk]] — `مَشَ` · walk
+- [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[>bY - he refused]] — `أَبَى` · he refused
 - [[wzr - burden]] — `وِزْر` · burden
+- [[q*f - cast him]] — `قَذَفَ` · cast him
 - [[EAkf - devoted]] — `عاكِف` · devoted
 - [[zynp - adornment]] — `زِينَة` · adornment
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[sAHr - magician]] — `ساحِر` · magician
+- [[sbq - preceded]] — `سَبَقَ` · preceded
 - [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[TAl - then]] — `طالَ` · then
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[Tryqp - way]] — `طَرِيقَة` · way
+- [[dl - direct you]] — `دَلَّ` · direct you
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>SHAb - companions]] — `أَصْحاب` · companions
 
 ## Roots
 

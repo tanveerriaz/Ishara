@@ -14,31 +14,31 @@ The Romans · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[bsT - extends]] — `بَسَطَ` · extends
 - [[qym - right]] — `قِيَم` · right
-- [[>vAr - plough]] — `أَثارُ` · plough
-- [[mnyb - turning]] — `مُنِيب` · turning
-- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
 - [[bd> - originates]] — `بَدَأَ` · originates
 - [[sAr - travel]] — `سارَ` · travel
-- [[Zhr - backs]] — `ظَهْر` · backs
+- [[mnyb - turning]] — `مُنِيب` · turning
+- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
+- [[>vAr - plough]] — `أَثارُ` · plough
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[swA' - it same]] — `سَواء` · it same
 - [[DEf - double]] — `ضِعْف` · double
-- [[Astxf - you find light]] — `اسْتَخَفَّ` · you find light
-- [[bHr - sea]] — `بَحْر` · sea
-- [[mwt - death]] — `مَوْت` · death
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[xwf - fear]] — `خَوْف` · fear
-- [[fTr - created me]] — `فَطَرَ` · created me
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[flk - ships]] — `فُلْك` · ships
-- [[qAm - stand]] — `قامَ` · stand
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[dEA - call]] — `دَعا` · call
-- [[>hwA' - desires]] — `أَهْواء` · desires
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[kyf - how]] — `كَيْف` · how
+- [[AtY - give]] — `آتَى` · give
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[ytklm - will speak]] — `يَتَكَلَّمُ` · will speak
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[ksf - fragments]] — `كِسَف` · fragments
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[fryq - party]] — `فَرِيق` · party
+- [[>sA' - does evil]] — `أَساءَ` · does evil
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[>$d - stronger]] — `أَشَدّ` · stronger
 - [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[sbyl - way]] — `سَبِيل` · way
+- [[mE*rp - absolved]] — `مَعْذِرَة` · absolved
 
 ## Roots
 

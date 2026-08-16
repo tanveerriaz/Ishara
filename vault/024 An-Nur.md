@@ -14,31 +14,31 @@ The Light · 64 ayahs
 
 ## Words in this surah (graph)
 
+- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[>rbE - forty]] — `أَرْبَع` · forty
 - [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[rmY - accuse]] — `رَمَى` · accuse
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[Hlm - dreams]] — `حُلُم` · dreams
-- [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[sHAb - clouds]] — `سَحاب` · clouds
-- [[vyAb - garments]] — `ثِياب` · garments
-- [[>zkY - purer]] — `أَزْكَى` · purer
-- [[nkAH - marriage]] — `نِكاح` · marriage
-- [[>xt - sisters]] — `أُخْت` · sisters
-- [[Tfl - as child]] — `طِفْل` · as child
-- [[ygD - lower]] — `يَغُضُّ` · lower
-- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
-- [[frj - chastity]] — `فَرْج` · chastity
-- [[>rbEp - four]] — `أَرْبَعَة` · four
 - [[HfZ - guard]] — `حِفْظ` · guard
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[ygD - lower]] — `يَغُضُّ` · lower
 - [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
+- [[>xt - sisters]] — `أُخْت` · sisters
+- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
+- [[mbynp - clear]] — `مُبَيِّنَة` · clear
+- [[>zkY - purer]] — `أَزْكَى` · purer
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[>rbEp - four]] — `أَرْبَعَة` · four
+- [[frj - chastity]] — `فَرْج` · chastity
+- [[vyAb - garments]] — `ثِياب` · garments
 - [[<fk - lie]] — `إِفْك` · lie
-- [[Aktsb - they earned]] — `اكْتَسَبَ` · they earned
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[$r - evil]] — `شَرّ` · evil
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Tfl - as child]] — `طِفْل` · as child
+- [[nkAH - marriage]] — `نِكاح` · marriage
+- [[$>n - any situation]] — `شَأْن` · any situation
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[ytklm - will speak]] — `يَتَكَلَّمُ` · will speak
+- [[tnkH - marry]] — `تُنكِحُ` · marry
+- [[>qAm - establish]] — `أَقامَ` · establish
 
 ## Roots
 

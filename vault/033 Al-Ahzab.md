@@ -14,31 +14,31 @@ The Combined Forces · 73 ayahs
 
 ## Words in this surah (graph)
 
-- [[Hrj - any blame]] — `حَرَج` · any blame
-- [[mrD - disease]] — `مَرَض` · disease
 - [[ysyr - easy]] — `يَسِير` · easy
 - [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[nkH - marry]] — `نَكَحَ` · marry
-- [[bnt - daughters]] — `بِنْت` · daughters
+- [[Hrj - any blame]] — `حَرَج` · any blame
+- [[mrD - disease]] — `مَرَض` · disease
 - [[frAr - flight]] — `فِرار` · flight
-- [[EAhd - they took]] — `عاهَدَ` · they took
-- [[frD - undertakes]] — `فَرَضَ` · undertakes
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
 - [[tbdyl - change]] — `تَبْدِيل` · change
-- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
-- [[jmyl - good]] — `جَمِيل` · good
-- [[Hzb - party]] — `حِزْب` · party
+- [[EAhd - they took]] — `عاهَدَ` · they took
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
 - [[snp - way]] — `سُنَّة` · way
-- [[DEf - double]] — `ضِعْف` · double
-- [[mwt - death]] — `مَوْت` · death
-- [[wd - wished]] — `وَدَّ` · wished
-- [[Aktsb - they earned]] — `اكْتَسَبَ` · they earned
-- [[qDY - surely]] — `قَضَى` · surely
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[rsAlp - messages]] — `رِسالَة` · messages
+- [[jmyl - good]] — `جَمِيل` · good
+- [[frD - undertakes]] — `فَرَضَ` · undertakes
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
+- [[nkH - marry]] — `نَكَحَ` · marry
+- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[Hzb - party]] — `حِزْب` · party
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>*hb - remove]] — `أَذْهَبَ` · remove
+- [[*nb - sins]] — `ذَنب` · sins
+- [[fryq - party]] — `فَرِيق` · party
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[sbyl - way]] — `سَبِيل` · way
 
 ## Roots
 

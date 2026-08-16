@@ -15,30 +15,30 @@ Sheba · 54 ayahs
 ## Words in this surah (graph)
 
 - [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[*rp - atom]] — `ذَرَّة` · atom
 - [[dl - direct you]] — `دَلَّ` · direct you
-- [[q*f - cast him]] — `قَذَفَ` · cast him
+- [[mvqAl - weight]] — `مِثْقال` · weight
 - [[fzE - terror]] — `فَزَع` · terror
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[mvqAl - weight]] — `مِثْقال` · weight
 - [[$k - doubt]] — `شَكّ` · doubt
-- [[>lHq - join me]] — `أَلْحَقْ` · join me
+- [[*rp - atom]] — `ذَرَّة` · atom
+- [[q*f - cast him]] — `قَذَفَ` · cast him
+- [[blg - he reached]] — `بَلَغَ` · he reached
 - [[mkAn - place]] — `مَكان` · place
+- [[$mAl - left]] — `شِمال` · left
+- [[zAg - deviated]] — `زاغَ` · deviated
 - [[DEf - double]] — `ضِعْف` · double
-- [[tlY - recited]] — `تَلَى` · recited
-- [[mwt - death]] — `مَوْت` · death
-- [[qlyl - little]] — `قَلِيل` · little
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[qDY - surely]] — `قَضَى` · surely
-- [[kbyr - great]] — `كَبِير` · great
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
+- [[AtY - give]] — `آتَى` · give
+- [[jn - covered]] — `جَنَّ` · covered
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
+- [[qlyl - little]] — `قَلِيل` · little
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[sEY - strive]] — `سَعَى` · strive
+- [[ksf - fragments]] — `كِسَف` · fragments
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
 
 ## Roots
 

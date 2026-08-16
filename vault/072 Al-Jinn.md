@@ -15,30 +15,30 @@ The Jinn · 28 ayahs
 ## Words in this surah (graph)
 
 - [[r$d - right path]] — `رُشْد` · right path
-- [[rsAlp - messages]] — `رِسالَة` · messages
 - [[Edd - number]] — `عَدَد` · number
+- [[rsAlp - messages]] — `رِسالَة` · messages
 - [[Tryqp - way]] — `طَرِيقَة` · way
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[lms - sought touch]] — `لَمَسُ` · sought touch
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[$r - evil]] — `شَرّ` · evil
-- [[qAm - stand]] — `قامَ` · stand
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[SAHbp - wife]] — `صاحِبَة` · wife
-- [[dEA - call]] — `دَعا` · call
-- [[qryb - near]] — `قَرِيب` · near
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[$hAb - burning flame]] — `شِهاب` · burning flame
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[jn - covered]] — `جَنَّ` · covered
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[zAd - increase]] — `زادَ` · increase
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
 - [[allah - God]] — `الله` · God
-- [[mA' - water]] — `ماء` · water
-- [[yEjz - escape]] — `يُعْجِزَ` · escape
-- [[kl - every]] — `كُلّ` · every
-- [[nASr - helpers]] — `ناصِر` · helpers
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[blAg - conveyance]] — `بَلاغ` · conveyance
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[$r - evil]] — `شَرّ` · evil
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
+- [[ArtDY - he approves]] — `ارْتَضَى` · he approves
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[msjd - al-masjid]] — `مَسْجِد` · al-masjid
+- [[rjAl - men]] — `رِجال` · men
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
+- [[xAf - fear]] — `خافَ` · fear
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 

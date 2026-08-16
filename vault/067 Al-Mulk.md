@@ -14,31 +14,31 @@ The Sovereignty · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[krp - return]] — `كَرَّة` · return
-- [[mwt - death]] — `مَوْت` · death
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[kbyr - great]] — `كَبِير` · great
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[>jr - reward]] — `أَجْر` · reward
-- [[fAr - overflowed]] — `فارَ` · overflowed
-- [[$Y' - thing]] — `شَىْء` · thing
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
 - [[ydE - they call]] — `يَدَّعُ` · they call
-- [[SAfp - wings outspread]] — `صافَّة` · wings outspread
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[mSbAH - lamp]] — `مِصْباح` · lamp
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[kyf - how]] — `كَيْف` · how
-- [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[allah - God]] — `الله` · God
-- [[mA' - water]] — `ماء` · water
+- [[n$wr - resurrection]] — `نُشُور` · resurrection
 - [[mEyn - water springs]] — `مَعِين` · water springs
-- [[Tbq - stage]] — `طَبَق` · stage
-- [[nSr - help]] — `نَصَرَ` · help
-- [[kl - every]] — `كُلّ` · every
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[*r> - multiplied you]] — `ذَرَأَ` · multiplied you
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[*nb - sins]] — `ذَنب` · sins
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[Tyr - birds]] — `طَيْر` · birds
+- [[allah - God]] — `الله` · God
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[qbD - withholds]] — `قَبَضْ` · withholds
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[$kr - grateful]] — `شَكَرَ` · grateful
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qbl - before]] — `قَبْل` · before
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[sEyr - blaze]] — `سَعِير` · blaze
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[fwj - troop]] — `فَوْج` · troop
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

@@ -14,31 +14,31 @@ The Crouching · 37 ayahs
 
 ## Words in this surah (graph)
 
-- [[tlY - recited]] — `تَلَى` · recited
-- [[bHr - sea]] — `بَحْر` · sea
-- [[mwt - death]] — `مَوْت` · death
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[qDY - surely]] — `قَضَى` · surely
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[flk - ships]] — `فُلْك` · ships
-- [[nbwp - prophethood]] — `نُبُوَّة` · prophethood
-- [[qAm - stand]] — `قامَ` · stand
-- [[gr - deceive you]] — `غَرَّ` · deceive you
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[mAt - died]] — `ماتَ` · died
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[>hwA' - desires]] — `أَهْواء` · desires
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[ynTq - speak]] — `يَنطِقُ` · speak
 - [[ryb - doubt]] — `رَيْب` · doubt
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[Tybp - good things]] — `طَيِّبَة` · good things
-- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
+- [[swA' - it same]] — `سَواء` · it same
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[AtY - give]] — `آتَى` · give
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[mAt - died]] — `ماتَ` · died
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[>sA' - does evil]] — `أَساءَ` · does evil
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[allah - God]] — `الله` · God
-- [[>Sr - they persist]] — `أَصَرُّ` · they persist
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[$kr - grateful]] — `شَكَرَ` · grateful
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[bv - dispersing]] — `بَثَّ` · dispersing
 
 ## Roots
 

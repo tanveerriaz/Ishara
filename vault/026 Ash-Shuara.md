@@ -16,29 +16,29 @@ The Poets · 227 ayahs
 
 - [[>myn - trustworthy]] — `أَمِين` · trustworthy
 - [[gAlb - victorious]] — `غالِب` · victorious
-- [[ESA - staff]] — `عَصا` · staff
 - [[gAwy - deviators]] — `غاوي` · deviators
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
+- [[ESA - staff]] — `عَصا` · staff
 - [[mn*r - warners]] — `مُنذِر` · warners
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
-- [[mnqlb - will return]] — `مُنقَلِب` · will return
-- [[mElwm - known]] — `مَعْلُوم` · known
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[xTy}p - sins]] — `خَطِيئَة` · sins
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
-- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[yTmE - hope]] — `يَطْمَعُ` · hope
 - [[DAl - astray]] — `ضالّ` · astray
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[>njY - we saved]] — `أَنجَى` · we saved
-- [[tqlb - movement]] — `تَقَلُّب` · movement
-- [[wArv - inheritors]] — `وارِث` · inheritors
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[Eql - use reason]] — `عَقَلُ` · use reason
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[m$rq - east]] — `مَشْرِق` · east
+- [[xTy}p - sins]] — `خَطِيئَة` · sins
+- [[mE*b - will punished]] — `مُعَذِّب` · will punished
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[mnqlb - will return]] — `مُنقَلِب` · will return
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[*nb - sins]] — `ذَنب` · sins
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[AnthY - you desist]] — `انتَهَى` · you desist
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
 
 ## Roots
 

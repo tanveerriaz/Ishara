@@ -14,31 +14,31 @@ The Prostration · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[mwt - death]] — `مَوْت` · death
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[xwf - fear]] — `خَوْف` · fear
-- [[qrn - generations]] — `قَرْن` · generations
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[Ed - you count]] — `عَدَّ` · you count
-- [[qrp - comfort]] — `قُرَّة` · comfort
-- [[<nsAn - man]] — `إِنسان` · man
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[dEA - call]] — `دَعا` · call
-- [[mryp - doubt]] — `مِرْيَة` · doubt
-- [[jnb - sides]] — `جَنب` · sides
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
 - [[ryb - doubt]] — `رَيْب` · doubt
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[allah - God]] — `الله` · God
-- [[mA' - water]] — `ماء` · water
-- [[kl - every]] — `كُلّ` · every
-- [[>*Aq - surely]] — `أَذاقَ` · surely
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[snp - years]] — `سَنَة` · years
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[<nsAn - man]] — `إِنسان` · man
+- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
+- [[AtY - give]] — `آتَى` · give
 - [[ynZr - will reprieved]] — `يُنظَرُ` · will reprieved
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>jmE - all]] — `أَجْمَع` · all
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[$kr - grateful]] — `شَكَرَ` · grateful
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[qbl - before]] — `قَبْل` · before
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[mntZr - ones wait]] — `مُنتَظِر` · ones wait
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

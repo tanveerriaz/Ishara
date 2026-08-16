@@ -14,31 +14,31 @@ The Nightcommer · 17 ayahs
 
 ## Words in this surah (graph)
 
-- [[njm - stars]] — `نَجْم` · stars
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[mhl - like molten brass]] — `مُهْل` · like molten brass
 - [[<nsAn - man]] — `إِنسان` · man
-- [[Slb - loins]] — `صُلْب` · loins
+- [[mA' - water]] — `ماء` · water
+- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[nASr - helpers]] — `ناصِر` · helpers
+- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[blw - test you]] — `بَلَوْ` · test you
 - [[nZr - see]] — `نَظَرَ` · see
-- [[byn - between them]] — `بَيْن` · between them
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[ywm - day]] — `يَوْم` · day
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[qwl - speech]] — `قَوْل` · speech
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mA' - water]] — `ماء` · water
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[kl - every]] — `كُلّ` · every
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[kyd - plot]] — `كَيْد` · plot
 - [[rjE - return]] — `رَجَعَ` · return
-- [[nASr - helpers]] — `ناصِر` · helpers
+- [[kl - every]] — `كُلّ` · every
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[qwl - speech]] — `قَوْل` · speech
+- [[kyd - plot]] — `كَيْد` · plot
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[mhl - like molten brass]] — `مُهْل` · like molten brass
+- [[qwp - strength]] — `قُوَّة` · strength
 - [[qAdr - able]] — `قادِر` · able
+- [[byn - between them]] — `بَيْن` · between them
 - [[>rD - earth]] — `أَرْض` · earth
+- [[njm - stars]] — `نَجْم` · stars
+- [[ywm - day]] — `يَوْم` · day
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[Slb - loins]] — `صُلْب` · loins
 - [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[xlq - creation]] — `خَلَقَ` · creation
 
 ## Roots
 

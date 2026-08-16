@@ -15,30 +15,30 @@ The Pen · 52 ayahs
 ## Words in this surah (graph)
 
 - [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[gd - tomorrow]] — `غَدَ` · tomorrow
 - [[sjwd - prostrate]] — `سُجُود` · prostrate
 - [[mSbH - morning]] — `مُصْبِح` · morning
-- [[mgrm - debt]] — `مَغْرَم` · debt
-- [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[tlY - recited]] — `تَلَى` · recited
-- [[wd - wished]] — `وَدَّ` · wished
-- [[>jr - reward]] — `أَجْر` · reward
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
+- [[gd - tomorrow]] — `غَدَ` · tomorrow
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[kyd - plot]] — `كَيْد` · plot
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[sbyl - way]] — `سَبِيل` · way
 - [[AdArk - arrested]] — `ادّارَكَ` · arrested
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[kyf - how]] — `كَيْف` · how
-- [[TA}f - circumambulate]] — `طائِف` · circumambulate
+- [[jnp - gardens]] — `جَنَّة` · gardens
 - [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[kl - every]] — `كُلّ` · every
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[wd - wished]] — `وَدَّ` · wished
+- [[ybdl - would change them]] — `يُبْدِلَ` · would change them
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[AjtbY - chooses]] — `اجْتَبَى` · chooses
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Elm - know]] — `عَلِمَ` · know
 - [[SAdq - truthful]] — `صادِق` · truthful
-- [[xyr - better]] — `خَيْر` · better
-- [[nAdY - he called]] — `نادَى` · he called
-- [[mslm - muslims]] — `مُسْلِم` · muslims
-- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
+- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[*lp - humiliation]] — `ذِلَّة` · humiliation
+- [[nb* - threw away]] — `نَبَذَ` · threw away
+- [[bSr - vision]] — `بَصَر` · vision
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
 
 ## Roots
 

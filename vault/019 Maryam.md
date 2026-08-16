@@ -14,31 +14,31 @@ Mary · 98 ayahs
 
 ## Words in this surah (graph)
 
-- [[whb - grant]] — `وَهَبَ` · grant
 - [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[whb - grant]] — `وَهَبَ` · grant
 - [[glAm - boy]] — `غُلام` · boy
 - [[wrv - will inherit]] — `وَرِثَ` · will inherit
 - [[swy - even]] — `سَوِيّ` · even
-- [[qrn - generations]] — `قَرْن` · generations
-- [[Ed - you count]] — `عَدَّ` · you count
+- [[EbAdt - worship]] — `عِبادَت` · worship
+- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[xr - fell down]] — `خَرَّ` · fell down
 - [[yHyY - will yahya]] — `يَحْيَى` · will yahya
-- [[Aty - surely coming]] — `آتِي` · surely coming
 - [[bkrp - morning]] — `بُكْرَة` · morning
-- [[bgy - rebellion]] — `بَغْي` · rebellion
-- [[Ely - high]] — `عَلِيّ` · high
-- [[E$y - evening]] — `عَشِيّ` · evening
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[qrn - generations]] — `قَرْن` · generations
+- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
+- [[>bSr - see]] — `أَبْصَرَ` · see
 - [[dEA' - call]] — `دُعاء` · call
+- [[Aty - surely coming]] — `آتِي` · surely coming
 - [[md - spread]] — `مَدَّ` · spread
 - [[lsAn - tongues]] — `لِسان` · tongues
+- [[Ely - high]] — `عَلِيّ` · high
 - [[Sdyq - truthful]] — `صِدِّيق` · truthful
-- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
-- [[jbAr - tyrant]] — `جَبّار` · tyrant
-- [[>bSr - see]] — `أَبْصَرَ` · see
-- [[EbAdt - worship]] — `عِبادَت` · worship
-- [[xr - fell down]] — `خَرَّ` · fell down
-- [[mkAn - place]] — `مَكان` · place
-- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
-- [[dAm - as long as]] — `دامُ` · as long as
+- [[bgy - rebellion]] — `بَغْي` · rebellion
+- [[E$y - evening]] — `عَشِيّ` · evening
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[<nsAn - man]] — `إِنسان` · man
+- [[blg - he reached]] — `بَلَغَ` · he reached
 
 ## Roots
 

@@ -14,31 +14,31 @@ The Inevitable · 96 ayahs
 
 ## Words in this surah (graph)
 
-- [[nEym - delight]] — `نَعِيم` · delight
+- [[mknwn - well-protected]] — `مَكْنُون` · well-protected
 - [[mqrb - brought near]] — `مُقَرَّب` · brought near
 - [[mk*b - deniers]] — `مُكَذِّب` · deniers
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
-- [[mknwn - well-protected]] — `مَكْنُون` · well-protected
 - [[$Arb - drinkers]] — `شارِب` · drinkers
-- [[>trAb - well-matched]] — `أَتْراب` · well-matched
-- [[mgrm - debt]] — `مَغْرَم` · debt
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[mwt - death]] — `مَوْت` · death
-- [[njm - stars]] — `نَجْم` · stars
-- [[bkr - virgins]] — `بِكْر` · virgins
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[smwm - scorching fire]] — `سَمُوم` · scorching fire
-- [[Hwr - fair ones]] — `حُور` · fair ones
-- [[EZym - great]] — `عَظِيم` · great
-- [[mAt - died]] — `ماتَ` · died
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[mA' - water]] — `ماء` · water
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[$mAl - left]] — `شِمال` · left
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[slAm - peace]] — `سَلام` · peace
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[mEyn - water springs]] — `مَعِين` · water springs
+- [[qlyl - little]] — `قَلِيل` · little
+- [[nZr - see]] — `نَظَرَ` · see
+- [[frA$ - couches]] — `فِراش` · couches
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[mAt - died]] — `ماتَ` · died
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[lHm - flesh]] — `لَحْم` · flesh
+- [[Tyr - birds]] — `طَيْر` · birds
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[qyl - saying]] — `قِيل` · saying
+- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
 
 ## Roots
 

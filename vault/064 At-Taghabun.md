@@ -14,31 +14,31 @@ The Mutual Disillusion · 18 ayahs
 
 ## Words in this surah (graph)
 
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[zEm - claim]] — `زَعَمَ` · claim
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[nwr - light]] — `نُور` · light
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[EZym - great]] — `عَظِيم` · great
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[wbAl - bad consequence]] — `وَبال` · bad consequence
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[>SHAb - companions]] — `أَصْحاب` · companions
 - [[allah - God]] — `الله` · God
-- [[Swrp - forms]] — `صُورَة` · forms
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[kl - every]] — `كُلّ` · every
-- [[xyr - better]] — `خَيْر` · better
-- [[blAg - conveyance]] — `بَلاغ` · conveyance
-- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
-- [[rb - lord]] — `رَبّ` · lord
-- [[rHym - merciful]] — `رَحِيم` · merciful
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[smA' - heavens]] — `سَماء` · heavens
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Hlym - forbearing]] — `حَلِيم` · forbearing
 - [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[qbl - before]] — `قَبْل` · before
+- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[nwr - light]] — `نُور` · light
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Elm - know]] — `عَلِمَ` · know
+- [[>SAb - befalls you]] — `أَصابَ` · befalls you
+- [[gfr - forgive]] — `غَفَرَ` · forgive
 
 ## Roots
 

@@ -15,30 +15,30 @@ The Smoke · 59 ayahs
 ## Words in this surah (graph)
 
 - [[Artqb - watch]] — `ارْتَقِبْ` · watch
-- [[bHr - sea]] — `بَحْر` · sea
-- [[mwt - death]] — `مَوْت` · death
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[blA' - was trial]] — `بَلاء` · was trial
-- [[bT$ - you seize]] — `بَطَشْ` · you seize
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[Hwr - fair ones]] — `حُور` · fair ones
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[bkt - weeping]] — `بَكَتْ` · weeping
 - [[ysr - ease]] — `يُسْر` · ease
+- [[swA' - it same]] — `سَواء` · it same
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[AtY - give]] — `آتَى` · give
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>jmE - all]] — `أَجْمَع` · all
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[allah - God]] — `الله` · God
-- [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[msrf - transgressors]] — `مُسْرِف` · transgressors
-- [[nSr - help]] — `نَصَرَ` · help
-- [[kl - every]] — `كُلّ` · every
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[SAdq - truthful]] — `صادِق` · truthful
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[fAkh - amusement]] — `فاكِه` · amusement
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[y&d - render]] — `يُؤَدِّ` · render
+- [[qbl - before]] — `قَبْل` · before
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[AxtAr - chose]] — `اخْتارَ` · chose
 
 ## Roots
 

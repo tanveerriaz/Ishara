@@ -15,30 +15,30 @@ She that is to be examined · 13 ayahs
 ## Words in this surah (graph)
 
 - [[mwdp - love]] — `مَوَدَّة` · love
-- [[wd - wished]] — `وَدَّ` · wished
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[fAt - escaped you]] — `فاتَ` · escaped you
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[mrDAt - pleasure]] — `مَرْضات` · pleasure
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[mqsT - act justly]] — `مُقْسِط` · act justly
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[swA' - it same]] — `سَواء` · it same
+- [[AtY - give]] — `آتَى` · give
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[dAr - home]] — `دار` · home
+- [[>SHAb - companions]] — `أَصْحاب` · companions
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[sbyl - way]] — `سَبِيل` · way
 - [[allah - God]] — `الله` · God
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[wd - wished]] — `وَدَّ` · wished
 - [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[<xrAj - eviction]] — `إِخْراج` · eviction
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[Hll - lawful]] — `حَلَلْ` · lawful
-- [[jnAH - blame]] — `جُناح` · blame
-- [[>rHAm - wombs]] — `أَرْحام` · wombs
-- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
-- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
-- [[y}s - have despaired]] — `يَئِسَ` · have despaired
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
 
 ## Roots
 

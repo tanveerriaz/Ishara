@@ -14,31 +14,31 @@ The Hypocrites · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[mwt - death]] — `مَوْت` · death
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[yfqh - understand]] — `يَفْقَهُ` · understand
-- [[qryb - near]] — `قَرِيب` · near
-- [[allah - God]] — `الله` · God
-- [[kl - every]] — `كُلّ` · every
-- [[qwm - people]] — `قَوْم` · people
-- [[rb - lord]] — `رَبّ` · lord
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[r>s - heads]] — `رَأْس` · heads
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[tEAl - come]] — `تَعالَ` · come
-- [[Eml - do]] — `عَمِلَ` · do
-- [[ymyn - oaths]] — `يَمِين` · oaths
-- [[Sd - hinder]] — `صَدّ` · hinder
-- [[kAn - is]] — `كانَ` · is
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[qwl - speech]] — `قَوْل` · speech
-- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
-- [[xAsr - losers]] — `خاسِر` · losers
-- [[m&mn - believers]] — `مُؤْمِن` · believers
+- [[swA' - it same]] — `سَواء` · it same
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
+- [[sbyl - way]] — `سَبِيل` · way
+- [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezp - honor]] — `عِزَّة` · honor
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[qbl - before]] — `قَبْل` · before
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[TbE - were sealed]] — `طَبَعَ` · were sealed
+- [[>xr - we delay]] — `أَخَّرَ` · we delay
+- [[>jl - term]] — `أَجَل` · term
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[smE - hearing]] — `سَمْع` · hearing
+- [[yfqh - understand]] — `يَفْقَهُ` · understand
 
 ## Roots
 

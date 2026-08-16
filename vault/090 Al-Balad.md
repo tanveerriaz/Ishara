@@ -14,31 +14,31 @@ The City · 20 ayahs
 
 ## Words in this surah (graph)
 
-- [[qAl - say]] — `قالَ` · say
-- [[bld - city]] — `بَلَد` · city
-- [[wld - children]] — `وَلَد` · children
-- [[Hsb - think]] — `حَسْب` · think
-- [[Ayp - signs]] — `آيَة` · signs
-- [[hdY - guidance]] — `هَدَى` · guidance
+- [[nAr - fire]] — `نار` · fire
+- [[<nsAn - man]] — `إِنسان` · man
 - [[ytym - orphans]] — `يَتِيم` · orphans
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[<nsAn - man]] — `إِنسان` · man
 - [[jEl - we made]] — `جَعَلَ` · we made
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[lsAn - tongues]] — `لِسان` · tongues
-- [[nAr - fire]] — `نار` · fire
 - [[Sbr - patient]] — `صَبْر` · patient
-- [[ywm - day]] — `يَوْم` · day
-- [[kAn - is]] — `كانَ` · is
-- [[<TEAm - feeding]] — `إِطْعام` · feeding
 - [[xlq - creation]] — `خَلَقَ` · creation
-- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[Hsb - think]] — `حَسْب` · think
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
 - [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mskyn - needy]] — `مِسْكِين` · needy
 - [[mAl - wealth]] — `مال` · wealth
-- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Ayp - signs]] — `آيَة` · signs
 - [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[wAld - parents]] — `والِد` · parents
 - [[rqbp - slave]] — `رَقَبَة` · slave
+- [[wld - children]] — `وَلَد` · children
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[<TEAm - feeding]] — `إِطْعام` · feeding
+- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[mskyn - needy]] — `مِسْكِين` · needy
+- [[ywm - day]] — `يَوْم` · day
 
 ## Roots
 

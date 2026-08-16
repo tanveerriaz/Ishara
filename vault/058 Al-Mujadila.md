@@ -16,29 +16,29 @@ The Pleading Woman · 22 ayahs
 
 - [[njwY - private conversation]] — `نَجْوَى` · private conversation
 - [[EdwAn - transgression]] — `عُدْوان` · transgression
-- [[Efw - oft-pardoning]] — `عَفْو` · oft-pardoning
-- [[xmsp - five]] — `خَمْسَة` · five
-- [[wd - wished]] — `وَدَّ` · wished
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[$Y' - thing]] — `شَىْء` · thing
+- [[>Thr - purer]] — `أَطْهَر` · purer
+- [[AtY - give]] — `آتَى` · give
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[mhyn - humiliating]] — `مُهِين` · humiliating
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[sbyl - way]] — `سَبِيل` · way
 - [[Hdwd - limits]] — `حُدُود` · limits
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[qdm - feet]] — `قَدَّمَ` · feet
 - [[allah - God]] — `الله` · God
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[br - land]] — `بِرّ` · land
-- [[SyAm - fasting]] — `صِيام` · fasting
-- [[lys - not]] — `لَيْسَ` · not
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[kl - every]] — `كُلّ` · every
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
-- [[nsA' - women]] — `نِساء` · women
-- [[xyr - better]] — `خَيْر` · better
-- [[EAd - aad]] — `عادَ` · aad
-- [[qwm - people]] — `قَوْم` · people
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[qbl - before]] — `قَبْل` · before
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[wd - wished]] — `وَدَّ` · wished
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[Abn - son]] — `ابْن` · son
+- [[>rD - earth]] — `أَرْض` · earth
 
 ## Roots
 

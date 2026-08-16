@@ -15,30 +15,30 @@ Those who set the Ranks · 182 ayahs
 ## Words in this surah (graph)
 
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
-- [[krb - distress]] — `كَرْب` · distress
-- [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
-- [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
+- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
 - [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
-- [[mElwm - known]] — `مَعْلُوم` · known
-- [[bnt - daughters]] — `بِنْت` · daughters
+- [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
+- [[krb - distress]] — `كَرْب` · distress
 - [[<fk - lie]] — `إِفْك` · lie
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
 - [[mxlS - being sincere]] — `مُخْلِص` · being sincere
 - [[EZAm - bones]] — `عِظام` · bones
 - [[TlE - discover]] — `طَلَعَ` · discover
-- [[ms}wl - questioned]] — `مَسْئُول` · questioned
-- [[gAwy - deviators]] — `غاوي` · deviators
-- [[njm - stars]] — `نَجْم` · stars
-- [[sEy - effort]] — `سَعْي` · effort
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[EAml - working]] — `عامِل` · working
-- [[kwkb - stars]] — `كَوْكَب` · stars
-- [[qASrp - will companions modest]] — `قاصِرَة` · will companions modest
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[whb - grant]] — `وَهَبَ` · grant
-- [[blA' - was trial]] — `بَلاء` · was trial
-- [[gAbr - remain behind]] — `غابِر` · remain behind
+- [[r'yA - vision]] — `رُءْيا` · vision
+- [[bEl - husbands]] — `بَعْل` · husbands
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[mA}p - hundred]] — `مِائَة` · hundred
+- [[swA' - it same]] — `سَواء` · it same
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[slAm - peace]] — `سَلام` · peace
+- [[AtY - give]] — `آتَى` · give
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[mEyn - water springs]] — `مَعِين` · water springs
+- [[$AEr - poet]] — `شاعِر` · poet
 
 ## Roots
 

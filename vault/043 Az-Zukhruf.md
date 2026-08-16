@@ -16,29 +16,29 @@ The Ornaments of Gold · 89 ayahs
 
 - [[qryn - companion]] — `قَرِين` · companion
 - [[Antqm - so we took]] — `انتَقَمْ` · so we took
-- [[dwn - besides]] — `دُون` · besides
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[Astxf - you find light]] — `اسْتَخَفَّ` · you find light
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[qDY - surely]] — `قَضَى` · surely
-- [[xwf - fear]] — `خَوْف` · fear
-- [[fTr - created me]] — `فَطَرَ` · created me
-- [[fDp - silver]] — `فِضَّة` · silver
-- [[flk - ships]] — `فُلْك` · ships
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[bT$ - you seize]] — `بَطَشْ` · you seize
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[ylAq - they meet]] — `يُلاقُ` · they meet
 - [[<nsAn - man]] — `إِنسان` · man
 - [[kZym - suppressor]] — `كَظِيم` · suppressor
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
-- [[xSm - opponents]] — `خَصْم` · opponents
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[kyf - how]] — `كَيْف` · how
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[kArh - averse]] — `كارِه` · averse
+- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
+- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
+- [[slAm - peace]] — `سَلام` · peace
+- [[AtY - give]] — `آتَى` · give
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>nvY - female]] — `أُنثَى` · female
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>sAwr - bracelets]] — `أَساوِر` · bracelets
+- [[>jmE - all]] — `أَجْمَع` · all
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[mnqlb - will return]] — `مُنقَلِب` · will return
+- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[sbyl - way]] — `سَبِيل` · way
+- [[allah - God]] — `الله` · God
+- [[>kvr - them]] — `أَكْثَر` · them
 
 ## Roots
 

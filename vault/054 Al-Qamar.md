@@ -16,29 +16,29 @@ The Moon · 55 ayahs
 
 - [[ysr - ease]] — `يُسْر` · ease
 - [[k*Ab - liar]] — `كَذّاب` · liar
-- [[zbr - scriptures]] — `زُبُر` · scriptures
 - [[mqtdr - all able]] — `مُقْتَدِر` · all able
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[kbyr - great]] — `كَبِير` · great
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[dEA - call]] — `دَعا` · call
-- [[>hwA' - desires]] — `أَهْواء` · desires
-- [[kyf - how]] — `كَيْف` · how
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[mA' - water]] — `ماء` · water
-- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
-- [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[bkrp - morning]] — `بُكْرَة` · morning
-- [[kl - every]] — `كُلّ` · every
+- [[zbr - scriptures]] — `زُبُر` · scriptures
+- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
 - [[ASTbr - constant]] — `اصْطَبِرْ` · constant
-- [[xyr - better]] — `خَيْر` · better
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[$kr - grateful]] — `شَكَرَ` · grateful
+- [[Sgyr - small]] — `صَغِير` · small
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qbl - before]] — `قَبْل` · before
+- [[qsmp - division]] — `قِسْمَة` · division
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
+- [[bSr - vision]] — `بَصَر` · vision
+- [[bAb - gate]] — `باب` · gate
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[ryH - wind]] — `رِيح` · wind
 
 ## Roots
 

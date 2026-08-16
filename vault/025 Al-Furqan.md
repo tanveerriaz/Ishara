@@ -14,31 +14,31 @@ The Criterion · 77 ayahs
 
 ## Words in this surah (graph)
 
-- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
 - [[n$wr - resurrection]] — `نُشُور` · resurrection
+- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
 - [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[m$ - walk]] — `مَشَ` · walk
 - [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
 - [[swq - markets]] — `سُوق` · markets
 - [[mqAm - place]] — `مَقام` · place
-- [[zwr - lie]] — `زُور` · lie
-- [[m$ - walk]] — `مَشَ` · walk
 - [[Hjr - stone]] — `حَجَر` · stone
-- [[mwt - death]] — `مَوْت` · death
-- [[Dyq - distress]] — `ضَيِّق` · distress
-- [[$r - evil]] — `شَرّ` · evil
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[mAt - died]] — `ماتَ` · died
-- [[mqrn - bound together]] — `مُقَرَّن` · bound together
-- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
-- [[Eql - use reason]] — `عَقَلُ` · use reason
-- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[zwr - lie]] — `زُور` · lie
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
 - [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[qmr - moon]] — `قَمَر` · moon
-- [[rHym - merciful]] — `رَحِيم` · merciful
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[myt - dead]] — `مَيِّت` · dead
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[*nb - sins]] — `ذَنب` · sins
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[sbyl - way]] — `سَبِيل` · way
+- [[zAd - increase]] — `زادَ` · increase
+- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
+- [[Elm - know]] — `عَلِمَ` · know
+- [[xlyl - as friend]] — `خَلِيل` · as friend
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[stp - six]] — `سِتَّة` · six
+- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
+- [[kfY - sufficient]] — `كَفَى` · sufficient
 
 ## Roots
 

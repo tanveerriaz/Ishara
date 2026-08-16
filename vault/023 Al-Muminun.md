@@ -16,29 +16,29 @@ The Believers · 118 ayahs
 
 - [[>n$> - we produced]] — `أَنشَأَ` · we produced
 - [[EZAm - bones]] — `عِظام` · bones
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
 - [[kvyrp - many]] — `كَثِيرَة` · many
 - [[rAHm - merciful]] — `راحِم` · merciful
-- [[gmrp - confusion]] — `غَمَرَة` · confusion
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[qAdr - able]] — `قادِر` · able
 - [[myzAn - scales]] — `مِيزان` · scales
-- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
 - [[trAb - dust]] — `تُراب` · dust
+- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[gmrp - confusion]] — `غَمَرَة` · confusion
 - [[E* - seek refuge]] — `عُذْ` · seek refuge
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
-- [[mwt - death]] — `مَوْت` · death
-- [[EAml - working]] — `عامِل` · working
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[tqTE - cut pieces]] — `تَقَطَّعَ` · cut pieces
-- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[mAt - died]] — `ماتَ` · died
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[qAdr - able]] — `قادِر` · able
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[yklf - we burden]] — `يُكَلِّفُ` · we burden
+- [[mEyn - water springs]] — `مَعِين` · water springs
+- [[fryq - party]] — `فَرِيق` · party
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[fwAkh - fruits]] — `فَواكِه` · fruits
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

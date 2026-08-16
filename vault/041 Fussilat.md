@@ -15,30 +15,30 @@ Explained in Detail · 54 ayahs
 ## Words in this surah (graph)
 
 - [[jlwd - skins]] — `جُلُود` · skins
-- [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
 - [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[tnzyl - revelation]] — `تَنزِيل` · revelation
-- [[wqr - deafness]] — `وَقْر` · deafness
 - [[<ns - men]] — `إِنس` · men
+- [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
+- [[tnzyl - revelation]] — `تَنزِيل` · revelation
 - [[Erby - arabic]] — `عَرَبِيّ` · arabic
-- [[TwE - willingly]] — `طَوْع` · willingly
-- [[mkAn - place]] — `مَكان` · place
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[EAml - working]] — `عامِل` · working
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[qDY - surely]] — `قَضَى` · surely
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[wqr - deafness]] — `وَقْر` · deafness
 - [[ydE - they call]] — `يَدَّعُ` · they call
-- [[ylHd - deviate]] — `يُلْحِدُ` · deviate
-- [[$r - evil]] — `شَرّ` · evil
-- [[ZlAm - unjust]] — `ظَلّام` · unjust
-- [[nzg - evil suggestion]] — `نَزَغَ` · evil suggestion
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
 - [[<nsAn - man]] — `إِنسان` · man
+- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
+- [[mkAn - place]] — `مَكان` · place
+- [[swA' - it same]] — `سَواء` · it same
+- [[AtY - give]] — `آتَى` · give
+- [[jn - covered]] — `جَنَّ` · covered
+- [[$ms - sun]] — `شَمْس` · sun
+- [[ylHd - deviate]] — `يُلْحِدُ` · deviate
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[>nvY - female]] — `أُنثَى` · female
+- [[rd - returned]] — `رَدَّ` · returned
+- [[qryn - companion]] — `قَرِين` · companion
+- [[HZ - part]] — `حَظّ` · part
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[dAr - home]] — `دار` · home
+- [[>sA' - does evil]] — `أَساءَ` · does evil
+- [[>$d - stronger]] — `أَشَدّ` · stronger
 
 ## Roots
 

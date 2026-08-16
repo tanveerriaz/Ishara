@@ -14,31 +14,31 @@ The Defrauding · 36 ayahs
 
 ## Words in this surah (graph)
 
+- [[mqrb - brought near]] — `مُقَرَّب` · brought near
 - [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 - [[>rA}k - couches]] — `أَرائِك` · couches
-- [[mqrb - brought near]] — `مُقَرَّب` · brought near
-- [[qAl - say]] — `قالَ` · say
-- [[$rb - drink]] — `شَرِبَ` · drink
-- [[>sATyr - tales]] — `أَساطِير` · tales
-- [[Ely - high]] — `عَلِيّ` · high
-- [[Erf - they recognize]] — `عَرَفَ` · they recognize
-- [[tlY - recited]] — `تَلَى` · recited
-- [[dyn - religion]] — `دِين` · religion
 - [[DAl - astray]] — `ضالّ` · astray
-- [[mk*b - deniers]] — `مُكَذِّب` · deniers
-- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
-- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
-- [[>jrm - committed crimes]] — `أَجْرَمُ` · committed crimes
-- [[Zn - assumption]] — `ظَنَّ` · assumption
-- [[qAm - stand]] — `قامَ` · stand
-- [[EZym - great]] — `عَظِيم` · great
-- [[nZr - see]] — `نَظَرَ` · see
-- [[wjh - faces]] — `وَجْه` · faces
+- [[ktAb - book]] — `كِتاب` · book
+- [[tlY - recited]] — `تَلَى` · recited
+- [[br - land]] — `بِرّ` · land
+- [[k*b - denied]] — `كَذَبَ` · denied
 - [[qlb - hearts]] — `قَلْب` · hearts
-- [[ywm - day]] — `يَوْم` · day
-- [[kAn - is]] — `كانَ` · is
-- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
+- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[>vym - sinful]] — `أَثِيم` · sinful
 - [[>wl - first]] — `أَوَّل` · first
+- [[rb - lord]] — `رَبّ` · lord
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[wzn - weigh]] — `وَزْن` · weigh
+- [[kl - every]] — `كُلّ` · every
+- [[nZr - see]] — `نَظَرَ` · see
+- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[>hl - people]] — `أَهْل` · people
+- [[EZym - great]] — `عَظِيم` · great
+- [[Ely - high]] — `عَلِيّ` · high
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 
